@@ -8,43 +8,48 @@ const KEY = process.env.RAPIDAPI_KEY;
 if (!KEY) { console.error("RAPIDAPI_KEY fehlt (als GitHub-Secret setzen)."); process.exit(1); }
 
 const HOST = "jsearch.p.rapidapi.com";
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// Erics Suchen — auf Profil, Regionen & Ziele abgestimmt. lane = Standard-Spur.
 const QUERIES = [
-  { q: "junior sales OR business development representative jobs in Zurich, Switzerland", lane: "tech" },
-  { q: "junior business development OR account manager jobs in Zug, Switzerland",         lane: "tech" },
-  { q: "junior sales OR marketing jobs in Basel, Switzerland",                            lane: "growth" },
-  { q: "junior growth marketing OR digital marketing jobs in Switzerland",                lane: "growth" },
-  { q: "junior customer success OR account manager jobs in Switzerland",                  lane: "tech" },
-  { q: "sales OR business development jobs in Geneva OR Lausanne, Switzerland",            lane: "westch" },
+  { q: "junior sales OR business development representative OR account manager jobs Zurich Switzerland", lane: "tech" },
+  { q: "junior sales OR customer success OR account manager jobs Zug OR Basel Switzerland", lane: "tech" },
+  { q: "junior growth marketing OR digital marketing OR marketing coordinator jobs Switzerland", lane: "growth" },
+  { q: "junior sales OR business development OR marketing jobs Geneva OR Lausanne Switzerland", lane: "westch" },
+  { q: "graduate OR trainee OR junior program Nestle OR Roche OR Novartis OR Glencore OR ABB OR Coca-Cola Switzerland", lane: "konzern" },
+  { q: "sales development representative OR business development representative jobs Switzerland", lane: "tech" },
 ];
 
-const RELEVANT = /(sales|business development|\bbdr\b|\bsdr\b|growth|marketing|customer success|account manager|account executive|commercial|partnership|product manager|project coordinator|junior)/i;
-const SENIOR = /(senior|lead|head|director|principal|vp|chief|manager of|expert|architect|premaster|pre-master)/i;
+const RELEVANT = /(sales|business development|\bbdr\b|\bsdr\b|growth|marketing|customer success|account manager|account executive|commercial|partnership|product manager|project coordinator|junior|graduate|trainee|praktik)/i;
+const SENIOR = /(senior|lead|head|director|principal|\bvp\b|chief|manager of|expert|architect|premaster|pre-master)/i;
 const JUNIOR = /(junior|entry|graduate|trainee|associate|representative|\bbdr\b|\bsdr\b|intern|praktik|einsteiger|nachwuchs)/i;
 const MID = /(manager|specialist|consultant|lead gen)/i;
 
 const ROMANDIE = /(gen[eè]ve|geneva|lausanne|vaud|neuch[aâ]tel|fribourg|sion|valais|montreux|nyon|morges|vevey|renens|pully)/i;
-const BIGBRAND = /(nestl|coca|glencore|roche|novartis|mettler|abb|sika|logitech|philip morris|\bpmi\b|swisscom|ubs|credit suisse|richemont|siemens|bosch|ingram|selecta|hitachi)/i;
-const COOLCO   = /(mammut|\bon\b|on ag|salesforce|google|scandit|frontify|beekeeper|nexthink|proton|getyourguide|v[aä]rdex|crypto|web3|climeworks)/i;
+const BIGBRAND = /(nestl|coca|glencore|roche|novartis|mettler|\babb\b|sika|logitech|philip morris|\bpmi\b|swisscom|\bubs\b|credit suisse|richemont|siemens|bosch|ingram|selecta|hitachi|firmenich|dsm|givaudan|lindt|sonova|zurich insurance)/i;
+const COOLCO = /(mammut|\bon\b|on ag|salesforce|google|scandit|frontify|beekeeper|nexthink|proton|getyourguide|v[aä]rdex|crypto|web3|climeworks)/i;
+// Konzerne mit starker Australien-Praesenz (fuer Transfer-/PR-Weg)
+const AUBRAND = /(nestl|roche|novartis|glencore|\babb\b|coca|logitech|philip morris|\bpmi\b|zurich insurance|sonova)/i;
 
 function classifyGate(title) {
   if (SENIOR.test(title)) return "r";
   if (JUNIOR.test(title)) return "g";
-  if (MID.test(title))    return "a";
+  if (MID.test(title)) return "a";
   return "g";
 }
 function classifyLane(title, city, remote, company, def) {
   if (remote || COOLCO.test(company)) return "cool";
-  if (ROMANDIE.test(city || "")) return "westch";
   if (BIGBRAND.test(company)) return "konzern";
+  if (ROMANDIE.test(city || "")) return "westch";
   if (/(growth|marketing|digital|crm|content|brand)/i.test(title)) return "growth";
   return def || "tech";
 }
-function why(title, city) {
+function why(title, city, company) {
   const c = city ? ` in ${city}` : "";
-  if (/growth|marketing|digital|crm/i.test(title)) return `Growth/Marketing-Rolle${c} - passt zu deinem Fokus.`;
-  if (/customer success|account/i.test(title))     return `Kundennaher Einstieg${c} - nutzt deine Kommunikationsstaerke.`;
-  return `Sales/Business-Development${c} - skalierbarer Einstieg, dein Kernpfad.`;
+  if (AUBRAND.test(company)) return `Konzern mit Australien-Praesenz${c} — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).`;
+  if (/growth|marketing|digital|crm/i.test(title)) return `Growth/Marketing-Rolle${c} — passt zu deinem Fokus.`;
+  if (/customer success|account/i.test(title)) return `Kundennaher Einstieg${c} — nutzt deine Kommunikationsstaerke.`;
+  return `Sales/Business-Development${c} — skalierbarer Einstieg, dein Kernpfad.`;
 }
 
 async function search(q) {
@@ -61,7 +66,7 @@ const jobs = [];
 for (const { q, lane } of QUERIES) {
   let data = [];
   try { data = await search(q); }
-  catch (e) { console.error(`Suche fehlgeschlagen (${q}): ${e.message}`); continue; }
+  catch (e) { console.error(`Suche fehlgeschlagen (${q}): ${e.message}`); }
 
   for (const d of data) {
     const title = d.job_title || "";
@@ -84,15 +89,16 @@ for (const { q, lane } of QUERIES) {
       gate: classifyGate(title),
       lane: classifyLane(title, city, remote, company, lane),
       cool: remote || COOLCO.test(company),
-      why: why(title, city),
+      why: why(title, city, company),
       u: link,
       posted: d.job_posted_at_datetime_utc || null,
     });
   }
+  await sleep(2500); // Pause, damit der Gratis-Plan nicht drosselt
 }
 
 jobs.sort((a, b) => (b.posted || "").localeCompare(a.posted || ""));
-const capped = jobs.slice(0, 40);
+const capped = jobs.slice(0, 45);
 
 if (capped.length === 0) {
   console.error("Keine Jobs gefunden - jobs.json wird NICHT ueberschrieben.");
