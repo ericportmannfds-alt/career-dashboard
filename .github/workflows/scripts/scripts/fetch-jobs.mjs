@@ -12,15 +12,17 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // Erics Suchen — auf Profil, Regionen & Ziele abgestimmt. lane = Standard-Spur.
 const QUERIES = [
-  { q: "junior sales OR business development representative OR account manager jobs Zurich Switzerland", lane: "tech" },
-  { q: "junior sales OR customer success OR account manager jobs Zug OR Basel Switzerland", lane: "tech" },
-  { q: "junior growth marketing OR digital marketing OR marketing coordinator jobs Switzerland", lane: "growth" },
-  { q: "junior sales OR business development OR marketing jobs Geneva OR Lausanne Switzerland", lane: "westch" },
-  { q: "graduate OR trainee OR junior program Nestle OR Roche OR Novartis OR Glencore OR ABB OR Coca-Cola Switzerland", lane: "konzern" },
-  { q: "sales development representative OR business development representative jobs Switzerland", lane: "tech" },
+  { q: "sales OR business development OR account manager jobs Zurich", lane: "tech" },
+  { q: "customer success OR inside sales OR account manager jobs Zug OR Basel", lane: "tech" },
+  { q: "marketing OR digital marketing OR growth OR communications jobs Zurich OR Bern", lane: "growth" },
+  { q: "sales OR business development OR marketing jobs Geneva OR Lausanne", lane: "westch" },
+  { q: "graduate program OR management trainee OR junior program jobs Switzerland", lane: "konzern" },
+  { q: "sales development representative OR account executive OR key account jobs Switzerland", lane: "tech" },
 ];
 
-const RELEVANT = /(sales|business development|\bbdr\b|\bsdr\b|growth|marketing|customer success|account manager|account executive|commercial|partnership|product manager|project coordinator|junior|graduate|trainee|praktik)/i;
+const RELEVANT = /(sales|verkauf|verkäuf|vertrieb|business development|geschäftsentwicklung|\bbdr\b|\bsdr\b|growth|marketing|kommunikation|communication|customer success|customer|kunden|account manager|account executive|key account|commercial|conseil|vente|partnership|product manager|product owner|project coordinator|project manager|projektleit|junior|graduate|trainee|praktik|intern|stage|stagiaire|einsteiger|nachwuchs|absolvent|consultant|berater|digital|e-commerce|content|brand|community)/i;
+// Klar themenfremde Rollen (Technik/Handwerk/Pflege) rauswerfen, damit der breitere Filter nicht flutet.
+const EXCLUDE = /(software|developer|entwickler|informatik|sysadmin|devops|data scientist|data engineer|pflege|krankenpfleg|\barzt\b|ärzt|koch|küche|reinigung|chauffeur|elektriker|monteur|mechanik|schreiner|maler|lagerist|produktionsmitarbeit|hilfskraft)/i;
 const SENIOR = /(senior|lead|head|director|principal|\bvp\b|chief|manager of|expert|architect|premaster|pre-master)/i;
 const JUNIOR = /(junior|entry|graduate|trainee|associate|representative|\bbdr\b|\bsdr\b|intern|praktik|einsteiger|nachwuchs)/i;
 const MID = /(manager|specialist|consultant|lead gen)/i;
@@ -68,9 +70,10 @@ for (const { q, lane } of QUERIES) {
   try { data = await search(q); }
   catch (e) { console.error(`Suche fehlgeschlagen (${q}): ${e.message}`); }
 
+  let kept = 0;
   for (const d of data) {
     const title = d.job_title || "";
-    if (!RELEVANT.test(title)) continue;
+    if (!RELEVANT.test(title) || EXCLUDE.test(title)) continue;
     const company = d.employer_name || "Unbekannt";
     const link = d.job_apply_link || d.job_google_link;
     if (!link) continue;
@@ -93,12 +96,14 @@ for (const { q, lane } of QUERIES) {
       u: link,
       posted: d.job_posted_at_datetime_utc || null,
     });
+    kept++;
   }
+  console.log(`[${lane}] ${data.length} roh -> ${kept} passend | "${q.slice(0, 48)}"`);
   await sleep(2500); // Pause, damit der Gratis-Plan nicht drosselt
 }
 
 jobs.sort((a, b) => (b.posted || "").localeCompare(a.posted || ""));
-const capped = jobs.slice(0, 45);
+const capped = jobs.slice(0, 60);
 
 if (capped.length === 0) {
   console.error("Keine Jobs gefunden - jobs.json wird NICHT ueberschrieben.");
