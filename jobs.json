@@ -1,39 +1,61 @@
 {
   "updated": "2026-08-18",
-  "source": "Automatisch aktualisiert - 3 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
+  "source": "Automatisch aktualisiert - 5 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
   "jobs": [
     {
-      "t": "Spécialiste en développement commercial",
-      "co": "FICOBA SA",
-      "loc": "Lausanne",
-      "gate": "g",
-      "lane": "westch",
-      "cool": false,
-      "why": "Sales/Business-Development in Lausanne - skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/sp%C3%A9cialiste-en-d%C3%A9veloppement-commercial-at-ficoba-sa-4454754524",
-      "posted": "2026-08-18T13:00:00.000Z"
-    },
-    {
-      "t": "Junior Sales Manager – Catering",
-      "co": "Ullrich Enterprise",
+      "t": "Sales Development Representative - Schweiz m/w/d",
+      "co": "Peter Park",
       "loc": "Schweiz",
       "gate": "g",
-      "lane": "growth",
+      "lane": "tech",
       "cool": false,
-      "why": "Sales/Business-Development in Schweiz - skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-2429-b1e40336885a4ebcfb244357792509e4",
-      "posted": "2026-08-10T00:00:00.000Z"
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobilize.com/job/ch-bern-sales-development-representative-schweiz-m-w-d-peter-park",
+      "posted": "2026-08-15T00:00:00.000Z"
     },
     {
-      "t": "Junior Sales Executive",
-      "co": "Michael Page",
+      "t": "Sales Development Representative - German Speaking",
+      "co": "SOPHiA GENETICS",
       "loc": "Schweiz",
       "gate": "g",
-      "lane": "growth",
+      "lane": "tech",
       "cool": false,
-      "why": "Sales/Business-Development in Schweiz - skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-9000-7c060bc796eb31597ba5252a0fccc60f",
-      "posted": "2026-07-28T00:00:00.000Z"
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/sales-development-representative-german-speaking-at-sophia-genetics-4437795784",
+      "posted": "2026-07-29T00:00:00.000Z"
+    },
+    {
+      "t": "Sales Development Representative (SDR) m/w/d (40-100%)",
+      "co": "cohaga AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.professional.ch/jobs/inserat/2822347-sales-development-representative-sdr-m-w-d-40-100",
+      "posted": "2026-07-27T00:00:00.000Z"
+    },
+    {
+      "t": "Sales Development Representative, DCI",
+      "co": "Jobgether",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-4100-5e97a7d7dc1691cc106d6efa8ccc5a06",
+      "posted": "2026-07-26T00:00:00.000Z"
+    },
+    {
+      "t": "Commercial Graduate Programme - Switzerland",
+      "co": "Glencore",
+      "loc": "Neuenburg",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Konzern mit Australien-Praesenz in Neuenburg — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).",
+      "u": "https://www.iamexpat.ch/career/jobs-switzerland/sales-positions/commercial-graduate-programme-switzerland/r5XY5Z5Px55XNrUKmtd7VU",
+      "posted": "2026-07-23T00:00:00.000Z"
     }
   ]
 }
