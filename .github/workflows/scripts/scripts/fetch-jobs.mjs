@@ -48,11 +48,11 @@ function why(title, city) {
 }
 
 async function search(q) {
-  const url = `https://${HOST}/search?query=${encodeURIComponent(q)}&page=1&num_pages=1&country=ch&date_posted=month`;
+  const url = `https://${HOST}/search-v2?query=${encodeURIComponent(q)}&page=1&num_pages=1&country=ch&date_posted=month`;
   const res = await fetch(url, { headers: { "x-rapidapi-key": KEY, "x-rapidapi-host": HOST } });
   if (!res.ok) throw new Error(`API ${res.status} ${res.statusText}`);
   const json = await res.json();
-  return json.data || [];
+  return json.data?.jobs || [];
 }
 
 const seen = new Set();
