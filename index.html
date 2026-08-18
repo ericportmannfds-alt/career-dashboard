@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eric · Career Command Center</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A7%AD%3C/text%3E%3C/svg%3E">
+<style>
+  :root{
+    --bg:#0E1B1A; --bg2:#12211F; --card:#16302C; --card2:#193A34;
+    --ink:#EAF3F0; --sub:#9FB6B0; --line:#25443E;
+    --teal:#3FC8A6; --teal2:#2E8B7A; --petrol:#123F39;
+    --gold:#E8B04B; --blue:#5EA9E6; --red:#E8746B; --violet:#B79BE6;
+    --shadow:0 10px 30px rgba(0,0,0,.35); --r:16px;
+  }
+  :root[data-theme="light"]{
+    --bg:#F3F6F5; --bg2:#EAF0EE; --card:#FFFFFF; --card2:#F6FAF9;
+    --ink:#132B27; --sub:#5C726C; --line:#DCE7E3;
+    --teal:#1F9D82; --teal2:#2E8B7A; --petrol:#123F39;
+    --shadow:0 8px 24px rgba(18,63,57,.10);
+  }
+  @media (prefers-color-scheme: light){
+    :root:not([data-theme="dark"]){
+      --bg:#F3F6F5; --bg2:#EAF0EE; --card:#FFFFFF; --card2:#F6FAF9;
+      --ink:#132B27; --sub:#5C726C; --line:#DCE7E3; --teal:#1F9D82;
+      --shadow:0 8px 24px rgba(18,63,57,.10);
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:radial-gradient(1200px 600px at 80% -10%,rgba(63,200,166,.10),transparent 60%),var(--bg);
+    color:var(--ink);font-family:"Segoe UI",system-ui,-apple-system,Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+  a{color:var(--teal);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px 80px}
+  nav{position:sticky;top:0;z-index:50;background:rgba(14,27,26,.82);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+  :root[data-theme="light"] nav{background:rgba(243,246,245,.9)}
+  @media (prefers-color-scheme: light){:root:not([data-theme="dark"]) nav{background:rgba(243,246,245,.9)}}
+  .nav-in{max-width:1180px;margin:0 auto;padding:10px 20px;display:flex;align-items:center;gap:13px;flex-wrap:wrap}
+  .brand{font-weight:700;letter-spacing:.3px;font-size:15px;margin-right:auto;display:flex;align-items:center;gap:9px}
+  .dot{width:10px;height:10px;border-radius:50%;background:var(--teal);box-shadow:0 0 12px var(--teal)}
+  .nav-in a.link{color:var(--sub);font-size:13px;padding:5px 2px;border-bottom:2px solid transparent}
+  .nav-in a.link:hover{color:var(--ink);text-decoration:none;border-color:var(--teal)}
+  .tgl{background:var(--card);border:1px solid var(--line);color:var(--sub);border-radius:20px;padding:5px 12px;font-size:12.5px;cursor:pointer}
+  header.hero{padding:38px 0 10px}
+  .eyebrow{color:var(--teal);font-weight:600;font-size:12.5px;letter-spacing:2px;text-transform:uppercase}
+  h1{font-size:30px;margin:8px 0 4px;letter-spacing:-.3px;text-wrap:balance}
+  .north{font-size:16px;color:var(--sub);max-width:760px}
+  .north b{color:var(--ink)}
+  .grid{display:grid;gap:16px}.g3{grid-template-columns:repeat(3,1fr)}.g2{grid-template-columns:repeat(2,1fr)}
+  @media(max-width:900px){.g3,.g2{grid-template-columns:1fr}}
+  .card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:var(--r);padding:18px;box-shadow:var(--shadow)}
+  .card h3{margin:0 0 4px;font-size:15px;display:flex;align-items:center;gap:8px}
+  .card .lead{font-size:13px;color:var(--sub);margin:0}
+  section{margin-top:34px;scroll-margin-top:70px}
+  .sec-h{display:flex;align-items:baseline;gap:12px;margin:0 0 14px;flex-wrap:wrap}
+  .sec-h h2{font-size:20px;margin:0;letter-spacing:-.2px}
+  .sec-h .hint{font-size:12.5px;color:var(--sub)}
+  .updated{font-size:12px;color:var(--teal);border:1px solid var(--line);background:var(--card);border-radius:999px;padding:3px 11px;font-weight:600}
+  .flow{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  @media(max-width:900px){.flow{grid-template-columns:1fr}}
+  .step{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;position:relative}
+  .step .n{position:absolute;top:-10px;left:14px;background:var(--teal);color:#062019;font-weight:800;font-size:12px;width:24px;height:24px;border-radius:50%;display:grid;place-items:center}
+  .step h4{margin:6px 0 6px;font-size:14.5px}.step p{margin:0;font-size:13px;color:var(--sub)}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--sub);margin:0 0 14px;padding:10px 14px;background:var(--card);border:1px solid var(--line);border-radius:12px}
+  .legend b{color:var(--ink)}
+  .lane-h{font-size:13px;font-weight:700;color:var(--ink);margin:22px 0 10px;display:flex;align-items:center;gap:8px}
+  .lane-h span.c{font-size:11px;color:var(--sub);font-weight:500}
+  .jobs{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+  @media(max-width:820px){.jobs{grid-template-columns:1fr}}
+  .job{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:13px 14px;display:flex;flex-direction:column;gap:7px}
+  .job.cool{border-color:rgba(232,176,75,.4);background:linear-gradient(180deg,var(--card),rgba(232,176,75,.05))}
+  .job .jtop{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+  .job .jt{font-weight:600;font-size:13.5px;line-height:1.3}
+  .job .jm{font-size:11.5px;color:var(--sub)}
+  .job .jw{font-size:12px;color:var(--sub);flex:1}
+  .job .jr{display:flex;align-items:center;gap:8px;margin-top:2px;flex-wrap:wrap}
+  .apply{background:var(--teal);color:#062019;font-weight:700;font-size:12px;border-radius:8px;padding:6px 11px;white-space:nowrap}
+  .apply:hover{text-decoration:none;filter:brightness(1.06)}
+  .track{background:transparent;border:1px solid var(--line);color:var(--sub);font-size:11.5px;border-radius:8px;padding:6px 10px;cursor:pointer}
+  .track:hover{border-color:var(--teal);color:var(--teal)}
+  .gate{font-size:10px;font-weight:700;padding:2px 8px;border-radius:6px;white-space:nowrap;flex-shrink:0}
+  .g-g{background:rgba(63,200,166,.16);color:var(--teal)}.g-a{background:rgba(232,176,75,.16);color:var(--gold)}.g-r{background:rgba(232,116,107,.16);color:var(--red)}
+  .btn{background:var(--teal);color:#062019;border:none;border-radius:10px;padding:9px 14px;font-weight:700;font-size:13px;cursor:pointer}
+  .btn.sec{background:var(--card);color:var(--ink);border:1px solid var(--line)}
+  .btn:hover{filter:brightness(1.05)}
+  .btn:focus-visible,.fbtn:focus-visible,.tgl:focus-visible,.track:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+  .toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+  .filters{display:flex;gap:6px;flex-wrap:wrap;margin-left:auto}
+  .fbtn{background:var(--card);border:1px solid var(--line);color:var(--sub);border-radius:999px;padding:6px 11px;font-size:12px;cursor:pointer}
+  .fbtn.active{background:var(--teal2);color:#062019;border-color:var(--teal2);font-weight:700}
+  .kpis{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}
+  @media(max-width:900px){.kpis{grid-template-columns:repeat(2,1fr)}}
+  .kpi{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;text-align:center}
+  .kpi .v{font-size:26px;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums}
+  .kpi .l{font-size:11.5px;color:var(--sub);text-transform:uppercase;letter-spacing:.6px;margin-top:2px}
+  .tblwrap{overflow-x:auto;border:1px solid var(--line);border-radius:14px}
+  table{border-collapse:collapse;width:100%;min-width:900px}
+  th{background:var(--bg2);color:var(--sub);font-size:11px;text-transform:uppercase;letter-spacing:.5px;text-align:left;padding:10px;border-bottom:1px solid var(--line);position:sticky;top:0}
+  td{padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:middle}
+  tr:hover td{background:rgba(63,200,166,.04)}
+  td input,td select{width:100%;background:transparent;border:1px solid transparent;border-radius:8px;color:var(--ink);font:inherit;font-size:12.5px;padding:6px 7px}
+  td input:focus,td select:focus{outline:none;border-color:var(--teal);background:var(--bg2)}
+  td input::placeholder{color:var(--sub);opacity:.6}
+  td select{cursor:pointer}td select option{background:var(--card);color:var(--ink)}
+  .del{background:transparent;border:none;color:var(--sub);cursor:pointer;font-size:16px;padding:4px 8px;border-radius:8px}
+  .del:hover{color:var(--red);background:rgba(232,116,107,.1)}
+  .llist{display:grid;gap:8px}
+  .lrow{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:11px;padding:10px 12px}
+  .lrow .kw{font-weight:600;font-size:13px}
+  .lrow .go{margin-left:auto;font-size:12px;background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:5px 10px;color:var(--teal);white-space:nowrap}
+  .lrow .go:hover{text-decoration:none;background:var(--teal2);color:#062019}
+  .tag{font-size:10.5px;color:var(--sub);border:1px solid var(--line);border-radius:6px;padding:2px 7px}
+  ul.tight{margin:8px 0 0;padding-left:18px}
+  ul.tight li{font-size:12.8px;color:var(--sub);margin-bottom:6px}ul.tight li b{color:var(--ink)}
+  .do,.dont{border-radius:12px;padding:14px 15px;border:1px solid var(--line)}
+  .do{background:rgba(63,200,166,.06)}.dont{background:rgba(232,116,107,.06)}
+  .do h4,.dont h4{margin:0 0 8px;font-size:13.5px}
+  .note{font-size:12px;color:var(--sub);border-left:2px solid var(--teal2);padding:4px 0 4px 12px;margin:10px 0}
+  .warn{background:rgba(232,176,75,.08);border:1px solid rgba(232,176,75,.3);border-radius:12px;padding:12px 14px;font-size:12.8px;color:var(--ink)}
+  .foot{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);font-size:12px;color:var(--sub);display:flex;flex-direction:column;gap:6px}
+  .save-hint{font-size:11.5px;color:var(--sub);margin-top:8px}
+  .loading{color:var(--sub);font-size:13px;padding:10px 0}
+  @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<nav>
+  <div class="nav-in">
+    <div class="brand"><span class="dot"></span> Career Command Center</div>
+    <a class="link" href="#treffer">Treffer</a>
+    <a class="link" href="#tracker">Tracker</a>
+    <a class="link" href="#suche">Live-Suche</a>
+    <a class="link" href="#firmen">Firmen</a>
+    <a class="link" href="#bewerbung">Bewerbung</a>
+    <a class="link" href="#ausland">Ausland</a>
+    <button class="tgl" id="themeBtn" type="button" aria-label="Hell/Dunkel umschalten">☀︎ / ☾</button>
+  </div>
+</nav>
+<div class="wrap">
+  <header class="hero">
+    <div class="eyebrow">Eric Portmann · beruflicher Kompass</div>
+    <h1>Ein Ort für dein ganzes Berufsthema.</h1>
+    <p class="north"><b>Nordstern:</b> das Leben eines jungen Lebemannes — frei, viel reisen, Sport, unter Leuten. Job, Studium und UX sind <b>Werkzeuge dafür</b>, nicht der Zweck.</p>
+  </header>
+
+  <section id="strategie">
+    <div class="sec-h"><h2>Die Strategie in 3 Zügen</h2><span class="hint">deine Gedanken, sortiert</span></div>
+    <div class="flow">
+      <div class="step"><span class="n">1</span><h4>Job = Priorität 1</h4><p>Gezielt bewerben: modern, hybrid/remote, Entwicklungs­potenzial (aufsteigen <i>oder</i> selbständig), in ZH/Zug/Basel/Bern oder Genf/Lausanne (Französisch schärfen).</p></div>
+      <div class="step"><span class="n">2</span><h4>Konzern-mit-🇦🇺 = Cheat-Code</h4><p>Grosser Arbeitgeber mit Australien-Standort → interner Transfer + Sponsoring (482→186) schlägt die DIY-Punkte-Route. Ohne Bachelor machbar.</p></div>
+      <div class="step"><span class="n">3</span><h4>Studium = flexibles Add-on</h4><p>Online-berufsbegleitend jederzeit nachziehbar — sogar aus dem Ausland. UX = günstige Nebenspur. Kein Muss jetzt.</p></div>
+    </div>
+    <div class="note">Faustregel: <b>~60% der Anforderungen reichen zum Bewerben.</b> Die meisten „X Jahre / Studium von Vorteil" sind eine Wunschliste, kein Filter.</div>
+  </section>
+
+  <section id="treffer">
+    <div class="sec-h"><h2>Aktuelle Treffer</h2><span class="updated" id="updated">lädt…</span></div>
+    <div class="legend">
+      <span>🟢 <b>Realistisch</b> — bewirb dich, du bist im Rahmen</span>
+      <span>🟡 <b>Stretch</b> — Longshot, mehr Erfahrung erwartet</span>
+      <span>🔴 <b>Studium/Erfahrung nötig</b> — eher später</span>
+    </div>
+    <div id="jobs-root"><div class="loading">Lade aktuelle Jobs…</div></div>
+    <div class="warn" style="margin-top:16px">🎯 <b>Fokus auf 🟢.</b> Bei 🟡/🔴 gilt: <b>Referral schlägt Portal</b> — kurze LinkedIn-Nachricht an den Recruiter umgeht den ATS-Filter. „In Tracker" fügt eine Stelle deinem Bewerbungsmanager hinzu.</div>
+  </section>
+
+  <section id="suche">
+    <div class="sec-h"><h2>Live-Suche (evergreen)</h2><span class="hint">zeigt bei jedem Klick die aktuellsten Inserate</span></div>
+    <div class="grid g2">
+      <div class="card"><h3>🇨🇭 Deutschschweiz · Zug · Basel</h3><div class="llist" id="searchLinks"></div></div>
+      <div class="card"><h3>🇫🇷 Romandie · Remote · Programme</h3><div class="llist" id="gradLinks"></div></div>
+    </div>
+  </section>
+
+  <section id="tracker">
+    <div class="sec-h"><h2>Bewerbungs-Tracker</h2><span class="hint">dein Bewerbungsmanager — bleibt auf diesem Gerät</span></div>
+    <div class="kpis" id="kpis">
+      <div class="kpi"><div class="v" id="k-total">0</div><div class="l">Ziele total</div></div>
+      <div class="kpi"><div class="v" id="k-app">0</div><div class="l">Beworben</div></div>
+      <div class="kpi"><div class="v" id="k-int">0</div><div class="l">Interviews</div></div>
+      <div class="kpi"><div class="v" id="k-off">0</div><div class="l">Angebote</div></div>
+      <div class="kpi"><div class="v" id="k-prio">0</div><div class="l">Prio Hoch offen</div></div>
+    </div>
+    <div class="toolbar" style="margin-top:14px">
+      <button class="btn" id="addBtn" type="button">+ Ziel hinzufügen</button>
+      <button class="btn sec" id="exportBtn" type="button">⭳ Backup (JSON)</button>
+      <button class="btn sec" id="resetBtn" type="button">↺ Leeren</button>
+      <div class="filters" id="filters">
+        <button class="fbtn active" type="button" data-f="all">Alle</button>
+        <button class="fbtn" type="button" data-f="Prospect">🔵 Prospect</button>
+        <button class="fbtn" type="button" data-f="Vorbereitung">📝 Vorb.</button>
+        <button class="fbtn" type="button" data-f="Beworben">📤 Beworben</button>
+        <button class="fbtn" type="button" data-f="Interview">📞 Interview</button>
+        <button class="fbtn" type="button" data-f="Angebot">✅ Angebot</button>
+      </div>
+    </div>
+    <div class="tblwrap"><table id="tbl"><thead><tr>
+      <th style="min-width:130px">Firma</th><th style="min-width:150px">Rolle</th><th style="min-width:90px">Ort</th>
+      <th style="min-width:120px">Link</th><th style="min-width:130px">Status</th><th style="min-width:80px">Prio</th>
+      <th style="min-width:160px">Nächster Schritt</th><th style="min-width:90px">Frist</th><th></th>
+    </tr></thead><tbody id="tbody"></tbody></table></div>
+    <p class="save-hint">💾 Gespeichert im Browser dieses Geräts. Backup → „Backup (JSON)".</p>
+  </section>
+
+  <section id="firmen">
+    <div class="sec-h"><h2>Zielfirmen</h2><span class="hint">Fit + Australien-Brücke + Sprach-Chance</span></div>
+    <div class="grid g3" id="companies"></div>
+  </section>
+
+  <section id="bewerbung">
+    <div class="sec-h"><h2>Bewerbungs-Goldstandard</h2><span class="hint">wie du bei jeder Bewerbung herausstichst</span></div>
+    <div class="grid g2">
+      <div class="do"><h4>✅ Stark</h4><ul class="tight">
+        <li><b>~60%-Regel:</b> „Muss"-Punkte + grob die Hälfte reichen.</li>
+        <li><b>Pro Stelle massschneidern</b> (Keywords aus dem Inserat) = 3× mehr Rückrufe.</li>
+        <li><b>Oberes Drittel:</b> Profil-Satz + 2–3 Erfolge mit Zahlen.</li>
+        <li><b>Referral schlägt Portal</b> — LinkedIn-Nachricht umgeht ATS.</li>
+      </ul></div>
+      <div class="dont"><h4>⛔ Kostet Interviews</h4><ul class="tight">
+        <li><b>ATS-Falle:</b> zweispaltig/Grafiken → online einspaltig, PDF (deine ATS-CVs sind fertig).</li>
+        <li><b>Gleiches CV für alle</b> — wird aussortiert.</li>
+        <li><b>Reine Tätigkeitslisten</b> ohne Zahlen.</li>
+      </ul></div>
+    </div>
+  </section>
+
+  <section id="ausland">
+    <div class="sec-h"><h2>Ausland &amp; Australien</h2><span class="hint">PR ohne Bachelor</span></div>
+    <div class="grid g2">
+      <div class="card"><h3>🎒 Kurz: Work &amp; Holiday (462)</h3><ul class="tight">
+        <li><b>KV reicht</b>, kein Bachelor · bis 30 J. · bis 1 Jahr arbeiten &amp; reisen.</li>
+        <li>Ideal zum Land testen (Sydney, Küste).</li>
+      </ul></div>
+      <div class="card"><h3>🏡 Dauerhaft ohne Bachelor: 482 → 186</h3><ul class="tight">
+        <li>Werde <b>„Sales &amp; Marketing Manager"</b> (steht auf der Berufsliste CSOL).</li>
+        <li>Skills-Assessment: VETASSESS (Diplom) oder IML (5 J. Erfahrung, davon 2 als Manager).</li>
+        <li>Firma mit AU-Standort → 2 J. auf 482 → permanente 186 (kein Punktetest). ⚠️ MARA-Agent beiziehen.</li>
+      </ul></div>
+    </div>
+  </section>
+
+  <div class="foot">
+    <span>🔄 <b>Selbst-aktualisierend:</b> Ein geplantes Skript holt regelmässig frische Jobs (jobs.ch, LinkedIn, Indeed u.a. via Job-API) und schreibt sie in <code>jobs.json</code> — diese Seite zeigt immer den neuesten Stand.</span>
+    <span class="save-hint" id="foot-updated"></span>
+  </div>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  var LS_APPS="ccc_apps_v1", LS_THEME="ccc_theme";
+  function lsGet(k){ try{ return localStorage.getItem(k); }catch(e){ return null; } }
+  function lsSet(k,v){ try{ localStorage.setItem(k,v); }catch(e){} }
+  var root=document.documentElement;
+  var savedT=lsGet(LS_THEME); if(savedT) root.setAttribute("data-theme",savedT);
+  document.getElementById("themeBtn").onclick=function(){
+    var cur=root.getAttribute("data-theme")==="light"?"light":(root.getAttribute("data-theme")==="dark"?"dark":(matchMedia("(prefers-color-scheme: light)").matches?"light":"dark"));
+    var next=cur==="light"?"dark":"light"; root.setAttribute("data-theme",next); lsSet(LS_THEME,next);
+  };
+
+  var LANES=[["cool","⭐ Cool / Remote / Aussergewöhnlich"],["tech","🚀 Tech / SaaS Sales & BD"],["growth","📈 Growth / Digital Marketing"],["westch","🇫🇷 Westschweiz & mehrsprachig"],["konzern","🏢 Grosse Marke / Konzern"]];
+  var GATE={g:["g-g","🟢 Realistisch"],a:["g-a","🟡 Stretch"],r:["g-r","🔴 Studium/Erf."]};
+  var STATUS=["Prospect","Vorbereitung","Beworben","Interview","Angebot","Absage"];
+  var STCOLOR={Prospect:"#5EA9E6",Vorbereitung:"#E8B04B",Beworben:"#3FC8A6",Interview:"#B79BE6",Angebot:"#3FC8A6",Absage:"#E8746B"};
+
+  /* ---------- LIVE JOBS from jobs.json ---------- */
+  var jroot=document.getElementById("jobs-root");
+  fetch("jobs.json?_="+Date.now()).then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
+    .then(function(data){ renderJobs(data); })
+    .catch(function(e){ jroot.innerHTML='<div class="warn">Konnte die Jobs gerade nicht laden ('+e.message+'). Nutze so lange die Live-Suche-Links unten — die sind immer aktuell.</div>'; document.getElementById("updated").textContent="—"; });
+
+  function renderJobs(data){
+    jroot.innerHTML="";
+    var jobs=(data&&data.jobs)||[];
+    var up=document.getElementById("updated");
+    up.textContent="🔄 aktualisiert: "+(data.updated||"—")+" · "+jobs.length+" Jobs";
+    document.getElementById("foot-updated").textContent="Datenstand: "+(data.updated||"—")+(data.source?(" · "+data.source):"");
+    LANES.forEach(function(L){
+      var items=jobs.filter(function(j){ return j.lane===L[0]; });
+      if(!items.length) return;
+      var h=document.createElement("div"); h.className="lane-h";
+      var cnt=document.createElement("span"); cnt.className="c"; cnt.textContent="· "+items.length+" Stellen";
+      h.appendChild(document.createTextNode(L[1])); h.appendChild(cnt); jroot.appendChild(h);
+      var g=document.createElement("div"); g.className="jobs";
+      items.forEach(function(j){
+        var c=document.createElement("div"); c.className="job"+(j.cool?" cool":"");
+        var top=document.createElement("div"); top.className="jtop";
+        var t=document.createElement("div"); t.className="jt"; t.textContent=j.t;
+        var gm=GATE[j.gate]||GATE.a; var gb=document.createElement("span"); gb.className="gate "+gm[0]; gb.textContent=gm[1];
+        top.appendChild(t); top.appendChild(gb);
+        var m=document.createElement("div"); m.className="jm"; m.textContent=j.co+" · "+j.loc;
+        var w=document.createElement("div"); w.className="jw"; w.textContent=j.why||"";
+        var r=document.createElement("div"); r.className="jr";
+        var a=document.createElement("a"); a.className="apply"; a.href=j.u; a.target="_blank"; a.rel="noopener"; a.textContent="Jetzt bewerben ↗";
+        var tr=document.createElement("button"); tr.className="track"; tr.type="button"; tr.textContent="+ In Tracker";
+        tr.onclick=function(){ addToTracker(j); tr.textContent="✓ hinzugefügt"; tr.disabled=true; };
+        r.appendChild(a); r.appendChild(tr);
+        c.appendChild(top); c.appendChild(m); c.appendChild(w); c.appendChild(r); g.appendChild(c);
+      });
+      jroot.appendChild(g);
+    });
+  }
+
+  /* ---------- TRACKER ---------- */
+  function clone(o){ return JSON.parse(JSON.stringify(o)); }
+  function load(){ var r=lsGet(LS_APPS); if(r){ try{ return JSON.parse(r); }catch(e){} } return []; }
+  var apps=load();
+  function save(){ lsSet(LS_APPS, JSON.stringify(apps)); renderKPIs(); }
+  function addToTracker(j){
+    var prio=j.gate==="g"?"Hoch":(j.gate==="r"?"Niedrig":"Mittel");
+    apps.unshift({firma:j.co,rolle:j.t,ort:(j.loc||"").split(" · ")[0],link:j.u,status:"Prospect",prio:prio,next:"Inserat prüfen & bewerben",frist:""});
+    save(); if(curFilter==="all") render();
+  }
+  var curFilter="all", tbody=document.getElementById("tbody");
+  function render(){
+    tbody.innerHTML="";
+    apps.forEach(function(a){
+      if(curFilter!=="all" && a.status!==curFilter) return;
+      var tr=document.createElement("tr");
+      tr.appendChild(cell(inp(a,"firma","Firma"))); tr.appendChild(cell(inp(a,"rolle","Rolle")));
+      tr.appendChild(cell(inp(a,"ort","Ort"))); tr.appendChild(cell(linkCell(a)));
+      tr.appendChild(cell(statusSel(a))); tr.appendChild(cell(prioSel(a)));
+      tr.appendChild(cell(inp(a,"next","…"))); tr.appendChild(cell(inp(a,"frist","")));
+      var td=document.createElement("td"); var b=document.createElement("button"); b.className="del"; b.type="button"; b.innerHTML="✕"; b.title="löschen";
+      b.onclick=function(){ apps.splice(apps.indexOf(a),1); save(); render(); };
+      td.appendChild(b); tr.appendChild(td); tbody.appendChild(tr);
+    });
+  }
+  function cell(el){ var td=document.createElement("td"); td.appendChild(el); return td; }
+  function inp(a,key,ph){ var el=document.createElement("input"); el.value=a[key]||""; el.placeholder=ph||""; el.oninput=function(){ a[key]=el.value; save(); }; return el; }
+  function linkCell(a){
+    var wrap=document.createElement("div"); wrap.style.display="flex"; wrap.style.alignItems="center"; wrap.style.gap="4px";
+    var el=document.createElement("input"); el.value=a.link||""; el.placeholder="URL"; el.style.flex="1"; el.oninput=function(){ a.link=el.value; save(); };
+    wrap.appendChild(el);
+    if(a.link){ var go=document.createElement("a"); go.href=a.link; go.target="_blank"; go.rel="noopener"; go.textContent="↗"; go.style.padding="0 4px"; wrap.appendChild(go); }
+    return wrap;
+  }
+  function statusSel(a){
+    var s=document.createElement("select");
+    STATUS.forEach(function(v){ var o=document.createElement("option"); o.value=v; o.textContent=v; if(a.status===v)o.selected=true; s.appendChild(o); });
+    s.style.color=STCOLOR[a.status]||"var(--ink)"; s.style.fontWeight="600";
+    s.onchange=function(){ a.status=s.value; s.style.color=STCOLOR[s.value]||"var(--ink)"; save(); if(curFilter!=="all") render(); };
+    return s;
+  }
+  function prioSel(a){
+    var s=document.createElement("select");
+    ["Hoch","Mittel","Niedrig"].forEach(function(v){ var o=document.createElement("option"); o.value=v; o.textContent=v; if(a.prio===v)o.selected=true; s.appendChild(o); });
+    s.onchange=function(){ a.prio=s.value; save(); }; return s;
+  }
+  function renderKPIs(){
+    var t=apps.length,app=0,intv=0,off=0,prio=0;
+    apps.forEach(function(a){
+      if(["Beworben","Interview","Angebot"].indexOf(a.status)>=0) app++;
+      if(a.status==="Interview") intv++; if(a.status==="Angebot") off++;
+      if(a.prio==="Hoch" && ["Prospect","Vorbereitung"].indexOf(a.status)>=0) prio++;
+    });
+    document.getElementById("k-total").textContent=t; document.getElementById("k-app").textContent=app;
+    document.getElementById("k-int").textContent=intv; document.getElementById("k-off").textContent=off;
+    document.getElementById("k-prio").textContent=prio;
+  }
+  document.getElementById("addBtn").onclick=function(){ apps.unshift({firma:"",rolle:"",ort:"",link:"",status:"Prospect",prio:"Mittel",next:"",frist:""}); save(); curFilter="all"; setActive("all"); render(); var f=tbody.querySelector("input"); if(f) f.focus(); };
+  document.getElementById("resetBtn").onclick=function(){ if(confirm("Tracker leeren? Deine Einträge gehen verloren.")){ apps=[]; save(); render(); } };
+  document.getElementById("exportBtn").onclick=function(){
+    try{ var blob=new Blob([JSON.stringify(apps,null,2)],{type:"application/json"}); var u=URL.createObjectURL(blob);
+      var a=document.createElement("a"); a.href=u; a.download="bewerbungen-"+new Date().toISOString().slice(0,10)+".json"; a.click(); URL.revokeObjectURL(u);
+    }catch(e){ alert("Download blockiert."); }
+  };
+  function setActive(f){ Array.prototype.forEach.call(document.querySelectorAll(".fbtn"),function(b){ b.classList.toggle("active", b.dataset.f===f); }); }
+  Array.prototype.forEach.call(document.querySelectorAll(".fbtn"),function(b){ b.onclick=function(){ curFilter=b.dataset.f; setActive(curFilter); render(); }; });
+
+  /* ---------- LIVE-SEARCH LINKS ---------- */
+  var searches=[
+    {kw:"Junior Sales / Sales Development",loc:"Zürich",tag:"jobs.ch",u:"https://www.jobs.ch/en/vacancies/?term=junior%20sales&location=Z%C3%BCrich"},
+    {kw:"Business Development",loc:"Zug",tag:"jobs.ch",u:"https://www.jobs.ch/en/vacancies/?term=business%20development&location=Zug"},
+    {kw:"Sales / Marketing",loc:"Basel",tag:"jobs.ch",u:"https://www.jobs.ch/en/vacancies/?term=sales%20marketing&location=Basel"},
+    {kw:"Business Development Representative",loc:"Schweiz",tag:"jobs.ch",u:"https://www.jobs.ch/en/vacancies/?term=business%20development%20representative"},
+    {kw:"Growth / Sales · Hybrid · Entry",loc:"Switzerland",tag:"LinkedIn",u:"https://www.linkedin.com/jobs/search/?keywords=business%20development%20OR%20sales%20OR%20growth&location=Switzerland&f_WT=3&f_E=1%2C2"},
+    {kw:"Sales Development · Remote",loc:"Switzerland",tag:"LinkedIn",u:"https://www.linkedin.com/jobs/search/?keywords=sales%20development%20representative&location=Switzerland&f_WT=2"}
+  ];
+  var grads=[
+    {kw:"Business Development / Marketing",loc:"Genève",tag:"jobup.ch",u:"https://www.jobup.ch/en/jobs/?term=business%20development"},
+    {kw:"Sales / Marketing · Junior",loc:"Lausanne",tag:"jobup.ch",u:"https://www.jobup.ch/en/jobs/?term=marketing&location=Lausanne"},
+    {kw:"Growth / Marketing",loc:"Schweiz",tag:"Indeed",u:"https://ch.indeed.com/jobs?q=growth+marketing&l=Schweiz"},
+    {kw:"On — Early Careers",loc:"Zürich",tag:"Karriere",u:"https://culture.on.com/what-we-do/early-careers/"},
+    {kw:"Mammut — Jobs",loc:"Seon",tag:"Karriere",u:"https://www.mammut.com/ch/en/pages/careers"}
+  ];
+  function fillLinks(id,arr){
+    var box=document.getElementById(id);
+    arr.forEach(function(s){
+      var row=document.createElement("div"); row.className="lrow";
+      var info=document.createElement("div");
+      var kw=document.createElement("div"); kw.className="kw"; kw.textContent=s.kw;
+      var sub=document.createElement("div"); sub.style.cssText="font-size:11.5px;color:var(--sub)";
+      sub.appendChild(document.createTextNode(s.loc+" · "));
+      var tg=document.createElement("span"); tg.className="tag"; tg.textContent=s.tag; sub.appendChild(tg);
+      info.appendChild(kw); info.appendChild(sub); row.appendChild(info);
+      var a=document.createElement("a"); a.href=s.u; a.target="_blank"; a.rel="noopener"; a.className="go"; a.textContent="öffnen ↗";
+      row.appendChild(a); box.appendChild(row);
+    });
+  }
+  fillLinks("searchLinks",searches); fillLinks("gradLinks",grads);
+
+  /* ---------- COMPANIES ---------- */
+  var COMP=[
+    {n:"On",loc:"Zürich · hybrid",why:"Jung, sportlich, global — passt zum Nordstern. Early Careers + Relocation.",u:"https://culture.on.com/what-we-do/early-careers/",ut:"Early Careers"},
+    {n:"Mammut",loc:"Seon AG",why:"Outdoor-Weltmarke, dein Lifestyle. Marketing-Praktikum offen.",u:"https://www.mammut.com/ch/en/pages/careers",ut:"Careers"},
+    {n:"TWINT",loc:"Zürich",why:"18-Mt-Graduate-Programm im digitalen Payment-Ökosystem.",u:"https://www.twint.ch/en/about-us/jobs/",ut:"Jobs"},
+    {n:"Salesforce",loc:"Zürich",why:"Weltmarktführer SaaS. Via BDR anpeilen, AE später.",u:"https://careers.salesforce.com/en/jobs/",ut:"Jobs"},
+    {n:"Nestlé",loc:"Vevey",why:"Nestlé Australia → interner Transfer. Bachelor meist nötig.",u:"https://www.nestle.com/jobs/students-graduates",ut:"Graduates"},
+    {n:"Glencore",loc:"Baar ZG",why:"Riesige AU-Präsenz → Transfer-/PR-Perspektive.",u:"https://www.glencore.com/careers",ut:"Careers"}
+  ];
+  var cbox=document.getElementById("companies");
+  COMP.forEach(function(c){
+    var el=document.createElement("div"); el.className="card";
+    var h=document.createElement("h3"); h.textContent=c.n; el.appendChild(h);
+    var m=document.createElement("div"); m.style.cssText="font-size:11.5px;color:var(--sub);margin-bottom:6px"; m.textContent=c.loc; el.appendChild(m);
+    var p=document.createElement("p"); p.className="lead"; p.style.marginBottom="10px"; p.textContent=c.why; el.appendChild(p);
+    var a=document.createElement("a"); a.href=c.u; a.target="_blank"; a.rel="noopener"; a.style.fontSize="12px"; a.textContent=c.ut+" →"; el.appendChild(a);
+    cbox.appendChild(el);
+  });
+
+  render(); renderKPIs();
+})();
+</script>
+</body>
+</html>
