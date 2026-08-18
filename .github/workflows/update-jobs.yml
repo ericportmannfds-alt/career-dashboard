@@ -21,7 +21,7 @@ jobs:
           node-version: 20
 
       - name: Frische Jobs holen
-        run: node scripts/fetch-jobs.mjs
+        run: node .github/workflows/scripts/fetch-jobs.mjs
         env:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
 
