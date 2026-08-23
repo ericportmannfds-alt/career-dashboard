@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-22",
-  "source": "Automatisch aktualisiert - 26 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
+  "updated": "2026-08-23",
+  "source": "Automatisch aktualisiert - 50 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
   "jobs": [
+    {
+      "t": "Teamleiter/in Branding & Marketing 80-100%",
+      "co": "Visana Services AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobagent.ch/job/teamleiter-in-branding-marketing-80-100/3253683937",
+      "posted": "2026-08-22T07:00:00.000Z"
+    },
+    {
+      "t": "Leiter Sales 100% (m/w/d)",
+      "co": "Universal-Job AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/c23ca468-d6ad-4477-8c46-6caad7e8d82e/",
+      "posted": "2026-08-22T00:00:00.000Z"
+    },
+    {
+      "t": "Berater/in",
+      "co": "Université de Genève",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/e83f807f-80e4-4f2c-9ebb-d3a24b54346e/",
+      "posted": "2026-08-22T00:00:00.000Z"
+    },
+    {
+      "t": "Sales Account Manager Executive in Zürich",
+      "co": "Albedis",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.workpool-jobs.ch/sales-account-manager-executive-in-zuerich/10514892sf",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
     {
       "t": "Business Development Manager DACH (a)",
       "co": "NWS Management AG",
@@ -11,28 +55,204 @@
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.linkedin.com/jobs/view/business-development-manager-dach-a-at-nws-management-ag-4456221790",
-      "posted": "2026-08-21T12:00:00.000Z"
-    },
-    {
-      "t": "Key Account Manager Switzerland (m|w|d)",
-      "co": "Instaffo",
-      "loc": "Zürich",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
-      "u": "https://bebee.com/ch/jobs/key-account-manager-switzerland-mwd-instaffo-zurich-zurich--t7xk-811896836",
       "posted": "2026-08-21T00:00:00.000Z"
     },
     {
-      "t": "Key Account Manager Switzerland (m|w|d)",
-      "co": "Instaffo",
+      "t": "Strategic Account Manager – Zurich",
+      "co": "Linth24",
       "loc": "Schweiz",
       "gate": "a",
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.linkedin.com/jobs/view/key-account-manager-switzerland-m-w-d-at-instaffo-4456750213",
+      "u": "https://www.jobijoba.ch/detailanzeige/93/5393b28c8b0a13e7736144acb6c79d77",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "B2B Telesales Account Manager | Growth & Cross-Sell",
+      "co": "CWS International GmbH",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobijoba.ch/detailanzeige/93/5bbfd5ecccd492a73787990a2d6c5f52",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Marketing Manager -100%",
+      "co": "Kistler Instrumente AG",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobagent.ch/job/marketing-manager-100/3253664731",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Marketing Internship / Praktikum (6 months)",
+      "co": "VisilabGroup",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://ch.linkedin.com/jobs/view/marketing-internship-praktikum-6-months-at-visilabgroup-4457097746",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Trade & Partner Marketing Manager, 100% (m/w/d)",
+      "co": "Stobag AG",
+      "loc": "Muri",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Muri — passt zu deinem Fokus.",
+      "u": "https://www.professional.ch/jobs/inserat/2840933-trade-partner-marketing-manager-100-m-w-d",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Spezialist in Marketing/Digital Marketing 100% in Stäfa",
+      "co": "local-job",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.workpool-jobs.ch/spezialist-in-marketing-digital-marketing-100-in-staefa/10509769sf",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Marketing Content Manager",
+      "co": "Waelti Partners AG",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://ch.linkedin.com/jobs/view/marketing-content-manager-at-waelti-partners-ag-4454639219",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Digital Marketing & Event Coordinator (m/w/d)",
+      "co": "Spandex AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.professional.ch/jobs/inserat/2840978-digital-marketing-event-coordinator-m-w-d",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "E-Commerce Sales Manager 100% (w/d/m) befristet auf 12 Monate mit Option auf Festanstellun",
+      "co": "FREITAG lab. ag",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobagent.ch/job/e-commerce-sales-manager-100-w-d-m-befristet-auf-12-monate-mit-option-auf-festanstellung/325366356d",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Junior Sales Executive (m/w/d)",
+      "co": "Hays (Schweiz) AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.kununu.com/ch/job/89453748-6b45-43b9-8b58-96f9fdbac0f2",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Karrierestart in der Wirtschaftsprüfung, Bereich Industries per Oktober 2026(Graduate)",
+      "co": "EY",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/karrierestart-in-der-wirtschaftspr%C3%BCfung-bereich-industries-per-oktober-2026-graduate-at-ey-4456041095",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Graduate - Cyber Security 100 %",
+      "co": "KPMG AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobagent.ch/job/graduate-cyber-security-100/325364696d",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "t": "Enterprise Business Development Manager",
+      "co": "Bsser Zeidler",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobijoba.ch/detailanzeige/93/65f122999e2da6882591a924d6a5d08c",
+      "posted": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "t": "Sales Manager (m/w/d) (80-100%)",
+      "co": "TALDIS AG",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/745524da-9b9b-4415-a0f1-57e1d5dd5a35/",
+      "posted": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "t": "Sales Executive m/w/d (100%)",
+      "co": "Richmond Events AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobagent.ch/job/sales-executive-m-w-d-100/3253596c4c",
+      "posted": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "t": "Sales Representative - Dermokosmetik 80% (m/w/d)",
+      "co": "Michael Page",
+      "loc": "Zug",
+      "gate": "g",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Zug — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/52a2615e-28df-4150-a99f-8f341caffe0b/",
+      "posted": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "t": "Sales Reprsentative",
+      "co": "Gi Group SA",
+      "loc": "Zug",
+      "gate": "g",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Zug — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobup.ch/en/jobs/detail/40dbfacc-1a28-4f58-9fd7-70a17714492c/",
+      "posted": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "t": "Siemens Graduate Program Business Development & Strategy Switzerland",
+      "co": "Siemens",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.studentjob.ch/stellenangebote/8256322-siemens-graduate-program-business-development-strategy-switzerland",
       "posted": "2026-08-20T00:00:00.000Z"
     },
     {
@@ -47,59 +267,81 @@
       "posted": "2026-08-20T00:00:00.000Z"
     },
     {
-      "t": "Business Development Manager - Geneva",
-      "co": "Blanc Space",
-      "loc": "Genf",
+      "t": "Marketing Manager Personal Care & Beauty Schweiz (m/w)",
+      "co": "oprandi & partner ag",
+      "loc": "Muttenz",
       "gate": "a",
-      "lane": "westch",
+      "lane": "growth",
       "cool": false,
-      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/business-development-manager-geneva-at-blanc-space-4456193047",
+      "why": "Growth/Marketing-Rolle in Muttenz — passt zu deinem Fokus.",
+      "u": "https://www.jobscout24.ch/de/job/ebaf9925-23a1-406e-8671-2fc1089fa700/",
       "posted": "2026-08-19T00:00:00.000Z"
     },
     {
-      "t": "Data Business Development Manager – Geneva (6-Month Contract, Possible Extension)",
-      "co": "Shipping and Trading Network",
-      "loc": "Genf",
+      "t": "Sales Manager im Aussendienst 100%",
+      "co": "Freestar-People AG",
+      "loc": "Schweiz",
       "gate": "a",
       "lane": "westch",
       "cool": false,
-      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://bebee.com/ch/jobs/data-business-development-manager-geneva-6-month-contract-possible-extension-shipping-and-trading-ne--ss-ch-r76lrd",
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://zuercher-jobs.ch/job/sales-manager-im-aussendienst-100/325361576c",
       "posted": "2026-08-19T00:00:00.000Z"
     },
     {
-      "t": "Business Development Associate",
-      "co": "Thermo Fisher Scientific",
+      "t": "Apprentice Graduate Wanted",
+      "co": "job impuls ag Zürich KV",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobup.ch/en/jobs/detail/cfb7f9bf-7852-4686-bb1a-1fa0caa81955/",
+      "posted": "2026-08-19T00:00:00.000Z"
+    },
+    {
+      "t": "Aussendienst Mitarbeiter/Mitarbeiterin Sales Representative",
+      "co": "PHV Diffusion Sàrl",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://basel-jobs.ch/job/aussendienst-mitarbeiter-mitarbeiterin-sales-representative/325357686c",
+      "posted": "2026-08-18T00:00:00.000Z"
+    },
+    {
+      "t": "Graduate - Audit Banking & Asset Management",
+      "co": "KPMG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ohws.prospective.ch/public/v1/jobs/6256f47f-9763-4536-bc20-97b39cf0258d",
+      "posted": "2026-08-18T00:00:00.000Z"
+    },
+    {
+      "t": "Business Development Executive – U.S. Market",
+      "co": "Sapphire Labs",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "tech",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/business-development-associate-at-thermo-fisher-scientific-4446054363",
-      "posted": "2026-08-19T00:00:00.000Z"
+      "u": "https://ch.linkedin.com/jobs/view/business-development-executive-%E2%80%93-u-s-market-at-sapphire-labs-4455580885",
+      "posted": "2026-08-18T00:00:00.000Z"
     },
     {
-      "t": "Business Development & Sales Manager:in SaaS Romandie (50%-100%)",
-      "co": "Basler & Hofmann",
+      "t": "Healthcare Key Account Leader – Swiss Growth & Projects",
+      "co": "Gerflor",
       "loc": "Schweiz",
-      "gate": "a",
-      "lane": "tech",
+      "gate": "r",
+      "lane": "growth",
       "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/business-development-sales-manager-in-saas-romandie-50%25-100%25-at-basler-hofmann-4443600636",
-      "posted": "2026-08-19T00:00:00.000Z"
-    },
-    {
-      "t": "Key Account",
-      "co": "GERFLOR",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.trabajo.org/stellenangebot-1917-7a26cd3fde0f27acb5ff87b02285b5e3",
-      "posted": "2026-08-17T00:00:00.000Z"
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobleads.com/ch/job/healthcare-key-account-leader-swiss-growth-projects--switzerland--e76675917c2653db3b420b0a9c0325f63",
+      "posted": "2026-08-18T00:00:00.000Z"
     },
     {
       "t": "Account Manager - French Market !",
@@ -124,6 +366,17 @@
       "posted": "2026-08-17T00:00:00.000Z"
     },
     {
+      "t": "Regional Sales Executive-DACH",
+      "co": "PartnerOne",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobleads.com/ch/job/regional-sales-executive-dach--switzerland--e044ef48d0434486d243f24175dd89d43",
+      "posted": "2026-08-17T00:00:00.000Z"
+    },
+    {
       "t": "Key Account Manager (KAM) Switzerland – Deutschschweiz & Tessin",
       "co": "Nordberg Medical",
       "loc": "Zug",
@@ -135,37 +388,48 @@
       "posted": "2026-08-16T00:00:00.000Z"
     },
     {
-      "t": "BI & Marketing Intern, Travel Retail Strategy (Geneva)",
-      "co": "Aldo Group International AG",
+      "t": "Key Account & Business Development Lead – Deutschschweiz",
+      "co": "Adecco",
       "loc": "Schweiz",
-      "gate": "g",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://www.jobleads.com/ch/job/bi-marketing-intern-travel-retail-strategy-geneva--genf--e2f64a9900a7a5a1eabbf616a8b55a324",
-      "posted": "2026-08-15T00:00:00.000Z"
-    },
-    {
-      "t": "Diagnostics Sales Account Manager – Zürich",
-      "co": "Myjob",
-      "loc": "Schweiz",
-      "gate": "a",
+      "gate": "r",
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.jobrapido.com/jobpreview/3349043129645793280",
-      "posted": "2026-08-14T00:00:00.000Z"
+      "u": "https://www.jobleads.com/ch/job/key-account-business-development-lead-deutschschweiz--regensdorf--efda1c093cddef7c4564c1932d1d62b9f",
+      "posted": "2026-08-16T00:00:00.000Z"
     },
     {
-      "t": "Global Business Development Intern (Paid, 4–6 months)",
-      "co": "OM Pharma",
-      "loc": "Meyrin",
+      "t": "Praktikant Marketing Schweiz (alle, 80-100 %), 12 Monate",
+      "co": "Mammut Sports Group AG",
+      "loc": "Schweiz",
       "gate": "g",
-      "lane": "westch",
+      "lane": "cool",
+      "cool": true,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/7247da83-fc1f-43a8-9007-558666b2d0cf/",
+      "posted": "2026-08-15T00:00:00.000Z"
+    },
+    {
+      "t": "Praktikum Corporate Tax Zürich (Graduate)",
+      "co": "EY",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
       "cool": false,
-      "why": "Sales/Business-Development in Meyrin — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.jobleads.com/ch/job/global-business-development-intern-paid-4-6-months--meyrin--e24f09dbcf6f83168008a278d87e364a7",
-      "posted": "2026-08-14T00:00:00.000Z"
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://careers.ey.com/ey/job/Zurich-Praktikum-Corporate-Tax-Z%C3%BCrich-%28Graduate%29-8005/1166850901/",
+      "posted": "2026-08-15T00:00:00.000Z"
+    },
+    {
+      "t": "German Speaking Forex Sales Agent",
+      "co": "The Lemon Consulting",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/german-speaking-forex-sales-agent-at-the-lemon-consulting-4453794085",
+      "posted": "2026-08-15T00:00:00.000Z"
     },
     {
       "t": "Swiss Enterprise Sales - Commission Only (Zürich/Remote, Switzerland)",
@@ -179,17 +443,6 @@
       "posted": "2026-08-14T00:00:00.000Z"
     },
     {
-      "t": "Director of Sales",
-      "co": "Jobgether",
-      "loc": "Schweiz",
-      "gate": "r",
-      "lane": "tech",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.jobleads.com/ch/job/director-of-sales--switzerland--ec38a66bf060a9454625eba7963da4d76",
-      "posted": "2026-08-13T00:00:00.000Z"
-    },
-    {
       "t": "Sales & Business Development Manager – B2B SaaS",
       "co": "DSwiss AG",
       "loc": "Schweiz",
@@ -201,69 +454,25 @@
       "posted": "2026-08-10T00:00:00.000Z"
     },
     {
-      "t": "Full time Marketing",
-      "co": "Shipping and Trading Network",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://ch.trabajo.org/stellenangebot-4100-a3db4adb8191eb75c3f3d0cb2aa9e9b9",
-      "posted": "2026-08-10T00:00:00.000Z"
-    },
-    {
-      "t": "Junior Associate, Client Services - Graduate (m/w/d) *Munich Based*",
-      "co": "Third Bridge Group",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/junior-associate-client-services-graduate-m-w-d-munich-based-at-third-bridge-group-4451199067",
-      "posted": "2026-08-10T00:00:00.000Z"
-    },
-    {
-      "t": "Account Manager - Visual & Office Solutions (Sales)",
-      "co": "SHARP ELECTRONICS (SCHWEIZ) AG",
+      "t": "Business Development Manager – Tier 1 Accounts",
+      "co": "Lonza",
       "loc": "Schweiz",
       "gate": "a",
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobijoba.ch/detailanzeige/93/a41488dcffb109b36d40281dd9e77d22",
+      "u": "https://ch.linkedin.com/jobs/view/business-development-manager-%E2%80%93-tier-1-accounts-at-lonza-4450370873",
       "posted": "2026-08-08T00:00:00.000Z"
     },
     {
-      "t": "Enterprise Sales Account Manager – HCLS DACH",
-      "co": "NVIDIA",
+      "t": "Sales Account Manager - Switzerland",
+      "co": "ACROBiosystems",
       "loc": "Schweiz",
       "gate": "a",
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.linkedin.com/jobs/view/enterprise-sales-account-manager-%E2%80%93-hcls-dach-at-nvidia-4449309795",
-      "posted": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "t": "Hbo Traineeship Sales - Junior Accountmanager",
-      "co": "BMN Nederland",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.linkedin.com/jobs/view/hbo-traineeship-sales-junior-accountmanager-at-bmn-nederland-4375546583",
-      "posted": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "t": "Business Development Intern",
-      "co": "OM Pharma",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "westch",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-4111-fbee94b4b8173e20fedcdbe4f0fea89e",
+      "u": "https://ch.linkedin.com/jobs/view/sales-account-manager-switzerland-at-acrobiosystems-4388185362",
       "posted": "2026-08-04T00:00:00.000Z"
     },
     {
@@ -287,6 +496,61 @@
       "why": "Kundennaher Einstieg in Basel — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.learn4good.com/jobs/basel/switzerland/management_and_managerial/5309935560/e/",
       "posted": "2026-07-25T00:00:00.000Z"
+    },
+    {
+      "t": "Marketing & Growth Manager 80–100 % (m/w/d)",
+      "co": "Metades The Growing Squares GmbH",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/ef10be2c-79db-437f-89f9-466875403429/",
+      "posted": null
+    },
+    {
+      "t": "Sales Lead - Defense",
+      "co": "Michael Page",
+      "loc": "Schweiz",
+      "gate": "r",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.michaelpage.ch/de/job-detail/sales-lead-defense/ref/jn-062026-7049395",
+      "posted": null
+    },
+    {
+      "t": "IT Graduate Programme",
+      "co": "Glencore",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Konzern mit Australien-Praesenz in Schweiz — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).",
+      "u": "https://www.glencore.ch/fr/offene-stellen/R200001645?locale=en",
+      "posted": null
+    },
+    {
+      "t": "International Fully Funded PhD Positions in the Life Sciences",
+      "co": "Universität Zürich",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.uzh.ch/job-vacancies/international-fully-funded-phd-positions-in-the-life-sciences/6fde8c66-e018-44ae-bb53-4ca1b4692e37",
+      "posted": null
+    },
+    {
+      "t": "Graduate / Trainee Programm Fokus Elektro- und Energietechnik &#8211; Avesco AG / (100%)",
+      "co": "Avesco AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://frauenjobs.ch/job/_chme1971-9/",
+      "posted": null
     }
   ]
 }
