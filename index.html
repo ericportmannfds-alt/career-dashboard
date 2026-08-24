@@ -46,8 +46,8 @@
   h1{font-size:30px;margin:8px 0 4px;letter-spacing:-.3px;text-wrap:balance}
   .north{font-size:16px;color:var(--sub);max-width:760px}
   .north b{color:var(--ink)}
-  .grid{display:grid;gap:16px}.g3{grid-template-columns:repeat(3,1fr)}.g2{grid-template-columns:repeat(2,1fr)}
-  @media(max-width:900px){.g3,.g2{grid-template-columns:1fr}}
+  .grid{display:grid;gap:16px}.g3{grid-template-columns:repeat(3,1fr)}.g2{grid-template-columns:repeat(2,1fr)}.g4{grid-template-columns:repeat(4,1fr)}
+  @media(max-width:900px){.g3,.g2,.g4{grid-template-columns:1fr}}
   .card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:var(--r);padding:18px;box-shadow:var(--shadow)}
   .card h3{margin:0 0 4px;font-size:15px;display:flex;align-items:center;gap:8px}
   .card .lead{font-size:13px;color:var(--sub);margin:0}
@@ -67,8 +67,10 @@
   .lane-h span.c{font-size:11px;color:var(--sub);font-weight:500}
   .jobs{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
   @media(max-width:820px){.jobs{grid-template-columns:1fr}}
-  .job{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:13px 14px;display:flex;flex-direction:column;gap:7px}
+  .job{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:13px 14px;display:flex;flex-direction:column;gap:7px;position:relative}
   .job.cool{border-color:rgba(232,176,75,.4);background:linear-gradient(180deg,var(--card),rgba(232,176,75,.05))}
+  .job.match{border-color:var(--teal);box-shadow:0 0 0 1px var(--teal), 0 4px 20px rgba(63,200,166,.15)}
+  .job.match::before{content:"⭐ Ziel-Firma";position:absolute;top:-9px;left:12px;background:var(--teal);color:#062019;font-weight:800;font-size:10px;padding:2px 8px;border-radius:6px;letter-spacing:.3px}
   .job .jtop{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
   .job .jt{font-weight:600;font-size:13.5px;line-height:1.3}
   .job .jm{font-size:11.5px;color:var(--sub)}
@@ -76,6 +78,8 @@
   .job .jr{display:flex;align-items:center;gap:8px;margin-top:2px;flex-wrap:wrap}
   .apply{background:var(--teal);color:#062019;font-weight:700;font-size:12px;border-radius:8px;padding:6px 11px;white-space:nowrap}
   .apply:hover{text-decoration:none;filter:brightness(1.06)}
+  .apply2{background:transparent;border:1px solid var(--line);color:var(--sub);font-size:11.5px;border-radius:8px;padding:5px 10px;white-space:nowrap;cursor:pointer}
+  .apply2:hover{border-color:var(--blue);color:var(--blue);text-decoration:none}
   .track{background:transparent;border:1px solid var(--line);color:var(--sub);font-size:11.5px;border-radius:8px;padding:6px 10px;cursor:pointer}
   .track:hover{border-color:var(--teal);color:var(--teal)}
   .gate{font-size:10px;font-weight:700;padding:2px 8px;border-radius:6px;white-space:nowrap;flex-shrink:0}
@@ -110,6 +114,8 @@
   .lrow .go{margin-left:auto;font-size:12px;background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:5px 10px;color:var(--teal);white-space:nowrap}
   .lrow .go:hover{text-decoration:none;background:var(--teal2);color:#062019}
   .tag{font-size:10.5px;color:var(--sub);border:1px solid var(--line);border-radius:6px;padding:2px 7px}
+  .tag.au{color:var(--red);border-color:rgba(232,116,107,.5)}
+  .tag.fr{color:var(--blue);border-color:rgba(94,169,230,.5)}
   ul.tight{margin:8px 0 0;padding-left:18px}
   ul.tight li{font-size:12.8px;color:var(--sub);margin-bottom:6px}ul.tight li b{color:var(--ink)}
   .do,.dont{border-radius:12px;padding:14px 15px;border:1px solid var(--line)}
@@ -120,6 +126,37 @@
   .foot{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);font-size:12px;color:var(--sub);display:flex;flex-direction:column;gap:6px}
   .save-hint{font-size:11.5px;color:var(--sub);margin-top:8px}
   .loading{color:var(--sub);font-size:13px;padding:10px 0}
+  /* -- companies grid -- */
+  .cogroup{margin-top:18px}
+  .cogroup .gh{font-size:13px;font-weight:700;margin:0 0 10px;display:flex;align-items:center;gap:8px;color:var(--ink)}
+  .cogroup .gh .cn{color:var(--sub);font-weight:500;font-size:11.5px}
+  .cogrid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  @media(max-width:900px){.cogrid{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:560px){.cogrid{grid-template-columns:1fr}}
+  .co{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:11px 13px;display:flex;flex-direction:column;gap:5px;transition:border-color .15s}
+  .co:hover{border-color:var(--teal2)}
+  .co .cn{font-weight:700;font-size:13px;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+  .co .cl{font-size:11px;color:var(--sub)}
+  .co .cw{font-size:11.5px;color:var(--sub);margin-top:2px;line-height:1.4}
+  .co .car{display:flex;gap:6px;margin-top:6px;flex-wrap:wrap}
+  .co .car a{font-size:11.5px;background:var(--bg2);border:1px solid var(--line);color:var(--teal);border-radius:7px;padding:4px 9px;white-space:nowrap}
+  .co .car a:hover{background:var(--teal2);color:#062019;text-decoration:none}
+  .co .car .tr{background:transparent;border:1px solid var(--line);color:var(--sub);font-size:11px;border-radius:7px;padding:4px 9px;cursor:pointer}
+  .co .car .tr:hover{border-color:var(--teal);color:var(--teal)}
+  .badge-au{font-size:9.5px;font-weight:700;background:rgba(232,116,107,.15);color:var(--red);padding:1px 6px;border-radius:5px;letter-spacing:.3px}
+  .badge-fr{font-size:9.5px;font-weight:700;background:rgba(94,169,230,.15);color:var(--blue);padding:1px 6px;border-radius:5px;letter-spacing:.3px}
+  .badge-hit{font-size:9.5px;font-weight:700;background:var(--teal);color:#062019;padding:1px 6px;border-radius:5px;letter-spacing:.3px}
+  /* -- contacts -- */
+  .ct{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:14px 15px;display:flex;flex-direction:column;gap:6px}
+  .ct .cn{font-weight:700;font-size:14px}
+  .ct .cr{font-size:12px;color:var(--sub)}
+  .ct .cwhy{font-size:12px;color:var(--sub);border-left:2px solid var(--teal2);padding-left:10px;margin:4px 0}
+  .ct .cbtns{display:flex;gap:6px;flex-wrap:wrap;margin-top:4px}
+  .ct .cbtns a,.ct .cbtns button{font-size:11.5px;background:var(--bg2);border:1px solid var(--line);color:var(--teal);border-radius:7px;padding:5px 10px;cursor:pointer}
+  .ct .cbtns a:hover,.ct .cbtns button:hover{background:var(--teal2);color:#062019;text-decoration:none}
+  .ct .cbtns .li{color:var(--blue)}
+  .msgbox{margin-top:8px;background:var(--bg2);border:1px solid var(--line);border-radius:9px;padding:10px 12px;font-size:12px;font-family:"Consolas",monospace;color:var(--ink);white-space:pre-wrap;display:none;line-height:1.5}
+  .msgbox.open{display:block}
   @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
 </style>
 </head>
@@ -128,9 +165,11 @@
   <div class="nav-in">
     <div class="brand"><span class="dot"></span> Career Command Center</div>
     <a class="link" href="#treffer">Treffer</a>
+    <a class="link" href="#plan">Plan A/B</a>
     <a class="link" href="#tracker">Tracker</a>
+    <a class="link" href="#firmen">Ziel-Firmen</a>
+    <a class="link" href="#kontakte">Kontakte</a>
     <a class="link" href="#suche">Live-Suche</a>
-    <a class="link" href="#firmen">Firmen</a>
     <a class="link" href="#bewerbung">Bewerbung</a>
     <a class="link" href="#ausland">Ausland</a>
     <button class="tgl" id="themeBtn" type="button" aria-label="Hell/Dunkel umschalten">☀︎ / ☾</button>
@@ -153,23 +192,82 @@
     <div class="note">Faustregel: <b>~60% der Anforderungen reichen zum Bewerben.</b> Die meisten „X Jahre / Studium von Vorteil" sind eine Wunschliste, kein Filter.</div>
   </section>
 
+  <section id="plan">
+    <div class="sec-h"><h2>Blueprint auf einen Blick</h2><span class="hint">Ziele · Plan A/B · Vorgehen — die Version für die Eltern, kompakt</span></div>
+    <div class="grid g3" style="margin-bottom:16px">
+      <div class="card"><h3>🎯 Kurzfristig (0–6 Mt)</h3><ul class="tight">
+        <li><b>Erste Rolle sichern</b> — Sales/BD, Trainee, kaufm. oder HR-Einstieg.</li>
+        <li>Standort: DE-CH oder Romandie (Französisch schärfen).</li>
+        <li>Parallel: 1–2 Nebenjobs (Coople/Adia) für Cashflow.</li>
+      </ul></div>
+      <div class="card"><h3>🚀 Mittelfristig (6–24 Mt)</h3><ul class="tight">
+        <li><b>Aufsteigen oder Firma wechseln</b> — mehr Verantwortung, mehr Netzwerk.</li>
+        <li>Studium optional berufsbegleitend (FHNW startet Sept. 2026).</li>
+        <li>UX als günstige Nebenspur ausbauen.</li>
+      </ul></div>
+      <div class="card"><h3>🌏 Langfristig (2–5 J)</h3><ul class="tight">
+        <li><b>Australien-Transfer</b> via Konzern mit AU-Standort (482→186).</li>
+        <li>Oder: Freiheit, remote, reisen — Nordstern lebt.</li>
+        <li>Netzwerk in AU aufgebaut (John Meek, Roger Baumgartner).</li>
+      </ul></div>
+    </div>
+    <div class="grid g2">
+      <div class="do"><h4>🅰️ Plan A — Job First</h4><ul class="tight">
+        <li><b>Einsteigen &amp; hocharbeiten</b> in einer Ziel-Firma (siehe unten).</li>
+        <li><b>Bonus-Spur:</b> UX (günstig, remote-tauglich) als zweites Standbein aufbauen.</li>
+        <li><b>Cheat-Code:</b> Konzern mit AU-Standort → interner Transfer statt DIY-Punkte-Route.</li>
+      </ul></div>
+      <div class="dont" style="background:rgba(94,169,230,.06)"><h4>🅱️ Plan B — Fallback</h4><ul class="tight">
+        <li><b>Studium</b> International Business FHNW Olten (Sept. 2026) als Rahmen.</li>
+        <li><b>Nebenjob</b> parallel (Coople, Adia, students.ch) — Cashflow + Erfahrung.</li>
+        <li><b>Breit bewerben</b> in CH — jobs.ch, jobup.ch, LinkedIn.</li>
+      </ul></div>
+    </div>
+    <div class="sec-h" style="margin-top:22px"><h2 style="font-size:16px">Vorgehen — die nächsten 5 Schritte</h2></div>
+    <div class="flow">
+      <div class="step"><span class="n">1</span><h4>Ziel-Firmen priorisieren</h4><p>10–15 aus der Liste unten wählen (Fokus MedTech-Region + AU-Konzerne) und in den Tracker.</p></div>
+      <div class="step"><span class="n">2</span><h4>ATS-CV pro Rolle</h4><p>Für jede Bewerbung: Keywords aus dem Inserat einbauen, 3 Erfolge mit Zahlen im oberen Drittel.</p></div>
+      <div class="step"><span class="n">3</span><h4>Kontakte aktivieren</h4><p>Kuno Fasel (Xovis), HR Allianz, J&amp;J, David Bieri — je eine kurze LinkedIn-Nachricht (siehe Kontakte-Sektion).</p></div>
+      <div class="step"><span class="n">4</span><h4>Tempo halten</h4><p>Min. 5 Bewerbungen/Woche + 2 Referral-Anfragen. Tracker führen, Follow-ups nach 7 Tagen.</p></div>
+      <div class="step"><span class="n">5</span><h4>Zwischenstand alle 2 Wo</h4><p>Was funktioniert? Wo Rückmeldungen? Ausrichtung feinschleifen, Ziel-Liste anpassen.</p></div>
+    </div>
+  </section>
+
   <section id="treffer">
     <div class="sec-h"><h2>Aktuelle Treffer</h2><span class="updated" id="updated">lädt…</span></div>
     <div class="legend">
+      <span>⭐ <b>Ziel-Firma-Match</b> — steht auf deiner Blueprint-Liste, priorisieren</span>
       <span>🟢 <b>Realistisch</b> — bewirb dich, du bist im Rahmen</span>
       <span>🟡 <b>Stretch</b> — Longshot, mehr Erfahrung erwartet</span>
       <span>🔴 <b>Studium/Erfahrung nötig</b> — eher später</span>
     </div>
     <div id="jobs-root"><div class="loading">Lade aktuelle Jobs…</div></div>
-    <div class="warn" style="margin-top:16px">🎯 <b>Fokus auf 🟢.</b> Bei 🟡/🔴 gilt: <b>Referral schlägt Portal</b> — kurze LinkedIn-Nachricht an den Recruiter umgeht den ATS-Filter. „In Tracker" fügt eine Stelle deinem Bewerbungsmanager hinzu.</div>
+    <div class="warn" style="margin-top:16px">🎯 <b>Fokus auf ⭐ und 🟢.</b> Bei 🟡/🔴 gilt: <b>Referral schlägt Portal</b> — kurze LinkedIn-Nachricht an den Recruiter umgeht den ATS-Filter. „In Tracker" fügt eine Stelle deinem Bewerbungsmanager hinzu.</div>
   </section>
 
-  <section id="suche">
-    <div class="sec-h"><h2>Live-Suche (evergreen)</h2><span class="hint">zeigt bei jedem Klick die aktuellsten Inserate</span></div>
-    <div class="grid g2">
-      <div class="card"><h3>🇨🇭 Deutschschweiz · Zug · Basel</h3><div class="llist" id="searchLinks"></div></div>
-      <div class="card"><h3>🇫🇷 Romandie · Remote · Programme</h3><div class="llist" id="gradLinks"></div></div>
+  <section id="firmen">
+    <div class="sec-h"><h2>Ziel-Firmen</h2><span class="hint">deine Blueprint-Liste — ein Klick zur Karriere-Seite</span></div>
+    <div class="toolbar">
+      <div class="filters" id="cofilters" style="margin-left:0">
+        <button class="fbtn active" type="button" data-cf="all">Alle</button>
+        <button class="fbtn" type="button" data-cf="medtech">MedTech / Präzision</button>
+        <button class="fbtn" type="button" data-cf="pharma">Pharma</button>
+        <button class="fbtn" type="button" data-cf="konzern">Konzerne / Graduate</button>
+        <button class="fbtn" type="button" data-cf="westch">Westschweiz</button>
+        <button class="fbtn" type="button" data-cf="beratung">Beratung (Sales/HR)</button>
+        <button class="fbtn" type="button" data-cf="tech">Tech / Startups</button>
+        <button class="fbtn" type="button" data-cf="neben">Nebenjob-Plattformen</button>
+        <button class="fbtn" type="button" data-cf="au">🇦🇺 nur AU-Brücke</button>
+      </div>
     </div>
+    <div id="companies"></div>
+    <div class="note">Jede Firma öffnet direkt ihre <b>Karriere-Seite</b>. „+ Ziel" packt sie in deinen Tracker als Prospect — dann von dort systematisch abarbeiten.</div>
+  </section>
+
+  <section id="kontakte">
+    <div class="sec-h"><h2>Kontakte aktivieren</h2><span class="hint">warme Türen der Familie — immer besser als Kaltbewerbung</span></div>
+    <div class="grid g2" id="contacts"></div>
+    <div class="warn" style="margin-top:14px">💡 <b>Wie du sie ansprichst:</b> Kurz, konkret, kein Betteln. „Ich starte gerade meine Berufslaufbahn, würde mich freuen kurz mit dir sprechen zu können — 15 Min." Nie CV im ersten Kontakt. Erst Vertrauen, dann Empfehlung.</div>
   </section>
 
   <section id="tracker">
@@ -202,9 +300,12 @@
     <p class="save-hint">💾 Gespeichert im Browser dieses Geräts. Backup → „Backup (JSON)".</p>
   </section>
 
-  <section id="firmen">
-    <div class="sec-h"><h2>Zielfirmen</h2><span class="hint">Fit + Australien-Brücke + Sprach-Chance</span></div>
-    <div class="grid g3" id="companies"></div>
+  <section id="suche">
+    <div class="sec-h"><h2>Live-Suche (evergreen)</h2><span class="hint">zeigt bei jedem Klick die aktuellsten Inserate</span></div>
+    <div class="grid g2">
+      <div class="card"><h3>🇨🇭 Deutschschweiz · Zug · Basel</h3><div class="llist" id="searchLinks"></div></div>
+      <div class="card"><h3>🇫🇷 Romandie · Remote · Programme</h3><div class="llist" id="gradLinks"></div></div>
+    </div>
   </section>
 
   <section id="bewerbung">
@@ -263,18 +364,155 @@
   var STATUS=["Prospect","Vorbereitung","Beworben","Interview","Angebot","Absage"];
   var STCOLOR={Prospect:"#5EA9E6",Vorbereitung:"#E8B04B",Beworben:"#3FC8A6",Interview:"#B79BE6",Angebot:"#3FC8A6",Absage:"#E8746B"};
 
+  /* ---------- ZIEL-FIRMEN (Blueprint) ---------- */
+  var GROUPS={
+    medtech:{label:"🔧 MedTech / Präzision (Region Solothurn/Jura)", hint:"kurze Wege, Weltkonzerne vor der Haustür"},
+    pharma:{label:"💊 Pharma / Life Sciences", hint:"grosse CH-Player, oft Graduate-Programme"},
+    konzern:{label:"🏢 Konzerne mit Graduate-/Trainee-Programm", hint:"Aufstiegs-/AU-Brücke, meist Bachelor nötig"},
+    westch:{label:"🇫🇷 Westschweiz (Französisch schärfen)", hint:"Genf/Lausanne/Biel — inkl. Uhrenbranche"},
+    beratung:{label:"👔 Beratung & Finanz — nur als Sales-/HR-Rolle", hint:"nicht als Corporate Hamster"},
+    tech:{label:"🚀 Tech / „Cool" + Startups", hint:"remote-freundlich, modern"},
+    neben:{label:"⏱️ Nebenjob-Plattformen (parallel zum Studium)", hint:"schnell einsatzbereit"}
+  };
+
+  var COMP=[
+    // MedTech
+    {n:"Stryker",loc:"Selzach SO",cat:"medtech",au:true,why:"Vor der Haustür, MedTech-Weltmarke, AU-Standort",u:"https://careers.stryker.com/"},
+    {n:"DePuy Synthes / J&J",loc:"Zuchwil SO",cat:"medtech",au:true,why:"Regional, J&J-Konzern → AU-Brücke, Familien-Kontakt",u:"https://careers.jnj.com/en"},
+    {n:"Agathon",loc:"Bellach SO",cat:"medtech",au:false,why:"Präzisionstechnik, direkt vor der Haustür",u:"https://www.agathon.ch/karriere/"},
+    {n:"Fraisa",loc:"Bellach SO",cat:"medtech",au:false,why:"Werkzeugbau, Region",u:"https://www.fraisa.com/de/unternehmen/karriere/"},
+    {n:"AO Foundation",loc:"Davos / Dübendorf",cat:"medtech",au:false,why:"Medizinische Forschung, Eltern-Verbindung",u:"https://www.aofoundation.org/who-we-are/careers"},
+    {n:"Straumann",loc:"Basel",cat:"medtech",au:true,why:"Dental-Weltmarke, AU-Standort",u:"https://www.straumann.com/group/en/discover/careers.html"},
+    {n:"Sonova",loc:"Stäfa ZH",cat:"medtech",au:true,why:"Hörgeräte-Weltmarke, AU-Präsenz",u:"https://www.sonova.com/en/careers"},
+    {n:"Ypsomed",loc:"Burgdorf BE",cat:"medtech",au:false,why:"Injection-Systems, wachsend",u:"https://www.ypsomed.com/en/career.html"},
+
+    // Pharma
+    {n:"Roche",loc:"Basel",cat:"pharma",au:true,why:"Grösster CH-Konzern, AU-Standort, Programme",u:"https://careers.roche.com/global/en"},
+    {n:"Novartis",loc:"Basel",cat:"pharma",au:true,why:"Global, viele Einstiege, AU-Präsenz",u:"https://www.novartis.com/careers/career-search"},
+    {n:"Lonza",loc:"Basel/Visp",cat:"pharma",au:true,why:"Contract Manufacturing, wächst stark",u:"https://www.lonza.com/careers"},
+    {n:"Alcon",loc:"Fribourg/Genf",cat:"pharma",au:true,why:"Augenpharma, Westschweiz + AU",u:"https://jobs.alcon.com/"},
+    {n:"Medtronic",loc:"Tolochenaz VD",cat:"pharma",au:true,why:"MedTech-Konzern, Romandie, AU",u:"https://jobs.medtronic.com/"},
+    {n:"Ferring",loc:"Saint-Prex VD",cat:"pharma",au:true,why:"Familienunternehmen, Romandie",u:"https://ferring.com/careers/"},
+    {n:"Siegfried",loc:"Zofingen AG",cat:"pharma",au:false,why:"CDMO, wachsend, gute Einstiege",u:"https://www.siegfried.ch/karriere/"},
+    {n:"Debiopharm",loc:"Lausanne",cat:"pharma",au:false,why:"Biotech, Westschweiz",u:"https://www.debiopharm.com/careers/"},
+
+    // Konzerne mit Graduate
+    {n:"Nestlé",loc:"Vevey",cat:"konzern",au:true,why:"AU-Standort, Graduate-Programme",u:"https://www.nestle.com/jobs"},
+    {n:"ABB",loc:"Zürich/Baden",cat:"konzern",au:true,why:"Global, AU-Standort, viele Rollen",u:"https://global.abb/group/en/careers"},
+    {n:"Sika",loc:"Baar ZG",cat:"konzern",au:true,why:"Bauchemie-Weltmarke, AU-Standort",u:"https://www.sika.com/en/careers.html"},
+    {n:"Schindler",loc:"Ebikon LU",cat:"konzern",au:true,why:"Lifte weltweit, AU-Präsenz",u:"https://www.schindler.com/en/career.html"},
+    {n:"Bühler",loc:"Uzwil SG",cat:"konzern",au:true,why:"Familien-Konzern, global, AU",u:"https://www.buhlergroup.com/global/en/careers.html"},
+    {n:"Georg Fischer",loc:"Schaffhausen",cat:"konzern",au:true,why:"Industrie-Konzern, weltweit",u:"https://www.gfps.com/global/en/careers.html"},
+    {n:"Swisscom",loc:"Bern",cat:"konzern",au:false,why:"CH-Marktführer, viele Trainee-Programme",u:"https://jobs.swisscom.ch/"},
+    {n:"SIX Group",loc:"Zürich",cat:"konzern",au:false,why:"Finanz-Infrastruktur CH, Graduate",u:"https://www.six-group.com/en/company/careers.html"},
+    {n:"PostFinance",loc:"Bern",cat:"konzern",au:false,why:"Bank, viele Einstiegsstellen",u:"https://www.postfinance.ch/de/ueber-uns/karriere.html"},
+    {n:"SBB",loc:"Bern",cat:"konzern",au:false,why:"Grosser CH-Arbeitgeber, Trainee-Programme",u:"https://company.sbb.ch/de/jobs-karriere.html"},
+    {n:"Swiss Life",loc:"Zürich",cat:"konzern",au:false,why:"Versicherung, viele Rollen",u:"https://www.swisslife.com/en/home/career.html"},
+    {n:"Baloise",loc:"Basel",cat:"konzern",au:false,why:"Versicherung, Trainee",u:"https://www.baloise.com/en/career/"},
+    {n:"Helvetia",loc:"St. Gallen",cat:"konzern",au:false,why:"Versicherung, modern",u:"https://www.helvetia.com/corporate/en/home/about-us/career.html"},
+    {n:"VZ Vermögenszentrum",loc:"Zürich",cat:"konzern",au:false,why:"Finanzdienstleister, spannende Kultur",u:"https://www.vzch.com/vz/de/karriere"},
+
+    // Westschweiz
+    {n:"PMI (Philip Morris)",loc:"Lausanne",cat:"westch",au:true,why:"HQ Lausanne, AU-Standort",u:"https://www.pmi.com/careers"},
+    {n:"Logitech",loc:"Lausanne",cat:"westch",au:true,why:"Tech, Weltmarke, AU-Präsenz",u:"https://jobs.jobvite.com/logitech"},
+    {n:"Givaudan",loc:"Vernier GE",cat:"westch",au:true,why:"Aromen & Düfte weltweit",u:"https://careers.givaudan.com/"},
+    {n:"Richemont",loc:"Genf",cat:"westch",au:true,why:"Luxus (Cartier, IWC …), global",u:"https://www.richemont.com/en/home/careers/"},
+    {n:"JTI",loc:"Genf",cat:"westch",au:true,why:"HQ Genf, global, AU",u:"https://www.jti.com/careers"},
+    {n:"Nexthink",loc:"Lausanne",cat:"westch",au:false,why:"SaaS-Unicorn, Romandie",u:"https://www.nexthink.com/careers/"},
+    {n:"Trafigura",loc:"Genf",cat:"westch",au:true,why:"Rohstoffhandel, AU-Präsenz",u:"https://www.trafigura.com/careers"},
+    {n:"Vitol",loc:"Genf",cat:"westch",au:true,why:"Rohstoffhandel, global",u:"https://www.vitol.com/careers/"},
+    {n:"Gunvor",loc:"Genf",cat:"westch",au:false,why:"Rohstoffhandel, wächst",u:"https://gunvorgroup.com/careers/"},
+    {n:"Pictet",loc:"Genf",cat:"westch",au:true,why:"Private Banking, prestige",u:"https://www.group.pictet/careers"},
+    {n:"Swatch Group",loc:"Biel BE",cat:"westch",au:false,why:"Uhren: Omega · Swatch · Longines · Tissot",u:"https://swatchgroup.com/en/careers"},
+    {n:"Rolex",loc:"Genf",cat:"westch",au:false,why:"Prestige-Uhrenmarke",u:"https://www.rolex.com/careers.html"},
+
+    // Beratung & Finanz (Sales/HR only)
+    {n:"PwC",loc:"Zürich/Basel",cat:"beratung",au:true,why:"Nur als Sales-/HR-Rolle, AU-Präsenz",u:"https://www.pwc.ch/en/careers.html"},
+    {n:"EY",loc:"Zürich",cat:"beratung",au:true,why:"Sales/HR — nicht Corporate Hamster",u:"https://www.ey.com/en_ch/careers"},
+    {n:"Deloitte",loc:"Zürich",cat:"beratung",au:true,why:"Sales/HR-Rolle interessant",u:"https://jobs.deloitte.ch/"},
+    {n:"KPMG",loc:"Zürich",cat:"beratung",au:true,why:"Sales/HR — Big4 Erfahrung",u:"https://kpmg.com/ch/en/home/careers.html"},
+    {n:"Accenture",loc:"Zürich",cat:"beratung",au:true,why:"Sales/HR, sehr global, AU stark",u:"https://www.accenture.com/ch-en/careers"},
+    {n:"UBS",loc:"Zürich",cat:"beratung",au:true,why:"Nur Sales/HR, AU-Standort",u:"https://www.ubs.com/global/en/careers.html"},
+    {n:"Swiss Re",loc:"Zürich",cat:"beratung",au:true,why:"Reversicherung, AU",u:"https://careers.swissre.com/"},
+    {n:"Zurich Insurance",loc:"Zürich",cat:"beratung",au:true,why:"Sales/HR, sehr global, AU",u:"https://www.zurich.com/careers"},
+
+    // Tech / Cool + Startups
+    {n:"On",loc:"Zürich",cat:"tech",au:true,why:"Sport-Brand, jung, Early Careers + AU",u:"https://careers.on.com/"},
+    {n:"Google",loc:"Zürich",cat:"tech",au:true,why:"Grosses ZH-Office, viele Rollen, AU",u:"https://careers.google.com/locations/zurich/"},
+    {n:"Microsoft",loc:"Wallisellen ZH",cat:"tech",au:true,why:"Sales/CSM, AU-Präsenz",u:"https://careers.microsoft.com/"},
+    {n:"SonarSource",loc:"Genf",cat:"tech",au:false,why:"Devtools, wächst schnell",u:"https://www.sonarsource.com/company/jobs/"},
+    {n:"SAP",loc:"Regensdorf",cat:"tech",au:true,why:"Enterprise-SaaS, AU-Standort",u:"https://jobs.sap.com/go/Switzerland/2802201/"},
+    {n:"Digitec Galaxus",loc:"Zürich",cat:"tech",au:false,why:"CH-Onlinehandel, cool, wachsend",u:"https://jobs.digitecgalaxus.ch/"},
+    {n:"Scandit",loc:"Zürich",cat:"tech",au:false,why:"Scanning-SaaS, Unicorn",u:"https://scandit.com/careers/"},
+    {n:"Yokoy",loc:"Zürich",cat:"tech",au:false,why:"Fintech-Startup, Sales-Rollen",u:"https://yokoy.io/careers/"},
+    {n:"Smallpdf",loc:"Zürich",cat:"tech",au:false,why:"Global aus Zürich, produktverliebt",u:"https://smallpdf.com/jobs"},
+    {n:"Beekeeper",loc:"Zürich",cat:"tech",au:false,why:"SaaS für Frontline-Worker",u:"https://www.beekeeper.io/en/careers/"},
+    {n:"Frontify",loc:"St. Gallen",cat:"tech",au:false,why:"Brand-Management SaaS",u:"https://www.frontify.com/en/careers"},
+    {n:"Zühlke",loc:"Schlieren ZH",cat:"tech",au:true,why:"Engineering-/Innovation-Beratung, AU",u:"https://www.zuehlke.com/en/careers"},
+    {n:"Xovis",loc:"Zollikofen BE",cat:"tech",au:false,why:"People-Sensing, Kuno Fasel = Kontakt",u:"https://www.xovis.com/company/careers"},
+    {n:"TWINT",loc:"Zürich",cat:"tech",au:false,why:"18-Mt-Graduate im Payment-Ökosystem",u:"https://www.twint.ch/en/about-us/jobs/"},
+    {n:"Salesforce",loc:"Zürich",cat:"tech",au:true,why:"SaaS-Weltmarktführer, AU-Standort",u:"https://careers.salesforce.com/en/jobs/"},
+    {n:"Mammut",loc:"Seon AG",cat:"tech",au:false,why:"Outdoor-Marke, Lifestyle passt",u:"https://www.mammut.com/ch/en/pages/careers"},
+    {n:"Glencore",loc:"Baar ZG",cat:"tech",au:true,why:"Rohstoff-Riese, AU-Präsenz stark",u:"https://www.glencore.com/careers"},
+
+    // Nebenjob-Plattformen
+    {n:"Coople",loc:"CH-weit",cat:"neben",au:false,why:"Temporär-App, sehr schneller Einsatz",u:"https://www.coople.com/ch/de/"},
+    {n:"Adia",loc:"CH-weit",cat:"neben",au:false,why:"Adecco-Tochter, App-basiert",u:"https://www.adia.work/de-ch/"},
+    {n:"students.ch",loc:"CH-weit",cat:"neben",au:false,why:"Studi-Jobs, viele Sales/Support",u:"https://www.students.ch/jobs"},
+    {n:"jobs.ch / jobup.ch",loc:"CH-weit",cat:"neben",au:false,why:"Grösste Jobportale — auch Teilzeit",u:"https://www.jobs.ch/"}
+  ];
+
+  /* ---------- KONTAKTE (Familie) ---------- */
+  var CONTACTS=[
+    {n:"Kuno Fasel",role:"VP Finance · Xovis (Zollikofen BE)",why:"Warme Tür in ein spannendes Tech-Unternehmen. Sales/BD Einstieg möglich.",li:"https://www.linkedin.com/company/xovis/people/",msg:"Hallo Kuno,\n\nunsere Eltern kennen sich – ich bin Eric, 21, aktuell auf Jobsuche für einen Sales-/BD-Einstieg.\n\nXovis wäre für mich ein spannendes Umfeld: Tech, wächst, Region. Hättest du 15 Min für einen Kaffee oder Call? Ich möchte nichts vorschnell fragen — erst verstehen, ob mein Profil passen könnte.\n\nDanke dir!\nEric"},
+    {n:"HR Director",role:"Allianz",why:"HR-Kontakt = Türöffner für Trainee-/Sales-Rollen bei einer grossen Versicherung.",li:"https://www.linkedin.com/company/allianz-suisse/",msg:"Guten Tag,\n\nüber meine Eltern habe ich erfahren, dass Sie im HR bei Allianz sind. Ich bin 21, KV+BM2 mit 4 Jahren Erfahrung als Project Coordinator bei Jura Elektroapparate. Aktuell suche ich einen Einstieg in Richtung Sales / Trainee / kaufmännisch.\n\nWäre ein 15-Minuten-Gespräch möglich, um zu verstehen wo Allianz aktuell Einstiege für Profile wie meins hat?\n\nHerzlichen Dank\nEric Portmann"},
+    {n:"Johnson & Johnson",role:"diverse Kontakte (via Eltern)",why:"MedTech-Weltkonzern mit AU-Standort — Cheat-Code für spätere Auswanderung.",li:"https://www.linkedin.com/company/johnson-&-johnson/",msg:"Hallo [Name],\n\nunsere Eltern kennen sich – ich bin Eric, 21, KV+BM2 mit Projekt-Erfahrung, aktuell auf Jobsuche.\n\nJ&J interessiert mich stark: MedTech-Weltkonzern, AU-Standort. Wäre ein kurzer Austausch möglich? 15 Min. — ich möchte erst verstehen wie der Einstieg bei J&J typischerweise aussieht.\n\nDanke!\nEric"},
+    {n:"David Bieri",role:"Empfehlung Eltern („super Typ")",why:"Netzwerker, wird laut Eltern gerne helfen. Erst Gespräch, dann konkrete Bitte.",li:"https://www.linkedin.com/in/davidbieri",msg:"Hallo David,\n\nmeine Eltern haben mir dich sehr empfohlen — sie meinten du bist ein „super Typ" und könntest mir mit einem Gedankenaustausch helfen.\n\nKurz zu mir: 21, KV+BM2, 4 Jahre Project Coordinator bei Jura, jetzt auf Jobsuche Richtung Sales/BD/Growth. Wäre 15 Min. für einen kurzen Call drin? Ich möchte nichts konkret erbetteln — erst verstehen wie du meinen Weg einschätzt.\n\nDanke dir!\nEric"},
+    {n:"John Meek",role:"Australien-Kontakt (langfristig)",why:"Türöffner für eventuelle Auswanderung / AU-Perspektive.",li:"https://www.linkedin.com/",msg:"Hi John,\n\nour parents know each other – I'm Eric, 21, from Switzerland. I'm building my career path and Australia is on my radar for the long term (via 482→186 route).\n\nWould you be open to a short chat (15 min) at some point? I'd love to hear how you see the job market in AU for someone like me — no favors, just perspective at this stage.\n\nThanks!\nEric"},
+    {n:"Roger Baumgartner",role:"Australien-Kontakt (langfristig)",why:"Zweiter AU-Kontakt — je mehr Perspektiven für die Auswanderung, desto besser.",li:"https://www.linkedin.com/",msg:"Hi Roger,\n\nour parents know each other – I'm Eric, 21, from Switzerland. I'm mapping out my career and Australia is a mid-term goal for me.\n\nWould you have 15 min at some point for a short call? I'd love to hear how you'd approach the AU move for someone with a commercial background — just to build perspective.\n\nThanks!\nEric"}
+  ];
+
   /* ---------- LIVE JOBS from jobs.json ---------- */
   var jroot=document.getElementById("jobs-root");
+  var TARGET_NAMES=COMP.map(function(c){ return c.n.toLowerCase().replace(/[^a-z0-9]/g,""); });
+  function isTargetFirma(co){
+    if(!co) return null;
+    var k=co.toLowerCase().replace(/[^a-z0-9]/g,"");
+    for(var i=0;i<TARGET_NAMES.length;i++){
+      var t=TARGET_NAMES[i];
+      if(t && (k.indexOf(t)>=0 || t.indexOf(k)>=0)) return COMP[i];
+    }
+    return null;
+  }
+
   fetch("jobs.json?_="+Date.now()).then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
     .then(function(data){ renderJobs(data); })
-    .catch(function(e){ jroot.innerHTML='<div class="warn">Konnte die Jobs gerade nicht laden ('+e.message+'). Nutze so lange die Live-Suche-Links unten — die sind immer aktuell.</div>'; document.getElementById("updated").textContent="—"; });
+    .catch(function(e){
+      if(window.__INLINE_JOBS){ renderJobs(window.__INLINE_JOBS); return; }
+      jroot.innerHTML='<div class="warn">Konnte die Jobs gerade nicht laden ('+e.message+'). Nutze so lange die Live-Suche-Links unten — die sind immer aktuell.</div>';
+      document.getElementById("updated").textContent="—";
+    });
 
   function renderJobs(data){
     jroot.innerHTML="";
     var jobs=(data&&data.jobs)||[];
+    // annotate with target-match
+    jobs.forEach(function(j){ j.__match=isTargetFirma(j.co); });
     var up=document.getElementById("updated");
-    up.textContent="🔄 aktualisiert: "+(data.updated||"—")+" · "+jobs.length+" Jobs";
+    var matchCount=jobs.filter(function(j){ return j.__match; }).length;
+    up.textContent="🔄 aktualisiert: "+(data.updated||"—")+" · "+jobs.length+" Jobs · ⭐ "+matchCount+" Ziel-Firmen-Matches";
     document.getElementById("foot-updated").textContent="Datenstand: "+(data.updated||"—")+(data.source?(" · "+data.source):"");
+
+    // if there are matches, show them first in a special lane
+    if(matchCount>0){
+      var mHead=document.createElement("div"); mHead.className="lane-h";
+      var mCnt=document.createElement("span"); mCnt.className="c"; mCnt.textContent="· "+matchCount+" auf deiner Blueprint-Liste — priorisieren!";
+      mHead.appendChild(document.createTextNode("⭐ Ziel-Firmen-Treffer")); mHead.appendChild(mCnt); jroot.appendChild(mHead);
+      var mg=document.createElement("div"); mg.className="jobs";
+      jobs.filter(function(j){ return j.__match; }).forEach(function(j){ mg.appendChild(makeJobCard(j)); });
+      jroot.appendChild(mg);
+    }
+
     LANES.forEach(function(L){
       var items=jobs.filter(function(j){ return j.lane===L[0]; });
       if(!items.length) return;
@@ -282,33 +520,109 @@
       var cnt=document.createElement("span"); cnt.className="c"; cnt.textContent="· "+items.length+" Stellen";
       h.appendChild(document.createTextNode(L[1])); h.appendChild(cnt); jroot.appendChild(h);
       var g=document.createElement("div"); g.className="jobs";
-      items.forEach(function(j){
-        var c=document.createElement("div"); c.className="job"+(j.cool?" cool":"");
-        var top=document.createElement("div"); top.className="jtop";
-        var t=document.createElement("div"); t.className="jt"; t.textContent=j.t;
-        var gm=GATE[j.gate]||GATE.a; var gb=document.createElement("span"); gb.className="gate "+gm[0]; gb.textContent=gm[1];
-        top.appendChild(t); top.appendChild(gb);
-        var m=document.createElement("div"); m.className="jm"; m.textContent=j.co+" · "+j.loc;
-        var w=document.createElement("div"); w.className="jw"; w.textContent=j.why||"";
-        var r=document.createElement("div"); r.className="jr";
-        var a=document.createElement("a"); a.className="apply"; a.href=j.u; a.target="_blank"; a.rel="noopener"; a.textContent="Jetzt bewerben ↗";
-        var tr=document.createElement("button"); tr.className="track"; tr.type="button"; tr.textContent="+ In Tracker";
-        tr.onclick=function(){ addToTracker(j); tr.textContent="✓ hinzugefügt"; tr.disabled=true; };
-        r.appendChild(a); r.appendChild(tr);
-        c.appendChild(top); c.appendChild(m); c.appendChild(w); c.appendChild(r); g.appendChild(c);
-      });
+      items.forEach(function(j){ g.appendChild(makeJobCard(j)); });
       jroot.appendChild(g);
     });
   }
 
+  function makeJobCard(j){
+    var c=document.createElement("div"); c.className="job"+(j.cool?" cool":"")+(j.__match?" match":"");
+    var top=document.createElement("div"); top.className="jtop";
+    var t=document.createElement("div"); t.className="jt"; t.textContent=j.t;
+    var gm=GATE[j.gate]||GATE.a; var gb=document.createElement("span"); gb.className="gate "+gm[0]; gb.textContent=gm[1];
+    top.appendChild(t); top.appendChild(gb);
+    var m=document.createElement("div"); m.className="jm"; m.textContent=j.co+" · "+j.loc;
+    var w=document.createElement("div"); w.className="jw"; w.textContent=j.why||"";
+    var r=document.createElement("div"); r.className="jr";
+    var a=document.createElement("a"); a.className="apply"; a.href=j.u; a.target="_blank"; a.rel="noopener"; a.textContent="Jetzt bewerben ↗";
+    r.appendChild(a);
+    // LinkedIn recruiter search for referral path
+    var li=document.createElement("a"); li.className="apply2"; li.href="https://www.linkedin.com/search/results/people/?keywords="+encodeURIComponent((j.co||"")+" recruiter"); li.target="_blank"; li.rel="noopener"; li.textContent="LinkedIn ↗"; li.title="Recruiter bei "+(j.co||"")+" suchen";
+    r.appendChild(li);
+    var tr=document.createElement("button"); tr.className="track"; tr.type="button"; tr.textContent="+ In Tracker";
+    tr.onclick=function(){ addToTracker(j); tr.textContent="✓ hinzugefügt"; tr.disabled=true; };
+    r.appendChild(tr);
+    c.appendChild(top); c.appendChild(m); c.appendChild(w); c.appendChild(r);
+    return c;
+  }
+
+  /* ---------- COMPANIES render ---------- */
+  var cbox=document.getElementById("companies");
+  var curCat="all";
+  function renderCompanies(){
+    cbox.innerHTML="";
+    Object.keys(GROUPS).forEach(function(gk){
+      var items=COMP.filter(function(c){
+        if(curCat==="all") return c.cat===gk;
+        if(curCat==="au") return c.cat===gk && c.au;
+        return c.cat===gk && c.cat===curCat;
+      });
+      if(!items.length) return;
+      var wrap=document.createElement("div"); wrap.className="cogroup";
+      var gh=document.createElement("div"); gh.className="gh";
+      gh.appendChild(document.createTextNode(GROUPS[gk].label));
+      var cnt=document.createElement("span"); cnt.className="cn"; cnt.textContent="· "+items.length+" Firmen · "+GROUPS[gk].hint;
+      gh.appendChild(cnt);
+      wrap.appendChild(gh);
+      var g=document.createElement("div"); g.className="cogrid";
+      items.forEach(function(c){
+        var el=document.createElement("div"); el.className="co";
+        var cn=document.createElement("div"); cn.className="cn";
+        cn.appendChild(document.createTextNode(c.n));
+        if(c.au){ var b=document.createElement("span"); b.className="badge-au"; b.textContent="🇦🇺"; cn.appendChild(b); }
+        if(c.cat==="westch" && c.loc.match(/Genf|Lausanne|Vernier|Biel/i)){ var bf=document.createElement("span"); bf.className="badge-fr"; bf.textContent="FR"; cn.appendChild(bf); }
+        el.appendChild(cn);
+        var l=document.createElement("div"); l.className="cl"; l.textContent=c.loc; el.appendChild(l);
+        var w=document.createElement("div"); w.className="cw"; w.textContent=c.why; el.appendChild(w);
+        var car=document.createElement("div"); car.className="car";
+        var a=document.createElement("a"); a.href=c.u; a.target="_blank"; a.rel="noopener"; a.textContent="Karriere ↗"; car.appendChild(a);
+        var lij=document.createElement("a"); lij.href="https://www.linkedin.com/jobs/search/?keywords=&f_C=&location=Switzerland&currentJobId=&keywords="+encodeURIComponent(c.n); lij.target="_blank"; lij.rel="noopener"; lij.textContent="LinkedIn"; car.appendChild(lij);
+        var tr=document.createElement("button"); tr.className="tr"; tr.type="button"; tr.textContent="+ Ziel";
+        tr.onclick=function(){ apps.unshift({firma:c.n,rolle:"",ort:c.loc,link:c.u,status:"Prospect",prio:c.au?"Hoch":"Mittel",next:"Karriere-Seite checken",frist:""}); save(); tr.textContent="✓"; tr.disabled=true; };
+        car.appendChild(tr);
+        el.appendChild(car);
+        g.appendChild(el);
+      });
+      wrap.appendChild(g); cbox.appendChild(wrap);
+    });
+  }
+  document.querySelectorAll("#cofilters .fbtn").forEach(function(b){
+    b.onclick=function(){
+      curCat=b.dataset.cf;
+      document.querySelectorAll("#cofilters .fbtn").forEach(function(x){ x.classList.toggle("active", x===b); });
+      renderCompanies();
+    };
+  });
+
+  /* ---------- CONTACTS render ---------- */
+  var ctbox=document.getElementById("contacts");
+  CONTACTS.forEach(function(k,i){
+    var el=document.createElement("div"); el.className="ct";
+    var cn=document.createElement("div"); cn.className="cn"; cn.textContent=k.n; el.appendChild(cn);
+    var cr=document.createElement("div"); cr.className="cr"; cr.textContent=k.role; el.appendChild(cr);
+    var cw=document.createElement("div"); cw.className="cwhy"; cw.textContent=k.why; el.appendChild(cw);
+    var b=document.createElement("div"); b.className="cbtns";
+    if(k.li){ var a=document.createElement("a"); a.className="li"; a.href=k.li; a.target="_blank"; a.rel="noopener"; a.textContent="LinkedIn ↗"; b.appendChild(a); }
+    var showBtn=document.createElement("button"); showBtn.type="button"; showBtn.textContent="✉ Nachricht"; b.appendChild(showBtn);
+    var copyBtn=document.createElement("button"); copyBtn.type="button"; copyBtn.textContent="⧉ Kopieren"; b.appendChild(copyBtn);
+    el.appendChild(b);
+    var mb=document.createElement("div"); mb.className="msgbox"; mb.id="msg-"+i; mb.textContent=k.msg; el.appendChild(mb);
+    showBtn.onclick=function(){ mb.classList.toggle("open"); showBtn.textContent=mb.classList.contains("open")?"✕ Schliessen":"✉ Nachricht"; };
+    copyBtn.onclick=function(){
+      try{ navigator.clipboard.writeText(k.msg).then(function(){ copyBtn.textContent="✓ Kopiert"; setTimeout(function(){ copyBtn.textContent="⧉ Kopieren"; },1500); }); }
+      catch(e){ mb.classList.add("open"); showBtn.textContent="✕ Schliessen"; }
+    };
+    ctbox.appendChild(el);
+  });
+
   /* ---------- TRACKER ---------- */
-  function clone(o){ return JSON.parse(JSON.stringify(o)); }
   function load(){ var r=lsGet(LS_APPS); if(r){ try{ return JSON.parse(r); }catch(e){} } return []; }
   var apps=load();
   function save(){ lsSet(LS_APPS, JSON.stringify(apps)); renderKPIs(); }
   function addToTracker(j){
     var prio=j.gate==="g"?"Hoch":(j.gate==="r"?"Niedrig":"Mittel");
-    apps.unshift({firma:j.co,rolle:j.t,ort:(j.loc||"").split(" · ")[0],link:j.u,status:"Prospect",prio:prio,next:"Inserat prüfen & bewerben",frist:""});
+    if(j.__match) prio="Hoch";
+    apps.unshift({firma:j.co,rolle:j.t,ort:(j.loc||"").split(" · ")[0],link:j.u,status:"Prospect",prio:prio,next:j.__match?"⭐ Ziel-Firma — bewerben":"Inserat prüfen & bewerben",frist:""});
     save(); if(curFilter==="all") render();
   }
   var curFilter="all", tbody=document.getElementById("tbody");
@@ -365,8 +679,8 @@
       var a=document.createElement("a"); a.href=u; a.download="bewerbungen-"+new Date().toISOString().slice(0,10)+".json"; a.click(); URL.revokeObjectURL(u);
     }catch(e){ alert("Download blockiert."); }
   };
-  function setActive(f){ Array.prototype.forEach.call(document.querySelectorAll(".fbtn"),function(b){ b.classList.toggle("active", b.dataset.f===f); }); }
-  Array.prototype.forEach.call(document.querySelectorAll(".fbtn"),function(b){ b.onclick=function(){ curFilter=b.dataset.f; setActive(curFilter); render(); }; });
+  function setActive(f){ Array.prototype.forEach.call(document.querySelectorAll("#filters .fbtn"),function(b){ b.classList.toggle("active", b.dataset.f===f); }); }
+  Array.prototype.forEach.call(document.querySelectorAll("#filters .fbtn"),function(b){ b.onclick=function(){ curFilter=b.dataset.f; setActive(curFilter); render(); }; });
 
   /* ---------- LIVE-SEARCH LINKS ---------- */
   var searches=[
@@ -400,26 +714,7 @@
   }
   fillLinks("searchLinks",searches); fillLinks("gradLinks",grads);
 
-  /* ---------- COMPANIES ---------- */
-  var COMP=[
-    {n:"On",loc:"Zürich · hybrid",why:"Jung, sportlich, global — passt zum Nordstern. Early Careers + Relocation.",u:"https://culture.on.com/what-we-do/early-careers/",ut:"Early Careers"},
-    {n:"Mammut",loc:"Seon AG",why:"Outdoor-Weltmarke, dein Lifestyle. Marketing-Praktikum offen.",u:"https://www.mammut.com/ch/en/pages/careers",ut:"Careers"},
-    {n:"TWINT",loc:"Zürich",why:"18-Mt-Graduate-Programm im digitalen Payment-Ökosystem.",u:"https://www.twint.ch/en/about-us/jobs/",ut:"Jobs"},
-    {n:"Salesforce",loc:"Zürich",why:"Weltmarktführer SaaS. Via BDR anpeilen, AE später.",u:"https://careers.salesforce.com/en/jobs/",ut:"Jobs"},
-    {n:"Nestlé",loc:"Vevey",why:"Nestlé Australia → interner Transfer. Bachelor meist nötig.",u:"https://www.nestle.com/jobs/students-graduates",ut:"Graduates"},
-    {n:"Glencore",loc:"Baar ZG",why:"Riesige AU-Präsenz → Transfer-/PR-Perspektive.",u:"https://www.glencore.com/careers",ut:"Careers"}
-  ];
-  var cbox=document.getElementById("companies");
-  COMP.forEach(function(c){
-    var el=document.createElement("div"); el.className="card";
-    var h=document.createElement("h3"); h.textContent=c.n; el.appendChild(h);
-    var m=document.createElement("div"); m.style.cssText="font-size:11.5px;color:var(--sub);margin-bottom:6px"; m.textContent=c.loc; el.appendChild(m);
-    var p=document.createElement("p"); p.className="lead"; p.style.marginBottom="10px"; p.textContent=c.why; el.appendChild(p);
-    var a=document.createElement("a"); a.href=c.u; a.target="_blank"; a.rel="noopener"; a.style.fontSize="12px"; a.textContent=c.ut+" →"; el.appendChild(a);
-    cbox.appendChild(el);
-  });
-
-  render(); renderKPIs();
+  renderCompanies(); render(); renderKPIs();
 })();
 </script>
 </body>
