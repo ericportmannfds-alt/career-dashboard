@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27",
-  "source": "Automatisch aktualisiert - 31 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
+  "updated": "2026-08-28",
+  "source": "Automatisch aktualisiert - 41 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
   "jobs": [
     {
       "t": "Strategic Account Executive - Switzerland - Consumer & Retail",
@@ -11,6 +11,17 @@
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
       "u": "https://ch.linkedin.com/jobs/view/strategic-account-executive-switzerland-consumer-retail-at-elevenlabs-4458745699",
+      "posted": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "t": "Mitarbeiter/in Customer Service 100% (mit Entwicklungsperspektive zur Teamleitung)",
+      "co": "PKS Personal AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/83a2e754-4cc0-4214-9f07-55b598335bde/",
       "posted": "2026-08-25T00:00:00.000Z"
     },
     {
@@ -25,6 +36,17 @@
       "posted": "2026-08-25T00:00:00.000Z"
     },
     {
+      "t": "Customer Service Manager (80 - 100%)",
+      "co": "Incore Technology AG",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/adae49b1-58e6-4d70-92d6-ed4cca03348a/",
+      "posted": "2026-08-24T00:00:00.000Z"
+    },
+    {
       "t": "Digital Marketing Consultant - Kundenführung & Projektleitung (80% - 100%)",
       "co": "ads&figures",
       "loc": "Schweiz",
@@ -36,15 +58,26 @@
       "posted": "2026-08-24T00:00:00.000Z"
     },
     {
-      "t": "Sales Representative | English & German",
-      "co": "R17 Ventures AG",
+      "t": "Enterprise Account Manager (f/m/d)",
+      "co": "HPE",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://careers.hpe.com/us/en/job/1193208/Enterprise-Account-Manager-f-m-d",
+      "posted": "2026-08-23T00:00:00.000Z"
+    },
+    {
+      "t": "Stv. Teamleitung Customer Service DE/EN 100% (m/w/d)",
+      "co": "Randstad",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "tech",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/sales-representative-english-german-at-r17-ventures-ag-4455828890",
-      "posted": "2026-08-24T00:00:00.000Z"
+      "u": "https://www.jobmittelland.ch/job/stv-teamleitung-customer-service-de-en-100-m-w-d/353134",
+      "posted": "2026-08-23T00:00:00.000Z"
     },
     {
       "t": "Senior Partner Marketing Manager & Team Lead Digital Marketing  100%",
@@ -58,15 +91,26 @@
       "posted": "2026-08-23T00:00:00.000Z"
     },
     {
-      "t": "Executive Director of Clinical Business Development",
-      "co": "Syneos Health, Inc.",
+      "t": "Sales Representative | English & German",
+      "co": "R17 Ventures AG",
       "loc": "Schweiz",
-      "gate": "r",
-      "lane": "westch",
+      "gate": "g",
+      "lane": "tech",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-5483-5e498a95d135e744d7c8f237c2b787a3",
-      "posted": "2026-08-22T00:00:00.000Z"
+      "u": "https://ch.linkedin.com/jobs/view/sales-representative-english-german-at-r17-ventures-ag-4455828890",
+      "posted": "2026-08-23T00:00:00.000Z"
+    },
+    {
+      "t": "Customer Service Administrator",
+      "co": "Academic Work Switzerland SA",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/33a4e0e1-b10f-4ab8-a2aa-262259fb118a/",
+      "posted": "2026-08-21T00:00:00.000Z"
     },
     {
       "t": "Growth-Minded Product Marketing Manager (AI-Driven Growth)",
@@ -91,6 +135,17 @@
       "posted": "2026-08-21T00:00:00.000Z"
     },
     {
+      "t": "Executive Director of Clinical Business Development",
+      "co": "Syneos Health, Inc.",
+      "loc": "Schweiz",
+      "gate": "r",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-5483-5e498a95d135e744d7c8f237c2b787a3",
+      "posted": "2026-08-21T00:00:00.000Z"
+    },
+    {
       "t": "Key Account Manager Switzerland (m|w|d)",
       "co": "Instaffo",
       "loc": "Schweiz",
@@ -102,17 +157,6 @@
       "posted": "2026-08-20T00:00:00.000Z"
     },
     {
-      "t": "Sales Account Manager Executive in Zürich",
-      "co": "Albedis",
-      "loc": "Schweiz",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.workpool-jobs.ch/sales-account-manager-executive-in-zuerich/10514892sf",
-      "posted": "2026-08-20T00:00:00.000Z"
-    },
-    {
       "t": "Business Development Nordwestschweiz & Mittelland (100%) – New Business SaaS | Office Züri",
       "co": "Popety.io",
       "loc": "Schweiz",
@@ -121,6 +165,28 @@
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.linkedin.com/jobs/view/business-development-nordwestschweiz-mittelland-100%25-%E2%80%93-new-business-saas-office-z%C3%BCrich-hybrid-at-popety-io-4456189278",
+      "posted": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "t": "Product & Process Owner Customer Success & AI Automation (m/w) 80-100%",
+      "co": "NZZ",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://karriere.nzz.ch/offene-stellen/product-process-owner-customer-success-ai-automation-m-w/208cd4a1-70e4-4004-9089-712226b34b35",
+      "posted": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "t": "Verkäufer/in 20-60% für Bern im Stundenlohn",
+      "co": "Magic X Retail AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobagent.ch/job/verka%CC%88ufer-in-20-60-fu%CC%88r-bern-im-stundenlohn/325363374f",
       "posted": "2026-08-20T00:00:00.000Z"
     },
     {
@@ -201,15 +267,15 @@
       "posted": "2026-08-16T00:00:00.000Z"
     },
     {
-      "t": "Account Manager - French Market !",
-      "co": "FH Collective Academy",
+      "t": "Customer Advisor Special Services (m/w/d) 80 - 100%",
+      "co": "Zurich Insurance Company Ltd.",
       "loc": "Schweiz",
-      "gate": "a",
-      "lane": "tech",
+      "gate": "g",
+      "lane": "konzern",
       "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.recruit.net/job/account-manager-french-market-jobs/C07368236032926C",
-      "posted": "2026-08-10T00:00:00.000Z"
+      "why": "Konzern mit Australien-Praesenz in Schweiz — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).",
+      "u": "https://www.careers.zurich.com/job/Z%C3%BCrich-Customer-Advisor-Special-Services-%28mwd%29-80-100/1366786257/",
+      "posted": "2026-08-13T00:00:00.000Z"
     },
     {
       "t": "Junior Associate, Client Services - Graduate (m/w/d) *Munich Based*",
@@ -253,6 +319,17 @@
       "cool": false,
       "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://www.efinancialcareers.ch/jobs-Schweiz-Z%C3%BCrich-Strategic_Business_Development_Key_Clients__Family_Offices_-_DACH.id24578843",
+      "posted": "2026-08-07T00:00:00.000Z"
+    },
+    {
+      "t": "Account Manager - Visual & Office Solutions (Sales)",
+      "co": "SHARP ELECTRONICS (SCHWEIZ) AG",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobijoba.ch/detailanzeige/93/a41488dcffb109b36d40281dd9e77d22",
       "posted": "2026-08-07T00:00:00.000Z"
     },
     {
@@ -333,15 +410,48 @@
       "posted": "2026-07-30T00:00:00.000Z"
     },
     {
-      "t": "(Junior) Account Manager Zürich (a)*",
-      "co": "Energy Media AG",
+      "t": "Customer Consultant Bewirtschaftung (m/w/d), Winterthur, 60-100%",
+      "co": "Wincasa AG",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://implenia.com/karriere/job/12689/",
+      "posted": null
+    },
+    {
+      "t": "Sachbearbeiter Customer Service 100% (m/w/d) PGEUJP00017954",
+      "co": "Manpower",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "tech",
       "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://jobs.ringier.ch/offene-stellen/junior-account-manager-zuerich-a/9d68734e-6400-4469-9298-1219b1b0ea3f",
-      "posted": "2026-07-28T00:00:00.000Z"
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.manpower.ch/de/job/zurich/sachbearbeiter-customer-service-100-m-w-d-pgeujp00017954/635583",
+      "posted": null
+    },
+    {
+      "t": "Specialist Customer Service & Order Management",
+      "co": "RUAG AG",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.ruag.ch/offene-stellen/specialist-customer-service-order-management/2f430d11-1204-4857-968e-123c7f2cbfe7",
+      "posted": null
+    },
+    {
+      "t": "Customer Service 40% (m/w/d)",
+      "co": "AMAG Group",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.amag-group.ch/Customer-Service-40-mwd-de-j23208.html?utm_source=kununu",
+      "posted": null
     }
   ]
 }
