@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06",
-  "source": "Automatisch aktualisiert - 55 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
+  "updated": "2026-09-07",
+  "source": "Automatisch aktualisiert - 47 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
   "jobs": [
     {
       "t": "Saturday Sales Assistant (M/W/D) - Lausanne",
@@ -47,17 +47,6 @@
       "posted": "2026-08-21T05:37:33.000Z"
     },
     {
-      "t": "Graduate Program Sales - Switzerland",
-      "co": "Nexi Switzerland",
-      "loc": "Wallisellen",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Wallisellen — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/graduate-program-sales-switzerland-at-nexi-switzerland-4353534708?trk=bingjobs",
-      "posted": "2026-08-20T05:59:37.000Z"
-    },
-    {
       "t": "Sales Außendienst",
       "co": "Rautenberg Associates",
       "loc": "Lausanne",
@@ -91,17 +80,6 @@
       "posted": "2026-08-09T00:00:00.000Z"
     },
     {
-      "t": "Commercial Graduate Programme - Switzerland",
-      "co": "Glencore",
-      "loc": "Baar",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Konzern mit Australien-Praesenz in Baar — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).",
-      "u": "https://ch.linkedin.com/jobs/view/commercial-graduate-programme-switzerland-at-glencore-4435242716?trk=bingjobs",
-      "posted": "2026-08-07T11:55:23.000Z"
-    },
-    {
       "t": "Account Manager Region Basel-Land",
       "co": "CWS-boco Suisse SA",
       "loc": "Basel",
@@ -111,6 +89,17 @@
       "why": "Kundennaher Einstieg in Basel — nutzt deine Kommunikationsstaerke.",
       "u": "https://ch.jobrapido.com/jobpreview/259060725656322048?trk=bingjobs",
       "posted": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "t": "Junior Credit Analyst",
+      "co": "Societe Generale",
+      "loc": "New York",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in New York — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.ziprecruiter.com/c/Societe-Generale/Job/Junior-Credit-Analyst/-in-New-York,NY?jid=34ba8fc4526b0d42&trk=bingjobs",
+      "posted": "2026-08-05T17:00:00.000Z"
     },
     {
       "t": "Leiter Customer Service & Inside Sales",
@@ -245,6 +234,17 @@
       "posted": "2026-07-22T00:00:00.000Z"
     },
     {
+      "t": "Sales Account Manager - Westschweiz",
+      "co": "Albedis Lausanne",
+      "loc": "Lausanne",
+      "gate": "a",
+      "lane": "westch",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Lausanne — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.jobrapido.com/jobpreview/8027439336028897280?trk=bingjobs",
+      "posted": "2026-07-22T00:00:00.000Z"
+    },
+    {
       "t": "Marketing & Communications Manager",
       "co": "Enabling Qapital AG",
       "loc": "Zürich",
@@ -278,6 +278,17 @@
       "posted": "2026-07-18T00:00:00.000Z"
     },
     {
+      "t": "Digital Marketing Lead - Medical Beauty Growth",
+      "co": "Gunia Consulting",
+      "loc": "Zürich",
+      "gate": "r",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
+      "u": "https://ch.jobrapido.com/jobpreview/158952047373189120?trk=bingjobs",
+      "posted": "2026-07-18T00:00:00.000Z"
+    },
+    {
       "t": "Business Development & Account Manager (Zürich, 100%)",
       "co": "Loki Robotics",
       "loc": "Zürich",
@@ -287,39 +298,6 @@
       "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
       "u": "https://ch.linkedin.com/jobs/view/business-development-account-manager-z%C3%BCrich-100%25-at-loki-robotics-4442160674?trk=bingjobs",
       "posted": "2026-07-17T13:02:52.000Z"
-    },
-    {
-      "t": "2026 Graduate Talent Program – Global FIM Key Deutschschweiz - CH",
-      "co": "UBS",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/2026-graduate-talent-program-%E2%80%93-global-fim-key-deutschschweiz-ch-at-ubs-4394351044?trk=bingjobs",
-      "posted": "2026-07-17T07:11:53.000Z"
-    },
-    {
-      "t": "2026 Graduate Talent Program – FIM Switzerland – Client Services - ZH",
-      "co": "UBS",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/2026-graduate-talent-program-%E2%80%93-fim-switzerland-%E2%80%93-client-services-zh-at-ubs-4396062712?trk=bingjobs",
-      "posted": "2026-07-17T06:56:16.000Z"
-    },
-    {
-      "t": "Graduate - Audit Banking & Asset Management",
-      "co": "KPMG Switzerland",
-      "loc": "Münchenstein",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Münchenstein — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jobrapido.com/jobpreview/7148252692949762048?trk=bingjobs",
-      "posted": "2026-07-17T00:00:00.000Z"
     },
     {
       "t": "Business Development & Inside Sales Manager Schweiz – Mbca Medical",
@@ -388,17 +366,6 @@
       "posted": "2026-07-02T00:00:00.000Z"
     },
     {
-      "t": "Management Associate Program Vertrieb",
-      "co": "BMW Group Switzerland",
-      "loc": "Dielsdorf",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Dielsdorf — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jobrapido.com/jobpreview/6739822812296380416?trk=bingjobs",
-      "posted": "2026-07-02T00:00:00.000Z"
-    },
-    {
       "t": "Business Development Manager",
       "co": "Michael Page Switzerland",
       "loc": "Lausanne",
@@ -419,17 +386,6 @@
       "why": "Sales/Business-Development in Dietikon — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://www.adzuna.ch/details/5779056027?trk=bingjobs",
       "posted": "2026-06-27T00:00:00.000Z"
-    },
-    {
-      "t": "Business Development Lead",
-      "co": "Michael Page Switzerland",
-      "loc": "Lausanne",
-      "gate": "r",
-      "lane": "westch",
-      "cool": false,
-      "why": "Sales/Business-Development in Lausanne — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jobrapido.com/jobpreview/8968085767112884224?trk=bingjobs",
-      "posted": "2026-06-24T00:00:00.000Z"
     },
     {
       "t": "Growth Marketing Manager — B2B Saas (Hybrid, Zurich)",
@@ -498,17 +454,6 @@
       "posted": "2026-06-18T00:00:00.000Z"
     },
     {
-      "t": "Graduate – Compliance Coverage Switzerland",
-      "co": "Leonteq Securities",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jobrapido.com/jobpreview/4884920419628351488?trk=bingjobs",
-      "posted": "2026-06-18T00:00:00.000Z"
-    },
-    {
       "t": "Sales Representative Switzerland",
       "co": "RealAdvisor SA",
       "loc": "Zürich",
@@ -518,39 +463,6 @@
       "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.jobrapido.com/jobpreview/6867402487951785984?trk=bingjobs",
       "posted": "2026-06-10T00:00:00.000Z"
-    },
-    {
-      "t": "Graduate Program - Manager Junior (H/F)",
-      "co": "Rolex",
-      "loc": "Genève",
-      "gate": "g",
-      "lane": "westch",
-      "cool": false,
-      "why": "Sales/Business-Development in Genève — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jobrapido.com/jobpreview/2258894917122129920?trk=bingjobs",
-      "posted": "2026-06-04T00:00:00.000Z"
-    },
-    {
-      "t": "Graduate Program - Financial Services Tax Consulting",
-      "co": "KPMG Switzerland",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jobrapido.com/jobpreview/4504600137854615552?trk=bingjobs",
-      "posted": "2026-06-02T00:00:00.000Z"
-    },
-    {
-      "t": "Graduate Program - Manager Junior (H/F)",
-      "co": "Rolex",
-      "loc": "Genève",
-      "gate": "g",
-      "lane": "westch",
-      "cool": false,
-      "why": "Sales/Business-Development in Genève — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jobrapido.com/jobpreview/821333354145120256?trk=bingjobs",
-      "posted": "2026-05-26T00:00:00.000Z"
     },
     {
       "t": "Agri-PV Sales & Business Growth Lead (Deutschschweiz)",
@@ -586,17 +498,6 @@
       "posted": "2026-05-09T00:00:00.000Z"
     },
     {
-      "t": "2026 Off-Cycle Internship - P&C Marketing & Digital Sales – Zurich",
-      "co": "UBS",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
-      "u": "https://ch.jobrapido.com/jobpreview/3587618504125186048?trk=bingjobs",
-      "posted": "2026-05-09T00:00:00.000Z"
-    },
-    {
       "t": "Account Manager  Für Die Region Basel",
       "co": "TA Triumph-Adler Schweiz AG",
       "loc": "Basel",
@@ -606,6 +507,17 @@
       "why": "Kundennaher Einstieg in Basel — nutzt deine Kommunikationsstaerke.",
       "u": "https://ch.jobrapido.com/jobpreview/1573715099309309952?trk=bingjobs",
       "posted": "2026-03-26T00:00:00.000Z"
+    },
+    {
+      "t": "EPM Solution Architect, Sales Performance Management - San Francisco Bay Area",
+      "co": "Pigment",
+      "loc": "New York metropolitan area",
+      "gate": "r",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in New York metropolitan area — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.linkedin.com/jobs/view/epm-solution-architect-sales-performance-management-san-francisco-bay-area-at-pigment-4228273393?trk=bingjobs",
+      "posted": "2026-03-04T05:20:46.000Z"
     }
   ]
 }
