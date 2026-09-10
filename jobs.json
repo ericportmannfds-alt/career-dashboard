@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-09",
-  "source": "Automatisch aktualisiert - 58 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
+  "updated": "2026-09-10",
+  "source": "Automatisch aktualisiert - 57 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
   "jobs": [
+    {
+      "t": "Junior Associate, Client Services - Graduate (M/W/D) *Munich Based*",
+      "co": "Third Bridge Group",
+      "loc": "Zürich",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/junior-associate-client-services-graduate-m-w-d-munich-based-at-third-bridge-group-4451199067?trk=bingjobs",
+      "posted": "2026-09-09T06:23:05.000Z"
+    },
     {
       "t": "Business Development & Technical Sales",
       "co": "strico ag",
@@ -12,6 +23,28 @@
       "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.linkedin.com/jobs/view/business-development-technical-sales-at-strico-ag-4464602761?trk=bingjobs",
       "posted": "2026-09-08T06:44:24.000Z"
+    },
+    {
+      "t": "Sales & Business Development Manager ",
+      "co": "Sixsentix",
+      "loc": "Zürich",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/sales-business-development-manager-at-sixsentix-4462280496?trk=bingjobs",
+      "posted": "2026-09-08T02:02:53.000Z"
+    },
+    {
+      "t": "Sales / Business Development Manager (B2B Digital Marketing)",
+      "co": "Approach People Recruitment",
+      "loc": "Zürich",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
+      "u": "https://ch.linkedin.com/jobs/view/sales-business-development-manager-b2b-digital-marketing-at-approach-people-recruitment-4464448981?trk=bingjobs",
+      "posted": "2026-09-08T01:41:24.000Z"
     },
     {
       "t": "Global Head Of Business Development, Sales & Marketing",
@@ -76,7 +109,7 @@
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.glassdoor.com/job-listing/it-sales-account-manager-m-w-d-80-100-human-select-ag-JV_IC3297851_KO0,37_KE38,53.htm?jl=1010239197866&trk=bingjobs",
+      "u": "https://ch.jobrapido.com/jobpreview/4042376247085367296?trk=bingjobs",
       "posted": "2026-08-24T00:00:00.000Z"
     },
     {
@@ -113,17 +146,6 @@
       "posted": "2026-08-23T06:43:52.000Z"
     },
     {
-      "t": "Sales Development Representative  SDR (M/W/D)",
-      "co": "Timly Software AG",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/sales-development-representative-sdr-m-w-d-at-timly-software-ag-4457868140?trk=bingjobs",
-      "posted": "2026-08-22T12:15:43.000Z"
-    },
-    {
       "t": "Sales Account Manager – B2B Mobility Solutions",
       "co": "KeyPartners",
       "loc": "Zürich Metropolitan Area",
@@ -139,22 +161,11 @@
       "co": "Inventx AG",
       "loc": "Zürich Metropolitan Area",
       "gate": "a",
-      "lane": "tech",
+      "lane": "westch",
       "cool": false,
       "why": "Sales/Business-Development in Zürich Metropolitan Area — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.linkedin.com/jobs/view/sales-profi-als-business-development-manager-at-inventx-ag-4435564727?trk=bingjobs",
       "posted": "2026-08-21T05:37:33.000Z"
-    },
-    {
-      "t": "Sales Development Representative (SDR) (100%) – Zürich",
-      "co": "Properti",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/sales-development-representative-sdr-100%25-%E2%80%93-z%C3%BCrich-at-properti-4444566614?trk=bingjobs",
-      "posted": "2026-08-20T07:07:11.000Z"
     },
     {
       "t": "Customer Success Manager",
@@ -234,6 +245,17 @@
       "posted": "2026-08-16T23:49:19.000Z"
     },
     {
+      "t": "Marketing Communication Specialist Digital 100%  – Befristet",
+      "co": "Asanti AG",
+      "loc": "Zürich",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
+      "u": "https://ch.jobrapido.com/jobpreview/5113747747354181632?trk=bingjobs",
+      "posted": "2026-08-13T00:00:00.000Z"
+    },
+    {
       "t": "Sales Development Representative",
       "co": "Cato Networks",
       "loc": "Zürich",
@@ -254,17 +276,6 @@
       "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
       "u": "https://ch.jobrapido.com/jobpreview/3019817325013499904?trk=bingjobs",
       "posted": "2026-08-09T00:00:00.000Z"
-    },
-    {
-      "t": "Stage Digital Marketing Specialist",
-      "co": "SRG SSR",
-      "loc": "Zürich",
-      "gate": "a",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
-      "u": "https://www.glassdoor.com/job-listing/stage-digital-marketing-specialist-srg-ssr-JV_IC3297851_KO0,34_KE35,42.htm?jl=1010221068580&trk=bingjobs",
-      "posted": "2026-08-04T00:00:00.000Z"
     },
     {
       "t": "Sales Account Manager - Switzerland",
@@ -340,8 +351,8 @@
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.adzuna.ch/details/5841670728?trk=bingjobs",
-      "posted": "2026-07-30T00:00:00.000Z"
+      "u": "https://ch.jobrapido.com/jobpreview/8965013654315466752?trk=bingjobs",
+      "posted": "2026-07-31T00:00:00.000Z"
     },
     {
       "t": "Sales Account Manager Executive",
@@ -353,6 +364,17 @@
       "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
       "u": "https://ch.jobrapido.com/jobpreview/2301513937729880064?trk=bingjobs",
       "posted": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "t": "Manager Customer Success - Data & Governance",
+      "co": "Energie 360°",
+      "loc": "Zürich",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.glassdoor.com/job-listing/manager-customer-success-data-and-governance-energie-360%C2%B0-JV_IC3297851_KO0,44_KE45,57.htm?jl=1010213683579&trk=bingjobs",
+      "posted": "2026-07-29T00:00:00.000Z"
     },
     {
       "t": "Graduate Program Retail Flow Trading (12 Months)",
@@ -421,17 +443,6 @@
       "posted": "2026-07-17T06:56:16.000Z"
     },
     {
-      "t": "Graduate - Audit Banking & Asset Management",
-      "co": "jobs.nzz",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jobrapido.com/jobpreview/8189829403790802944?trk=bingjobs",
-      "posted": "2026-07-17T00:00:00.000Z"
-    },
-    {
       "t": "Sales Development Representative",
       "co": "Intonate",
       "loc": "Zürich",
@@ -498,17 +509,6 @@
       "posted": "2026-06-22T00:00:00.000Z"
     },
     {
-      "t": "Business Development Sales Representative – Ablation Interventional",
-      "co": "Mosaic",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "westch",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.glassdoor.com/job-listing/business-development-sales-representative-%E2%80%93-ablation-interventional-medtronic-JV_IC3297851_KO0,67_KE68,77.htm?jl=1010143198506&trk=bingjobs",
-      "posted": "2026-06-22T00:00:00.000Z"
-    },
-    {
       "t": "Digital Marketing Consultant (M/W/D) Ab 80%",
       "co": "BlueGlass Interactive AG",
       "loc": "Zürich",
@@ -564,17 +564,6 @@
       "posted": "2026-06-02T00:00:00.000Z"
     },
     {
-      "t": "Manager, Business Development & Marketing",
-      "co": "Howden Private Wealth",
-      "loc": "Zürich",
-      "gate": "a",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
-      "u": "https://ch.jobrapido.com/jobpreview/6416487855958261760?trk=bingjobs",
-      "posted": "2026-05-31T00:00:00.000Z"
-    },
-    {
       "t": "Customer Success Manager (German-Speaking)",
       "co": "DeepJudge AG",
       "loc": "Zürich",
@@ -586,17 +575,6 @@
       "posted": "2026-05-26T00:00:00.000Z"
     },
     {
-      "t": "Customer Success Manager - SAP Academy For Customer Success - Switzerland (Hybrid)",
-      "co": "SAP SE",
-      "loc": "Zürich",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.jobrapido.com/jobpreview/3046328242576293888?trk=bingjobs",
-      "posted": "2026-05-20T00:00:00.000Z"
-    },
-    {
       "t": "Customer Success Manager",
       "co": "Supertext",
       "loc": "Zürich",
@@ -606,6 +584,17 @@
       "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
       "u": "https://ch.jobrapido.com/jobpreview/4464403298413182976?trk=bingjobs",
       "posted": "2026-05-19T00:00:00.000Z"
+    },
+    {
+      "t": "Sales Business Development Manager",
+      "co": "Exclusive Networks Switzerland",
+      "loc": "Zürich",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.jobrapido.com/jobpreview/8904205825166278656?trk=bingjobs",
+      "posted": "2026-05-11T00:00:00.000Z"
     },
     {
       "t": "Growth Marketing & Digital Sales Internship – Zurich",
