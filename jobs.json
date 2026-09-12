@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-11",
-  "source": "Automatisch aktualisiert - 56 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
+  "updated": "2026-09-12",
+  "source": "Automatisch aktualisiert - 57 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
   "jobs": [
+    {
+      "t": "Account Manager Switzerland – Customer Success, LHH Career Transition & Mobility",
+      "co": "LHH",
+      "loc": "Zürich",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.linkedin.com/jobs/view/account-manager-switzerland-%E2%80%93-customer-success-lhh-career-transition-mobility-at-lhh-4464522773?trk=bingjobs",
+      "posted": "2026-09-10T06:12:39.000Z"
+    },
     {
       "t": "University Graduate - Business Management Region Western Markets & Switzerland 100% (F/M/D",
       "co": "Julius Baer",
@@ -12,6 +23,17 @@
       "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.linkedin.com/jobs/view/university-graduate-business-management-region-western-markets-switzerland-100%25-f-m-d-at-julius-baer-4465352663?trk=bingjobs",
       "posted": "2026-09-09T15:43:44.000Z"
+    },
+    {
+      "t": "University Graduate – Program Associate 100% (F/M/D)",
+      "co": "Julius Baer",
+      "loc": "Zürich",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/university-graduate-%E2%80%93-program-associate-100%25-f-m-d-at-julius-baer-4465348718?trk=bingjobs",
+      "posted": "2026-09-09T15:41:51.000Z"
     },
     {
       "t": "Account Manager/Sr Account Manager, Global Sales - Switzerland ZRH",
@@ -80,17 +102,6 @@
       "posted": "2026-09-07T06:53:38.000Z"
     },
     {
-      "t": "Customer Success Manager SAP 80-100% ",
-      "co": "NTT DATA Business Solutions",
-      "loc": "Zürich",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.linkedin.com/jobs/view/customer-success-manager-sap-80-100%25-at-ntt-data-business-solutions-4462925247?trk=bingjobs",
-      "posted": "2026-09-06T23:02:09.000Z"
-    },
-    {
       "t": "Marketing & Sales Development Executive (80–100 %)",
       "co": "Comsol",
       "loc": "Zürich",
@@ -133,6 +144,17 @@
       "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.jobrapido.com/jobpreview/6340016693397422080?trk=bingjobs",
       "posted": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "t": "Sales & Business Development Associate (M/W/D)",
+      "co": "AI Business School",
+      "loc": "Zürich",
+      "gate": "g",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.jobrapido.com/jobpreview/165554666237591552?trk=bingjobs",
+      "posted": "2026-08-31T00:00:00.000Z"
     },
     {
       "t": "Sales Development Representative  SDR (M/W/D)",
@@ -212,26 +234,15 @@
       "posted": "2026-08-18T08:13:47.000Z"
     },
     {
-      "t": "Marketing & Communications Manager 50–60%",
-      "co": "CJ Recruitment",
+      "t": "Hospitality Digital Marketing Specialist – Growth & CRM",
+      "co": "Myjob",
       "loc": "Zürich",
       "gate": "a",
       "lane": "growth",
       "cool": false,
       "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
-      "u": "https://ch.linkedin.com/jobs/view/marketing-communications-manager-50%E2%80%9360%25-at-cj-recruitment-4455710818?trk=bingjobs",
-      "posted": "2026-08-18T04:23:02.000Z"
-    },
-    {
-      "t": "Marketing & Communications Manager 60–80%",
-      "co": "CJ Recruitment",
-      "loc": "Zürich",
-      "gate": "a",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
-      "u": "https://ch.linkedin.com/jobs/view/marketing-communications-manager-60%E2%80%9380%25-at-cj-recruitment-4455710818?trk=bingjobs",
-      "posted": "2026-08-18T04:23:02.000Z"
+      "u": "https://ch.jobrapido.com/jobpreview/4341413448148582400?trk=bingjobs",
+      "posted": "2026-08-18T00:00:00.000Z"
     },
     {
       "t": "Graduate - Audit Banking & Asset Management",
@@ -289,6 +300,17 @@
       "posted": "2026-08-09T00:00:00.000Z"
     },
     {
+      "t": "Stage Digital Marketing Specialist",
+      "co": "SRG SSR",
+      "loc": "Zürich",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
+      "u": "https://www.glassdoor.com/job-listing/stage-digital-marketing-specialist-srg-ssr-JV_IC3297851_KO0,34_KE35,42.htm?jl=1010221068580&trk=bingjobs",
+      "posted": "2026-08-04T00:00:00.000Z"
+    },
+    {
       "t": "Sales Account Manager - Switzerland",
       "co": "ACROBiosystems",
       "loc": "Zürich",
@@ -333,17 +355,6 @@
       "posted": "2026-08-03T00:00:00.000Z"
     },
     {
-      "t": "Graduate Program - International Corporate Tax Consulting",
-      "co": "NZZone",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jobrapido.com/jobpreview/8009271418208387072?trk=bingjobs",
-      "posted": "2026-08-01T00:00:00.000Z"
-    },
-    {
       "t": "Sales Account Manager Executive (M/W/D)",
       "co": "Albedis SA",
       "loc": "Zürich",
@@ -351,8 +362,8 @@
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.adzuna.ch/details/5841670728?trk=bingjobs",
-      "posted": "2026-07-30T00:00:00.000Z"
+      "u": "https://ch.jobrapido.com/jobpreview/8965013654315466752?trk=bingjobs",
+      "posted": "2026-07-31T00:00:00.000Z"
     },
     {
       "t": "Sales Account Manager Executive",
@@ -407,6 +418,17 @@
       "cool": false,
       "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
       "u": "https://ch.jobrapido.com/jobpreview/5106758770411700224?trk=bingjobs",
+      "posted": "2026-07-18T00:00:00.000Z"
+    },
+    {
+      "t": "Digital Marketing Lead - Medical Beauty Growth",
+      "co": "Gunia Consulting",
+      "loc": "Zürich",
+      "gate": "r",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Zürich — passt zu deinem Fokus.",
+      "u": "https://ch.jobrapido.com/jobpreview/158952047373189120?trk=bingjobs",
       "posted": "2026-07-18T00:00:00.000Z"
     },
     {
@@ -474,17 +496,6 @@
       "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
       "u": "https://ch.jobrapido.com/jobpreview/5355645631224348672?trk=bingjobs",
       "posted": "2026-07-08T00:00:00.000Z"
-    },
-    {
-      "t": "Sales & Business Development Associate (M/W/D)",
-      "co": "AI Business School",
-      "loc": "Zürich Metropolitan Area",
-      "gate": "g",
-      "lane": "westch",
-      "cool": false,
-      "why": "Sales/Business-Development in Zürich Metropolitan Area — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/sales-business-development-associate-m-w-d-at-ai-business-school-4249607262?trk=bingjobs",
-      "posted": "2026-07-03T04:08:02.000Z"
     },
     {
       "t": "Digital Marketing Consultant (M/W/D) Ab 80%",
