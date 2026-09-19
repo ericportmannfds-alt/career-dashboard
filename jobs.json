@@ -1,28 +1,116 @@
 {
-  "updated": "2026-09-17",
-  "source": "Automatisch aktualisiert - 16 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
+  "updated": "2026-09-19",
+  "source": "Automatisch aktualisiert - 26 Treffer aus LinkedIn/Indeed/jobs.ch (Google Jobs)",
   "jobs": [
     {
-      "t": "Partner Account Manager B2B",
-      "co": "Salt Mobile SA",
+      "t": "Business Development Manager - Insurance (Switzerland)",
+      "co": "LHH Recruitment Solutions",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobagent.ch/job/business-development-manager-insurance-switzerland/3254685275",
+      "posted": "2026-09-18T11:00:00.000Z"
+    },
+    {
+      "t": "B2B Account Manager – Autonomie",
+      "co": "Lyreco Switzerland AG",
       "loc": "Schweiz",
       "gate": "a",
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://jobmaps.ch/de/company/503391/job/304695",
+      "u": "https://ch.trabajo.org/stellenangebot-1917-9f0b8182c1d6a50c1c6c3469e1559f76",
+      "posted": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "t": "(Senior) Key Account Manager Region Central 80-100%",
+      "co": "Sunrise GmbH",
+      "loc": "Schweiz",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobzueri.ch/job/senior-key-account-manager-region-central-80-100/944607",
+      "posted": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "t": "Swiss Account Manager - Hybrid, Growth & Client Success",
+      "co": "LHH",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobleads.com/ch/job/swiss-account-manager-hybrid-growth-client-success--zurich--eb17ffc4b66d3fc406a535ba30f5fa986",
+      "posted": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "t": "Content Reviewer - Digitaler Evaluator (Remote)",
+      "co": "Proprofitworld",
+      "loc": "Bern",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Bern — passt zu deinem Fokus.",
+      "u": "https://ch.jooble.org/jdp/8502888193379431211",
+      "posted": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "t": "Head of Business Development",
+      "co": "SeasON Energy AG",
+      "loc": "Schweiz",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-5080-236077ee9c35313fdb3a2b8fb163d11d",
       "posted": "2026-09-15T00:00:00.000Z"
     },
     {
-      "t": "Swiss Remote SDR — Path to Account Executive",
-      "co": "Keepit",
+      "t": "Verkaufsberater*in, Agentur Bern 100%",
+      "co": "ÖKK Versicherungen AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobagent.ch/job/verkaufsberater-in-agentur-bern-100/3254585a4f",
+      "posted": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "t": "Digital Marketing Consultant",
+      "co": "ads&figures AG",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://ch.trabajo.org/stellenangebot-2429-897f2fb6d7fb1a7f92a03552e1c810e8",
+      "posted": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "t": "Controlling Graduate",
+      "co": "Red Bull",
+      "loc": "Zug",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Zug — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/controlling-graduate-at-red-bull-4467044880",
+      "posted": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "t": "Business Development Management",
+      "co": "Chain IQ Group AG",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "tech",
       "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.trabajo.org/stellenangebot-2253-748b5edd2e1188b4eba73aed25efc6ca",
-      "posted": "2026-09-14T00:00:00.000Z"
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-5080-5334af092ed1c7ecf79fb5d40d63cae7",
+      "posted": "2026-09-13T00:00:00.000Z"
     },
     {
       "t": "Account Development Sales",
@@ -36,25 +124,47 @@
       "posted": "2026-09-13T00:00:00.000Z"
     },
     {
-      "t": "Business Development​/Sales - Focus International",
-      "co": "Jobup",
-      "loc": "Genf",
+      "t": "Praktikum Marketing",
+      "co": "Novalytica AG",
+      "loc": "Schweiz",
       "gate": "g",
-      "lane": "westch",
+      "lane": "growth",
       "cool": false,
-      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.learn4good.com/jobs/geneva/switzerland/sales/5463588853/e/",
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://ch.trabajo.org/stellenangebot-5080-21abde5903cb294c990136ea00100784",
+      "posted": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "t": "Retail Marketing Manager",
+      "co": "MSC Cruises",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://careers.msccruises.com/gb/en/job/17629/Retail-Marketing-Manager",
+      "posted": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "t": "Senior Sales & Account Manager/in Banking Romandie (80-100%)",
+      "co": "SIX Group AG",
+      "loc": "Schweiz",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobzueri.ch/job/senior-sales-account-manager-in-banking-romandie-80-100/939689",
       "posted": "2026-09-12T00:00:00.000Z"
     },
     {
-      "t": "(Senior) Key Accounts Manager Spirits",
-      "co": "Coca-Cola HBC",
+      "t": "Senior Strategic Key Account Manager (m/w/d) 100% Unbefristet",
+      "co": "Biopharma Careers",
       "loc": "Schweiz",
       "gate": "r",
-      "lane": "konzern",
+      "lane": "tech",
       "cool": false,
-      "why": "Konzern mit Australien-Praesenz in Schweiz — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).",
-      "u": "https://ch.trabajo.org/stellenangebot-2253-7d3ef45c9c698f818d27d2ab337dae62",
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.talent.com/view?id=635680612399522676",
       "posted": "2026-09-12T00:00:00.000Z"
     },
     {
@@ -71,46 +181,13 @@
     {
       "t": "Key Account Manager - Mobility; m​/w​/d",
       "co": "Allianz Partners",
-      "loc": "Egg",
+      "loc": "Schweiz",
       "gate": "a",
       "lane": "tech",
       "cool": false,
-      "why": "Kundennaher Einstieg in Egg — nutzt deine Kommunikationsstaerke.",
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.learn4good.com/jobs/switzerland/sales/5404638535/e/",
       "posted": "2026-09-12T00:00:00.000Z"
-    },
-    {
-      "t": "Enterprise Account Executive Remote",
-      "co": "monday.com",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Zürich — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.learn4good.com/jobs/online_remote/sales/5350788667/e/",
-      "posted": "2026-09-12T00:00:00.000Z"
-    },
-    {
-      "t": "Senior Sales & Account Manager/in Banking Romandie (80-100%)",
-      "co": "SIX Group",
-      "loc": "Schweiz",
-      "gate": "r",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.zueri.jobs/jobs/684641810-senior-sales-account-manager-in-banking-romandie-80-100",
-      "posted": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "t": "Key Account Manager Switzerland (m|w|d)",
-      "co": "Instaffo",
-      "loc": "Schweiz",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.linkedin.com/jobs/view/key-account-manager-switzerland-m-w-d-at-instaffo-4456750213",
-      "posted": "2026-09-11T00:00:00.000Z"
     },
     {
       "t": "Customer Success Agent — Remote, Growth",
@@ -124,48 +201,70 @@
       "posted": "2026-09-11T00:00:00.000Z"
     },
     {
-      "t": "Sales manager (any) 100% - Locke Zurich - Zürich, Switzerland",
-      "co": "hosco.",
+      "t": "Sales Manager/-in (Vollzeit)",
+      "co": "Sales & Business Development",
       "loc": "Zürich",
       "gate": "a",
       "lane": "tech",
       "cool": false,
       "why": "Sales/Business-Development in Zürich — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jooble.org/jdp/1115265516874388456",
+      "u": "https://ch.jooble.org/rjdp/-8875426813006539634",
       "posted": "2026-09-10T00:00:00.000Z"
     },
     {
-      "t": "Account Manager B2B Sales - Region Zürich (m/w/d) 100%",
-      "co": "Lyreco Switzerland AG",
+      "t": "Versicherungsberater/in Allbranchenversicherung Region Bern 80-100%",
+      "co": "Visana Services AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://emploi-bancassurance.ch/job/versicherungsberater-in-allbranchenversicherung-region-bern-80-100/32544c6966",
+      "posted": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "t": "Key Account Manager Schweiz (m/w/d)",
+      "co": "AB InBev Switzerland GmbH",
       "loc": "Schweiz",
       "gate": "a",
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobagent.ch/job/account-manager-b2b-sales-region-zu%CC%88rich-m-w-d-100/32544f6f34",
-      "posted": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "t": "Account Manager B2B Sales – Region Zürich (m/w/d) 100%",
-      "co": "Lyreco Switzerland AG",
-      "loc": "Dietikon",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Dietikon — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.linkedin.com/jobs/view/account-manager-b2b-sales-%E2%80%93-region-z%C3%BCrich-m-w-d-100%25-at-lyreco-switzerland-ag-4464466581",
+      "u": "https://bebee.com/ch/jobs/key-account-manager-schweiz-ab-inbev-switzerland-gmbh-rotkreuz-zg--t7xk-833396210",
       "posted": "2026-09-08T00:00:00.000Z"
     },
     {
-      "t": "Account Manager Firmenkunden (m/w/d) 80 - 100%",
-      "co": "Zürich Versicherungs-Gesellschaft AG",
+      "t": "Verkäufer/in Bahnhof Bern 50-70%",
+      "co": "Mikhuna GmbH",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobagent.ch/job/verka%CC%88ufer-in-bahnhof-bern-50-70/3254363343",
+      "posted": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "t": "Account ManagerIn Advertising Sales (80-100%)",
+      "co": "Digt AG",
+      "loc": "Dällikon",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Dällikon — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.linkedin.com/jobs/view/account-managerin-advertising-sales-80-100%25-at-digt-ag-4459527630",
+      "posted": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "t": "Key Account Manager - Mobility (m/w/d)",
+      "co": "Allianz Insurance",
       "loc": "Schweiz",
       "gate": "a",
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobagent.ch/job/account-manager-firmenkunden-m-w-d-80-100/3254423555",
-      "posted": "2026-09-04T00:00:00.000Z"
+      "u": "https://careers.allianz.com/de/de/job/104866/Key-Account-Manager-Mobility-m-w-d",
+      "posted": "2026-08-30T00:00:00.000Z"
     },
     {
       "t": "Key Account Manager & Business Development – Distributor Markets",
@@ -177,6 +276,17 @@
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
       "u": "https://bebee.com/ch/jobs/key-account-manager-business-development-distributor-markets-gisada-switzerland-winterthur--techmap_ch_4460319720",
       "posted": "2026-08-28T00:00:00.000Z"
+    },
+    {
+      "t": "Verkäufer/in 20-60% für Bern im Stundenlohn",
+      "co": "Magic X Retail AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://emploi-commercial.ch/job/verka%CC%88ufer-in-20-60-fu%CC%88r-bern-im-stundenlohn/325363374f",
+      "posted": "2026-08-20T00:00:00.000Z"
     }
   ]
 }
