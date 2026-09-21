@@ -17,10 +17,10 @@ const QUERIES = [
   // --- Karriere (Plan A) — 3 breite Suchen decken tech/growth/westch/konzern ab ---
   { q: "sales OR business development OR account executive OR account manager OR customer success jobs Switzerland OR Geneva OR Lausanne", lane: "tech" },
   { q: "marketing OR digital marketing OR growth OR communications OR brand jobs Zurich OR Bern OR Basel", lane: "growth" },
-  { q: "graduate program OR management trainee OR junior program OR trainee jobs Switzerland", lane: "konzern" },
+  { q: "junior OR graduate OR trainee OR nachwuchs OR absolvent OR einsteiger jobs Switzerland", lane: "konzern" },
   // --- Studi / Nebenjob (Teilzeit neben dem Studium) ---
-  { q: "Aushilfe OR Teilzeit OR Studentenjob Service OR Gastronomie OR Barista OR Bar OR Kellner OR Buffet jobs Olten OR Aarau OR Solothurn OR Zofingen", lane: "studi", studi: true },
-  { q: "Teilzeit OR Aushilfe Verkauf OR Detailhandel OR Empfang OR Sekretariat OR Office OR Kundendienst jobs Olten OR Aarau OR Solothurn OR Zurich", lane: "studi", studi: true },
+  { q: "Aushilfe OR Teilzeit OR Studentenjob Service OR Gastronomie OR Barista OR Verkauf OR Detailhandel jobs Olten OR Aarau OR Solothurn OR Zofingen", lane: "studi", studi: true },
+  { q: "Teilzeit OR Aushilfe Empfang OR Sekretariat OR Office OR Backoffice OR Kundendienst OR Sachbearbeiter jobs Olten OR Aarau OR Solothurn OR Zurich", lane: "studi", studi: true },
   { q: "Werkstudent OR Nebenjob OR Aushilfe remote OR online OR Homeoffice Kundenservice OR Dateneingabe OR Nachhilfe OR Promotion jobs Schweiz", lane: "studi", studi: true },
 ];
 
@@ -32,7 +32,7 @@ const JUNIOR = /(junior|entry|graduate|trainee|associate|representative|\bbdr\b|
 const MID = /(manager|specialist|consultant|lead gen)/i;
 
 // --- Studi-Filter: breit ANNEHMEN (Gastro/Retail/Buero/Remote), nur klar Ungeeignetes raus ---
-const STUDI_RELEVANT = /(aushilfe|teilzeit|studenten|student|werkstudent|nebenjob|service|gastro|barista|\bbar\b|kellner|servicemit|buffet|catering|küche|counter|verkauf|verkäuf|detailhandel|kasse|sales assistant|retail|empfang|reception|rezeption|sekretari|büro|office|backoffice|kundendienst|kundenservice|kundenbet|customer service|callcenter|call center|hotline|dateneingab|data entry|nachhilfe|tutor|promot|hostess|merchandis|lager|kurier|fahrer|delivery|reinig|flyer|umfrage|inventur|barkeeper|runner)/i;
+const STUDI_RELEVANT = /(aushilfe|teilzeit|studenten|student|werkstudent|nebenjob|service|gastro|barista|\bbar\b|kellner|servicemit|buffet|catering|küche|counter|verkauf|verkäuf|detailhandel|kasse|sales assistant|retail|empfang|reception|rezeption|sekretari|sachbearbeit|büro|office|backoffice|kundendienst|kundenservice|kundenbet|customer service|callcenter|call center|hotline|dateneingab|data entry|nachhilfe|tutor|promot|hostess|merchandis|lager|kurier|fahrer|delivery|reinig|flyer|umfrage|inventur|barkeeper|runner)/i;
 const STUDI_EXCLUDE = /(lehrstelle|lehrbeginn|ausbildung zum|ausbildung zur|eidg|diplomiert|geschäftsführ|geschäftsleit|betriebsleiter|filialleiter|abteilungsleiter|standortleiter|teamleiter|verkaufsleiter|\bsenior\b|head of|\bmeister\b|bachelor|master of|abgeschlossenes studium)/i;
 
 const ROMANDIE = /(gen[eè]ve|geneva|lausanne|vaud|neuch[aâ]tel|fribourg|sion|valais|montreux|nyon|morges|vevey|renens|pully)/i;
@@ -68,7 +68,7 @@ function whyStudi(title, city, remote) {
   if (/nachhilfe|tutor/i.test(title)) return `Nachhilfe — hoher Stundenlohn (CHF 40–70), flexibel am Nachmittag.`;
   if (/service|gastro|barista|bar|kellner|buffet|catering|runner|barkeeper/i.test(title)) return `Gastro/Service${c} — Abend/Wochenende, passt um die Vormittags-Uni.`;
   if (/verkauf|verkäuf|detailhandel|retail|kasse|merchandis/i.test(title)) return `Verkauf/Retail${c} — Samstage & Nachmittage, planbar.`;
-  if (/empfang|reception|rezeption|sekretari|büro|office|backoffice|kundendienst|kundenservice|customer service/i.test(title)) return `Büro/Empfang${c} — nutzt dein KV, sauber neben dem Studium.`;
+  if (/empfang|reception|rezeption|sekretari|sachbearbeit|büro|office|backoffice|kundendienst|kundenservice|customer service/i.test(title)) return `Büro/Empfang${c} — nutzt dein KV, sauber neben dem Studium.`;
   return `Teilzeit/Aushilfe${c} — neben dem Studium machbar.`;
 }
 
