@@ -165,6 +165,7 @@
   <div class="nav-in">
     <div class="brand"><span class="dot"></span> Career Command Center</div>
     <a class="link" href="#nebenjob">Nebenjob</a>
+    <a class="link" href="#studijobs">🎓 Studi-Jobs</a>
     <a class="link" href="#treffer">Treffer</a>
     <a class="link" href="#plan">Plan A/B</a>
     <a class="link" href="#tracker">Tracker</a>
@@ -231,6 +232,13 @@
 
     </div>
     <div class="warn" style="margin-top:14px">🎯 <b>Empfehlung:</b> Kombi aus <b>1 planbarem Anker</b> (Café/Bar oder Retail, Abend/WE) für sicheres Einkommen <b>+ Nachhilfe</b> für den hohen Stundenlohn. Coople/Adia füllen Lücken. Schnellstes Geld diese Woche: <a href="https://www.superprof.ch/" target="_blank" rel="noopener">Superprof-Profil</a> + eine Café/Bar-Anfrage in Olten.</div>
+  </section>
+
+  <section id="studijobs">
+    <div class="sec-h"><h2>🎓 Studi-Jobs · live</h2><span class="updated" id="studi-updated">lädt…</span></div>
+    <div class="note">Echte, aktuelle Inserate — täglich frisch aus dem Feed: <b>Gastro/Service</b>, <b>Verkauf/Büro</b> und <b>Remote/Online</b>, Region Olten + CH-weit. Ergänzt die Tipps oben mit konkreten Stellen zum Direktbewerben.</div>
+    <div id="studi-root"><div class="loading">Lade aktuelle Studi-Jobs…</div></div>
+    <div class="warn" style="margin-top:14px">💡 Kommt aus demselben Tages-Feed wie deine Karriere-Treffer. Wenig dabei? Die <a href="#nebenjob">Radar-Tipps</a> oben (Coople, Superprof, Café/Bar direkt anfragen) sind immer aktuell.</div>
   </section>
 
   <section id="strategie">
@@ -537,11 +545,13 @@
   }
 
   fetch("jobs.json?_="+Date.now()).then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
-    .then(function(data){ renderJobs(data); })
+    .then(function(data){ renderJobs(data); renderStudi(data); })
     .catch(function(e){
-      if(window.__INLINE_JOBS){ renderJobs(window.__INLINE_JOBS); return; }
+      if(window.__INLINE_JOBS){ renderJobs(window.__INLINE_JOBS); renderStudi(window.__INLINE_JOBS); return; }
       jroot.innerHTML='<div class="warn">Konnte die Jobs gerade nicht laden ('+e.message+'). Nutze so lange die Live-Suche-Links unten — die sind immer aktuell.</div>';
       document.getElementById("updated").textContent="—";
+      var sr=document.getElementById("studi-root"); if(sr) sr.innerHTML='<div class="warn">Studi-Jobs gerade nicht ladbar — nutze die <a href="#nebenjob">Radar-Tipps</a> oben.</div>';
+      var su=document.getElementById("studi-updated"); if(su) su.textContent="—";
     });
 
   function renderJobs(data){
@@ -551,7 +561,8 @@
     jobs.forEach(function(j){ j.__match=isTargetFirma(j.co); });
     var up=document.getElementById("updated");
     var matchCount=jobs.filter(function(j){ return j.__match; }).length;
-    up.textContent="🔄 aktualisiert: "+(data.updated||"—")+" · "+jobs.length+" Jobs · ⭐ "+matchCount+" Ziel-Firmen-Matches";
+    var careerN=jobs.filter(function(j){ return j.lane!=="studi"; }).length;
+    up.textContent="🔄 aktualisiert: "+(data.updated||"—")+" · "+careerN+" Jobs · ⭐ "+matchCount+" Ziel-Firmen-Matches";
     document.getElementById("foot-updated").textContent="Datenstand: "+(data.updated||"—")+(data.source?(" · "+data.source):"");
 
     // if there are matches, show them first in a special lane
@@ -574,6 +585,23 @@
       items.forEach(function(j){ g.appendChild(makeJobCard(j)); });
       jroot.appendChild(g);
     });
+  }
+
+  function renderStudi(data){
+    var box=document.getElementById("studi-root");
+    if(!box) return;
+    box.innerHTML="";
+    var all=(data&&data.jobs)||[];
+    var items=all.filter(function(j){ return j.lane==="studi"; });
+    var up=document.getElementById("studi-updated");
+    if(up) up.textContent=items.length?("🔄 aktualisiert: "+(data.updated||"—")+" · "+items.length+" Stellen"):"—";
+    if(!items.length){
+      box.innerHTML='<div class="warn">Gerade keine frischen Studi-Inserate im Feed (kommt mit dem nächsten Tages-Update). Nutze die <a href="#nebenjob">Radar-Tipps</a> oben — Coople, Superprof, Café/Bar direkt.</div>';
+      return;
+    }
+    var g=document.createElement("div"); g.className="jobs";
+    items.forEach(function(j){ g.appendChild(makeJobCard(j)); });
+    box.appendChild(g);
   }
 
   function makeJobCard(j){
