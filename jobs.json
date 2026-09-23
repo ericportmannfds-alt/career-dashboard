@@ -1,17 +1,28 @@
 {
-  "updated": "2026-09-22",
-  "source": "Automatisch aktualisiert - 22 Karriere + 9 Studi-Jobs (Google Jobs)",
+  "updated": "2026-09-23",
+  "source": "Automatisch aktualisiert - 20 Karriere + 12 Studi-Jobs (Google Jobs)",
   "jobs": [
     {
-      "t": "Account Manager, Geneva, 100% (f/m/d)",
-      "co": "CH10 - BJB Bank Julius Baer & Co. Ltd.",
-      "loc": "Genf",
-      "gate": "a",
+      "t": "Senior Institutional Sales",
+      "co": "Degroof Petercam Asset Management (Suisse)",
+      "loc": "Schweiz",
+      "gate": "r",
       "lane": "tech",
       "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://juliusbaer.wd3.myworkdayjobs.com/Wealth_Managers/job/Geneva/Account-Manager--Geneva--100---f-m-d-_r-19661",
-      "posted": "2026-09-21T00:00:00.000Z"
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-5483-8bc668e410108c4f2e3058340b42bd7e",
+      "posted": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "t": "Trainee M&A Advisory – Corporate Finance",
+      "co": "Deloitte",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/trainee-m-a-advisory-%E2%80%93-corporate-finance-at-deloitte-4470401647",
+      "posted": "2026-09-22T00:00:00.000Z"
     },
     {
       "t": "Trainee Finanzplanung",
@@ -47,28 +58,6 @@
       "posted": "2026-09-19T00:00:00.000Z"
     },
     {
-      "t": "Product Manager:in Cables, Batteries & Computing Accessories",
-      "co": "CH_Prog_Partner_Whatjobs_Mixed_CPC",
-      "loc": "Schweiz",
-      "gate": "a",
-      "lane": "growth",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.jobijoba.ch/detailanzeige/93/ec4472d2dc42d1e1958b4cc5b47aa821",
-      "posted": "2026-09-19T00:00:00.000Z"
-    },
-    {
-      "t": "Product Manager:in Microsoft Surface und Monitore",
-      "co": "CH_Prog_Partner_Whatjobs_Mixed_CPC",
-      "loc": "Schweiz",
-      "gate": "a",
-      "lane": "growth",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.jobijoba.ch/detailanzeige/93/9315dc87eed2dd89d91329b6dafa3b02",
-      "posted": "2026-09-19T00:00:00.000Z"
-    },
-    {
       "t": "Leiter:in Marketing / Mitglied der Geschäftsleitung in Bern",
       "co": "Jörg Lienert AG",
       "loc": "Schweiz",
@@ -91,7 +80,7 @@
       "posted": "2026-09-18T00:00:00.000Z"
     },
     {
-      "t": "Media Strategy & Business Intelligence Trainee",
+      "t": "Media Strategy & Business Intelligence  Trainee",
       "co": "International Olympic Committee – IOC",
       "loc": "Lausanne",
       "gate": "g",
@@ -100,6 +89,17 @@
       "why": "Sales/Business-Development in Lausanne — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.linkedin.com/jobs/view/media-strategy-business-intelligence-trainee-at-international-olympic-committee-%E2%80%93-ioc-4468613777",
       "posted": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "t": "Communication Trainee befristet für 12 Monate",
+      "co": "DERTOUR Suisse AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobmaps.ch/de/company/1153/job/305326",
+      "posted": "2026-09-15T00:00:00.000Z"
     },
     {
       "t": "Controlling Graduate",
@@ -135,6 +135,17 @@
       "posted": "2026-09-13T00:00:00.000Z"
     },
     {
+      "t": "Outside Account Manager - Switzerland",
+      "co": "Cannondale",
+      "loc": "Genf",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://bebee.com/ch/jobs/outside-account-manager-switzerland-cannondale-geneva-ge--t7xk-838669068",
+      "posted": "2026-09-12T00:00:00.000Z"
+    },
+    {
       "t": "Sales & Marketing Trainee (w/m/d)",
       "co": "Mandarin Oriental",
       "loc": "Schweiz",
@@ -157,14 +168,14 @@
       "posted": "2026-09-02T00:00:00.000Z"
     },
     {
-      "t": "Commercial Graduate Programme - Switzerland",
-      "co": "Glencore",
+      "t": "Digital Marketing Spezialist:in in Bern",
+      "co": "Profawo",
       "loc": "Schweiz",
       "gate": "g",
-      "lane": "konzern",
+      "lane": "growth",
       "cool": false,
-      "why": "Konzern mit Australien-Praesenz in Schweiz — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).",
-      "u": "https://www.glencore.ch/de/offene-stellen/R200001654?locale=en",
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.workpool-jobs.ch/digital-marketing-spezialist-in-in-bern/10550098sf",
       "posted": "2026-09-02T00:00:00.000Z"
     },
     {
@@ -179,17 +190,6 @@
       "posted": "2026-08-27T00:00:00.000Z"
     },
     {
-      "t": "TUI MAGIC LIFE Watersport Trainee (m/f/d)",
-      "co": "TUI Suisse Ltd",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.kununu.com/ch/job/4db498f7-6ff6-46b5-b096-dd1abaa7a709",
-      "posted": "2026-08-27T00:00:00.000Z"
-    },
-    {
       "t": "Headhunting Trainee",
       "co": "Oniko AG",
       "loc": "Wettingen",
@@ -199,17 +199,6 @@
       "why": "Sales/Business-Development in Wettingen — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.linkedin.com/jobs/view/headhunting-trainee-at-oniko-ag-4446565603",
       "posted": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "t": "Senior Account Executive – Croissance Romandie Véhicule",
-      "co": "Michael Page International Switzerland SA",
-      "loc": "Genf",
-      "gate": "r",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobilize.com/job/ch-geneva-senior-account-executive-croissance-romandie-v-hicule-michael",
-      "posted": null
     },
     {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
@@ -234,15 +223,26 @@
       "posted": null
     },
     {
-      "t": "Major Account Manager- Public Sector (NGO)",
-      "co": "Palo Alto Networks",
-      "loc": "Genf",
-      "gate": "a",
-      "lane": "tech",
+      "t": "Sachbearbeiter:in Post- und Dokumentenservice (80% - 100%)",
+      "co": "Alternative Bank Schweiz (ABS)",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
       "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://bebee.com/ch/jobs/major-account-manager-public-sector-ngo-palo-alto-networks-geneva-switzerland--t7xk-794318030",
-      "posted": null
+      "why": "Gastro/Service in Schweiz — Abend/Wochenende, passt um die Vormittags-Uni.",
+      "u": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-post-und-dokumentenservice-80%25-100%25-at-alternative-bank-schweiz-abs-4468927334",
+      "posted": "2026-09-22T19:00:00.000Z"
+    },
+    {
+      "t": "Dein Kandidatenpool für einen Nebenjob im Supermarkt",
+      "co": "Studentjob CH",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
+      "u": "https://ch.jooble.org/jdp/3708065782883143410",
+      "posted": "2026-09-21T00:00:00.000Z"
     },
     {
       "t": "Mitarbeiter/in Empfang 50%",
@@ -263,7 +263,7 @@
       "lane": "studi",
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://ch.trabajo.org/stellenangebot-5483-d08df0d6203630fc1c118b5f3d7a261e",
+      "u": "https://ch.trabajo.org/stellenangebot-5483-cc305d79b9b38992fb0cf9900a97a0a7",
       "posted": "2026-09-19T00:00:00.000Z"
     },
     {
@@ -278,26 +278,15 @@
       "posted": "2026-09-18T00:00:00.000Z"
     },
     {
-      "t": "Mitarbeiterin Empfang",
-      "co": "Stadt Olten",
+      "t": "Geld verdienen online - Spiele, Umfragen & Cashback | Flexibler Nebenjob für Studenten",
+      "co": "Daisycon - Savebucks",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://jobmaps.ch/company/847547/job/307905",
+      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
+      "u": "https://ch.jooble.org/jdp/8558494088696466991",
       "posted": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "t": "Mitarbeiterin / Mitarbeiter Empfang / Telefonzentrale (w/m/d) 50% - 80%",
-      "co": "Solothurner Spitäler AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.professional.ch/jobs/inserat/2862475-mitarbeiterin-mitarbeiter-empfang-telefonzentrale-w-m-d-50-80",
-      "posted": "2026-09-16T00:00:00.000Z"
     },
     {
       "t": "Kaufmännische/r Sachbearbeiter/in 40% - 50%",
@@ -319,6 +308,28 @@
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://www.jobagent.ch/job/mitarbeiter-in-empfang-aarau-80/3254593968",
+      "posted": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "t": "Mitarbeiter:in Empfang, Aarau",
+      "co": "Equans Switzerland AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobagent.ch/job/mitarbeiter-in-empfang-aarau/3254596277",
+      "posted": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "t": "Perfekter Studentenjob Schweiz - Nebenjob 200€/Tag",
+      "co": "Corris AG",
+      "loc": "Zürich",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Teilzeit/Aushilfe in Zürich — neben dem Studium machbar.",
+      "u": "https://ch.jooble.org/jdp/6377355004789825543",
       "posted": "2026-09-15T00:00:00.000Z"
     },
     {
