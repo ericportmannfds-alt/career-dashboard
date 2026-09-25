@@ -1,28 +1,50 @@
 {
-  "updated": "2026-09-24",
-  "source": "Automatisch aktualisiert - 9 Karriere + 10 Studi-Jobs (Google Jobs)",
+  "updated": "2026-09-25",
+  "source": "Automatisch aktualisiert - 18 Karriere + 11 Studi-Jobs (Google Jobs)",
   "jobs": [
     {
-      "t": "Corporate Account Sales Manager (m/f) 100%",
-      "co": "Lyreco Switzerland AG",
+      "t": "Sr. Account Executive - Strategic German Speaking New",
+      "co": "Addepar Inc",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-sr-account-executive-strategic-german-speaking-new-addepar",
+      "posted": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "t": "Trainee Vorsorgeberatung kostenlose VBV-Ausbildung, Homeoffice möglich",
+      "co": "Convit",
       "loc": "Schweiz",
-      "gate": "a",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-4100-c1747b197c8a5268cdca61fecf930947",
+      "posted": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "t": "Account Executive │ Switzerland",
+      "co": "Laine Neural Network SA",
+      "loc": "Schweiz",
+      "gate": "g",
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobs.ch/fr/offres-emplois/detail/ce10db1b-189d-4af5-8121-04bca9c6f4bd/",
-      "posted": "2026-09-23T00:00:00.000Z"
+      "u": "https://www.jobleads.com/ch/job/account-executive-switzerland--genf--e02b36d4ae08871464b00634eeaf23452",
+      "posted": "2026-09-20T00:00:00.000Z"
     },
     {
-      "t": "Senior Institutional Sales",
-      "co": "Degroof Petercam Asset Management (Suisse)",
+      "t": "Trainee Audit: Handel, Industrie & Dienstleistungen",
+      "co": "PwC Switzerland",
       "loc": "Schweiz",
-      "gate": "r",
-      "lane": "tech",
+      "gate": "g",
+      "lane": "konzern",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-5483-8bc668e410108c4f2e3058340b42bd7e",
-      "posted": "2026-09-22T00:00:00.000Z"
+      "u": "https://www.jobleads.com/ch/job/trainee-audit-handel-industrie-dienstleistungen--zurich--e529e9bb95df9d8f3d2c7051421f6e007",
+      "posted": "2026-09-20T00:00:00.000Z"
     },
     {
       "t": "Global Account Executive: CXO Relationships",
@@ -47,6 +69,72 @@
       "posted": "2026-09-19T00:00:00.000Z"
     },
     {
+      "t": "Trainee Finanzplanung; ohne Erfahrung OTE bis",
+      "co": "Convit Central GmbH",
+      "loc": "Oftringen",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Oftringen — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.learn4good.com/jobs/oftringen/switzerland/finance/5480864148/e/",
+      "posted": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "t": "(Junior) Area Account Manager (m/f/d) Switzerland",
+      "co": "Brainlab AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobs.ch/en/vacancies/detail/3aec7e01-4ea3-44a5-8988-37905f86d3a9/",
+      "posted": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "t": "Media Strategy & Business Intelligence  Trainee",
+      "co": "International Olympic Committee – IOC",
+      "loc": "Lausanne",
+      "gate": "g",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Lausanne — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/media-strategy-business-intelligence-trainee-at-international-olympic-committee-%E2%80%93-ioc-4468613777",
+      "posted": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "t": "Controlling Graduate",
+      "co": "Red Bull GmbH",
+      "loc": "Baar",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Baar — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.redbull.com/ch-de/controlling-graduate-ref33643x?lang=en",
+      "posted": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "t": "Controlling Graduate",
+      "co": "Red Bull",
+      "loc": "Zug",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Zug — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/controlling-graduate-at-red-bull-4467044880",
+      "posted": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "t": "Sales & Marketing Trainee (w/m/d)",
+      "co": "Mandarin Oriental",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://careers.mandarinoriental.com/jobs/sales-marketing-trainee-w-m-d-luzern-switzerland-6f277859-4724-4176-bb4a-6686bc67781c",
+      "posted": "2026-09-03T00:00:00.000Z"
+    },
+    {
       "t": "Account Manager for Academic Work Geneva!",
       "co": "Academic Work Switzerland SA",
       "loc": "Schweiz",
@@ -69,6 +157,17 @@
       "posted": "2026-08-27T00:00:00.000Z"
     },
     {
+      "t": "Inside Sales Account Manager",
+      "co": "Dell Technologies",
+      "loc": "Genf",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://bebee.com/ch/jobs/inside-sales-account-manager-dell-technologies-genf--techmap_ch_4455429535",
+      "posted": null
+    },
+    {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
       "co": "Lyreco Switzerland AG",
       "loc": "Perly-Certoux",
@@ -77,6 +176,17 @@
       "cool": false,
       "why": "Kundennaher Einstieg in Perly-Certoux — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.jobs.ch/en/vacancies/detail/505441f0-9644-4a9c-96d9-98bcaf89c62c/",
+      "posted": null
+    },
+    {
+      "t": "Senior Account Executive – Croissance Romandie Véhicule",
+      "co": "Michael Page International Switzerland SA",
+      "loc": "Genf",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-senior-account-executive-croissance-romandie-v-hicule-michael",
       "posted": null
     },
     {
@@ -91,15 +201,15 @@
       "posted": null
     },
     {
-      "t": "Account Director, Healthcare Communications",
-      "co": "WEBER SHANDWICK",
-      "loc": "Genf",
-      "gate": "r",
-      "lane": "tech",
+      "t": "Sachbearbeiter*in Rechnungswesen 80 - 100%, Region Aarau / Fest",
+      "co": "absolutLIV AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
       "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://talents.studysmarter.de/companies/weber-shandwick/account-director-healthcare-communications-17241913/",
-      "posted": null
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobmittelland.ch/job/sachbearbeiterin-rechnungswesen-80-100-region-aarau-fest/376763",
+      "posted": "2026-09-25T00:00:00.000Z"
     },
     {
       "t": "Sachbearbeiter:in Post- und Dokumentenservice (80% - 100%)",
@@ -113,37 +223,26 @@
       "posted": "2026-09-22T00:00:00.000Z"
     },
     {
-      "t": "Dein Kandidatenpool für einen Nebenjob im Supermarkt",
-      "co": "Studentjob CH",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/3708065782883143410",
-      "posted": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "t": "Mitarbeiter/in Empfang 50%",
-      "co": "CWA Constructions SA",
+      "t": "Mitarbeiterin/Mitarbeiter Empfang",
+      "co": "Stadt Olten",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.jobleads.com/ch/job/mitarbeiter-in-empfang-50--bezirk-olten--eca425689480d92b27fd03f447398f384",
-      "posted": "2026-09-20T00:00:00.000Z"
+      "u": "https://www.jobagent.ch/job/mitarbeiterin-mitarbeiter-empfang/3254657633",
+      "posted": "2026-09-17T00:00:00.000Z"
     },
     {
-      "t": "Nebenjob , Minijob oder Ferienjob in Teilzeit als Promoter (25-50 CHF/h) w/m/d",
-      "co": "Wesser und Partner",
+      "t": "Mitarbeiterin Empfang",
+      "co": "Stadt Olten",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/2420818063153192377",
-      "posted": "2026-09-18T00:00:00.000Z"
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://jobmaps.ch/company/847547/job/307905",
+      "posted": "2026-09-17T00:00:00.000Z"
     },
     {
       "t": "Kaufmännische/r Sachbearbeiter/in 40% - 50%",
@@ -155,17 +254,6 @@
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://jobsuche-basel.ch/job/kaufmannische-r-sachbearbeiter-in-40-50-33194?source=verified_job",
       "posted": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "t": "Mitarbeiter:in Empfang, Aarau 80 %",
-      "co": "Equans Switzerland Facility Management AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.jobagent.ch/job/mitarbeiter-in-empfang-aarau-80/3254593968",
-      "posted": "2026-09-15T00:00:00.000Z"
     },
     {
       "t": "Mitarbeiter:in Empfang, Aarau",
@@ -190,6 +278,17 @@
       "posted": "2026-09-15T00:00:00.000Z"
     },
     {
+      "t": "Mitarbeiter:in Empfang, Aarau 80 %",
+      "co": "Equans Switzerland Facility Management AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobagent.ch/job/mitarbeiter-in-empfang-aarau-80/3254593968",
+      "posted": "2026-09-14T00:00:00.000Z"
+    },
+    {
       "t": "Verdiene Geld von Zuhause aus: Nebenjob im Home Office mit Umfragen",
       "co": "Meinungsplatz",
       "loc": "Schweiz",
@@ -210,6 +309,17 @@
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://www.jobagent.ch/job/mitarbeiter-in-empfang-50/3254514250",
       "posted": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "t": "Mitarbeiter/in Administration, Finanzen & Empfang in Solothurn",
+      "co": "Barock Job AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.workpool-jobs.ch/mitarbeiter-in-administration-finanzen-empfang-in-solothurn/10548077sf",
+      "posted": "2026-09-02T00:00:00.000Z"
     }
   ]
 }
