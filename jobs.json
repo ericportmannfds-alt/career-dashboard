@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29",
-  "source": "Automatisch aktualisiert - 19 Karriere + 16 Studi-Jobs (Google Jobs)",
+  "updated": "2026-09-30",
+  "source": "Automatisch aktualisiert - 22 Karriere + 8 Studi-Jobs (Google Jobs)",
   "jobs": [
     {
       "t": "Global Finance Trainee 100% (f/m/d)",
@@ -11,7 +11,29 @@
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://careers.hitachi.com/jobs/18279977-global-finance-trainee-100-percent-f-slash-m-slash-d",
-      "posted": "2026-09-28T16:00:00.000Z"
+      "posted": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "t": "Business Development Executive, Trust - Geneva",
+      "co": "AP Executive",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.experteer.it/career/view-jobs/business-development-executive-trust-geneva-geneve-schweiz-59647372?signup_hook=lo_job_title",
+      "posted": "2026-09-27T00:00:00.000Z"
+    },
+    {
+      "t": "Global Finance Trainee 100% (f/m/d) | Baden, Switzerland",
+      "co": "Hitachi Energy",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.hitachienergy.com/ch/de/careers/open-jobs/details/JID3-218253",
+      "posted": "2026-09-27T00:00:00.000Z"
     },
     {
       "t": "Trainee Finanzplanung",
@@ -25,15 +47,37 @@
       "posted": "2026-09-27T00:00:00.000Z"
     },
     {
-      "t": "Digital-Marketing-Spezialist",
-      "co": "confidential",
+      "t": "Senior Key Account Manager, Cybersecurity Growth",
+      "co": "Orange Cyberdefense",
       "loc": "Schweiz",
-      "gate": "g",
+      "gate": "r",
       "lane": "growth",
       "cool": false,
       "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://de-ch.whatjobs.com/jobs/digital--marketing--spezialist/bern-wallis?id=43408442",
-      "posted": "2026-09-24T00:00:00.000Z"
+      "u": "https://www.jobleads.com/ch/job/senior-key-account-manager-cybersecurity-growth--genf--e85d6cc842024526479c29e35d70ff7da",
+      "posted": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "t": "Enterprise Account Executive - Cybersecurity, Eastern Europe",
+      "co": "3Search",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobleads.com/ch/job/enterprise-account-executive-cybersecurity-eastern-europe--genf--e1f42834eadcbf3e4c5f4d8250a060012",
+      "posted": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "t": "Assurance XL Trainee Programm Start ab Oktober 2021",
+      "co": "EY",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.nzz.ch/job/assurance-xl-trainee-programm-start-ab-oktober-2021/204989",
+      "posted": "2026-09-26T00:00:00.000Z"
     },
     {
       "t": "Enterprise Account Executive, Switzerland",
@@ -47,15 +91,15 @@
       "posted": "2026-09-23T00:00:00.000Z"
     },
     {
-      "t": "Corporate Account Sales Manager (m/f) 100%",
-      "co": "Lyreco Switzerland AG",
-      "loc": "Schweiz",
-      "gate": "a",
+      "t": "Account Executive, Corporate - Zurich",
+      "co": "Ideals",
+      "loc": "Genf",
+      "gate": "g",
       "lane": "tech",
       "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobs.ch/fr/offres-emplois/detail/ce10db1b-189d-4af5-8121-04bca9c6f4bd/",
-      "posted": "2026-09-23T00:00:00.000Z"
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/amp/job/ch-geneva-account-executive-corporate-zurich-ideals-hiring-now-job",
+      "posted": "2026-09-22T00:00:00.000Z"
     },
     {
       "t": "Media Operations Trainee — Hybrid Internship (Switzerland)",
@@ -80,37 +124,26 @@
       "posted": "2026-09-21T00:00:00.000Z"
     },
     {
-      "t": "Trainee Vorsorgeberatung kostenlose VBV-Ausbildung, Homeoffice möglich",
-      "co": "Convit",
+      "t": "Trainee Audit: Handel, Industrie & Dienstleistungen",
+      "co": "PwC Switzerland",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "konzern",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-4100-c1747b197c8a5268cdca61fecf930947",
-      "posted": "2026-09-20T00:00:00.000Z"
+      "u": "https://www.jobleads.com/ch/job/trainee-audit-handel-industrie-dienstleistungen--zurich--e529e9bb95df9d8f3d2c7051421f6e007",
+      "posted": "2026-09-19T00:00:00.000Z"
     },
     {
-      "t": "Account Executive, Large Enterprise",
-      "co": "Gartner Careers",
-      "loc": "Lancy",
+      "t": "Vertriebsmitarbeiter / Trainee Sales 60-100%",
+      "co": "cdg Beratungen",
+      "loc": "Opfikon",
       "gate": "g",
-      "lane": "tech",
+      "lane": "konzern",
       "cool": false,
-      "why": "Kundennaher Einstieg in Lancy — nutzt deine Kommunikationsstaerke.",
-      "u": "https://jobs.gartner.com/jobs/job/112066-account-executive-large-enterprise/",
+      "why": "Sales/Business-Development in Opfikon — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/vertriebsmitarbeiter-trainee-sales-60-100%25-at-cdg-beratungen-4469104640",
       "posted": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "t": "Media Strategy & Business Intelligence  Trainee",
-      "co": "International Olympic Committee – IOC",
-      "loc": "Lausanne",
-      "gate": "g",
-      "lane": "westch",
-      "cool": false,
-      "why": "Sales/Business-Development in Lausanne — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/media-strategy-business-intelligence-trainee-at-international-olympic-committee-%E2%80%93-ioc-4468613777",
-      "posted": "2026-09-17T00:00:00.000Z"
     },
     {
       "t": "Controlling Graduate",
@@ -135,17 +168,6 @@
       "posted": "2026-09-14T00:00:00.000Z"
     },
     {
-      "t": "Trainee (m/f/d) - Strategy & Market Expansion",
-      "co": "Dassault Systèmes",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/trainee-m-f-d-strategy-market-expansion-at-dassault-syst%C3%A8mes-4445992588",
-      "posted": "2026-09-13T00:00:00.000Z"
-    },
-    {
       "t": "Sales & Marketing Trainee (w/m/d)",
       "co": "Mandarin Oriental",
       "loc": "Schweiz",
@@ -165,17 +187,6 @@
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.jobs.ch/en/vacancies/detail/5ab6222a-3c9c-4bd9-99a6-cc74e118a4a9/",
-      "posted": "2026-09-02T00:00:00.000Z"
-    },
-    {
-      "t": "Graduate Programmes Virtual Insight Event – Switzerland",
-      "co": "Glencore",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Konzern mit Australien-Praesenz in Schweiz — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).",
-      "u": "https://ch.linkedin.com/jobs/view/graduate-programmes-virtual-insight-event-%E2%80%93-switzerland-at-glencore-4462438150",
       "posted": "2026-09-02T00:00:00.000Z"
     },
     {
@@ -201,6 +212,28 @@
       "posted": null
     },
     {
+      "t": "Senior Account Executive – Croissance Romandie Véhicule",
+      "co": "Michael Page International Switzerland SA",
+      "loc": "Genf",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-senior-account-executive-croissance-romandie-v-hicule-michael",
+      "posted": null
+    },
+    {
+      "t": "Enterprise Account Executive - Switzerland (French-Speaking)",
+      "co": "Armis",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://talents.studysmarter.de/companies/armis/enterprise-account-executive-switzerland-french-speaking-17096346/",
+      "posted": null
+    },
+    {
       "t": "B2B Field Account Manager — Drive Growth in Geneva",
       "co": "NESTLE",
       "loc": "Genf",
@@ -212,91 +245,14 @@
       "posted": null
     },
     {
-      "t": "Temporäre Aushilfe Ambulant (m/w/d) - 100%",
-      "co": "job impuls ag Zürich KV",
-      "loc": "Windisch",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Windisch — neben dem Studium machbar.",
-      "u": "https://www.jobscout24.ch/de/job/636a6cde-c7a3-4622-a835-ed8918e32317/",
-      "posted": "2026-09-29T08:00:00.000Z"
-    },
-    {
-      "t": "Langfristige Aushilfe auf Abruf im Lager 10-70%",
-      "co": "Calida AG",
-      "loc": "Oberkirch",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Oberkirch — neben dem Studium machbar.",
-      "u": "https://www.jobagent.ch/job/langfristige-aushilfe-auf-abruf-im-lager-10-70/3255325434",
-      "posted": "2026-09-28T18:00:00.000Z"
-    },
-    {
-      "t": "Aushilfe Verkäufer:in Food/Non-Food",
-      "co": "OTTO'S AG",
-      "loc": "Wattwil",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Verkauf/Retail in Wattwil — Samstage & Nachmittage, planbar.",
-      "u": "https://www.jobs.ch/en/vacancies/detail/d6951aa2-11bf-4ae8-bf21-5691683b7fc8/",
-      "posted": "2026-09-28T15:00:00.000Z"
-    },
-    {
-      "t": "Student*innen-Aushilfe",
-      "co": "Genossenschaft Migros Zürich",
+      "t": "Sachbearbeiter*in Rechnungswesen 80 - 100%, Region Aarau / Fest",
+      "co": "absolutLIV AG",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://jobs.migros.ch/de/unsere-unternehmen/job/genossenschaft-migros-zurich/studentinnen-aushilfe/5e8c6ada-8a29-4dd8-a943-6ad906055e83",
-      "posted": "2026-09-28T00:00:00.000Z"
-    },
-    {
-      "t": "Café Team Member (Aushilfe) mind. 60%",
-      "co": "Lindt & Sprüngli (Schweiz) AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://lindtspruengli.wd103.myworkdayjobs.com/en-US/LindtSpruengliGroupCareers/job/Caf-Team-Member--Aushilfe--mind-60-_JR103376",
-      "posted": "2026-09-27T00:00:00.000Z"
-    },
-    {
-      "t": "Servicemitarbeiter (d/w/m) Aushilfe im Stundenlohn",
-      "co": "SV (Schweiz) AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Gastro/Service in Schweiz — Abend/Wochenende, passt um die Vormittags-Uni.",
-      "u": "https://www.jobup.ch/en/jobs/detail/b9a1dedc-f713-4a07-9a39-f3a9f9f0d0de/",
-      "posted": "2026-09-25T00:00:00.000Z"
-    },
-    {
-      "t": "Aushilfe Service / Barista",
-      "co": "WGT Hospitality AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Gastro/Service in Schweiz — Abend/Wochenende, passt um die Vormittags-Uni.",
-      "u": "https://www.professional.ch/jobs/inserat/2870299-aushilfe-service-barista",
-      "posted": "2026-09-25T00:00:00.000Z"
-    },
-    {
-      "t": "Aushilfe im Betriebsunterhalt / Reinigung",
-      "co": "news Personal AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://www.jobs.ch/de/stellenangebote/detail/584d2358-43ea-486b-8122-7131fd136a1d/",
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobmittelland.ch/job/sachbearbeiterin-rechnungswesen-80-100-region-aarau-fest/376763",
       "posted": "2026-09-24T00:00:00.000Z"
     },
     {
@@ -311,28 +267,6 @@
       "posted": "2026-09-24T00:00:00.000Z"
     },
     {
-      "t": "Aushilfe Produktion (m/w/d)",
-      "co": "Work Selection",
-      "loc": "Spreitenbach",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Spreitenbach — neben dem Studium machbar.",
-      "u": "https://www.jobscout24.ch/de/job/635b13cd-eee3-4373-9290-8ed0cbc5cad6/",
-      "posted": "2026-09-23T00:00:00.000Z"
-    },
-    {
-      "t": "* Marketingmitarbeiter (Aushilfe 50%) m/w/d",
-      "co": "Stockhornbahn AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://www.jobagent.ch/job/marketingmitarbeiter-aushilfe-50-m-w-d/32546f3550",
-      "posted": "2026-09-22T00:00:00.000Z"
-    },
-    {
       "t": "Mitarbeiterin/Mitarbeiter Empfang",
       "co": "Stadt Olten",
       "loc": "Schweiz",
@@ -344,6 +278,28 @@
       "posted": "2026-09-17T00:00:00.000Z"
     },
     {
+      "t": "Mitarbeiterin Empfang",
+      "co": "Stadt Olten",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://jobmaps.ch/company/847547/job/307905",
+      "posted": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "t": "Geld verdienen online - Spiele, Umfragen & Cashback | Flexibler Nebenjob für Studenten",
+      "co": "Daisycon - Savebucks",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
+      "u": "https://ch.jooble.org/jdp/8558494088696466991",
+      "posted": "2026-09-16T00:00:00.000Z"
+    },
+    {
       "t": "Mitarbeiter:in Empfang, Aarau",
       "co": "Equans Switzerland AG",
       "loc": "Schweiz",
@@ -353,17 +309,6 @@
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://www.jobagent.ch/job/mitarbeiter-in-empfang-aarau/3254596277",
       "posted": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "t": "Mitarbeiter:in Empfang, Aarau 80 %",
-      "co": "Equans Switzerland Facility Management AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.jobagent.ch/job/mitarbeiter-in-empfang-aarau-80/3254593968",
-      "posted": "2026-09-14T00:00:00.000Z"
     },
     {
       "t": "Perfekter Studentenjob Schweiz - Nebenjob 200€/Tag",
