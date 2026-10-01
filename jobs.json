@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-30",
-  "source": "Automatisch aktualisiert - 22 Karriere + 8 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-01",
+  "source": "Automatisch aktualisiert - 20 Karriere + 4 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Automotive Marketing Analyst (Graduate) Global",
+      "co": "ARKAMYS",
+      "loc": "Versoix",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Versoix — passt zu deinem Fokus.",
+      "u": "https://ch.linkedin.com/jobs/view/automotive-marketing-analyst-graduate-global-at-arkamys-4472314312",
+      "posted": "2026-09-30T14:00:00.000Z"
+    },
+    {
+      "t": "Junior Marketing- & Community-Manager:in",
+      "co": "Vox Natio",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://ch.linkedin.com/jobs/view/junior-marketing-community-manager-in-at-vox-natio-4472129159",
+      "posted": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "t": "Gebietsverkaufsleiter Region Bern / Basel (w/m/d)",
+      "co": "Meacon GmbH",
+      "loc": "Bern",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Sales/Business-Development in Bern — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobscout24.ch/de/job/c3c39680-b52c-497d-a19e-576cf4a286fa/",
+      "posted": "2026-09-28T00:00:00.000Z"
+    },
     {
       "t": "Global Finance Trainee 100% (f/m/d)",
       "co": "Hitachi Careers",
@@ -25,14 +58,14 @@
       "posted": "2026-09-27T00:00:00.000Z"
     },
     {
-      "t": "Global Finance Trainee 100% (f/m/d) | Baden, Switzerland",
-      "co": "Hitachi Energy",
+      "t": "Kommunikationsbeauftragten",
+      "co": "Universität Bern",
       "loc": "Schweiz",
       "gate": "g",
-      "lane": "konzern",
+      "lane": "growth",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.hitachienergy.com/ch/de/careers/open-jobs/details/JID3-218253",
+      "u": "https://jobs.unibe.ch/offene-stellen/kommunikationsbeauftragten/f70eada7-2d61-4296-ae0c-0200d2a3ac9e",
       "posted": "2026-09-27T00:00:00.000Z"
     },
     {
@@ -47,36 +80,36 @@
       "posted": "2026-09-27T00:00:00.000Z"
     },
     {
-      "t": "Senior Key Account Manager, Cybersecurity Growth",
-      "co": "Orange Cyberdefense",
-      "loc": "Schweiz",
-      "gate": "r",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://www.jobleads.com/ch/job/senior-key-account-manager-cybersecurity-growth--genf--e85d6cc842024526479c29e35d70ff7da",
-      "posted": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "t": "Enterprise Account Executive - Cybersecurity, Eastern Europe",
-      "co": "3Search",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobleads.com/ch/job/enterprise-account-executive-cybersecurity-eastern-europe--genf--e1f42834eadcbf3e4c5f4d8250a060012",
-      "posted": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "t": "Assurance XL Trainee Programm Start ab Oktober 2021",
-      "co": "EY",
+      "t": "Trainee Vorsorgeberatung",
+      "co": "Convit",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "konzern",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobs.nzz.ch/job/assurance-xl-trainee-programm-start-ab-oktober-2021/204989",
+      "u": "https://ch.trabajo.org/stellenangebot-4100-30ef08f1708abf46ccc2bc57716040e2",
+      "posted": "2026-09-27T00:00:00.000Z"
+    },
+    {
+      "t": "Trainee Vorsorgeberatung kostenlose VBV-Ausbildung, Homeoffice möglich",
+      "co": "Convit",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-4100-c1747b197c8a5268cdca61fecf930947",
+      "posted": "2026-09-27T00:00:00.000Z"
+    },
+    {
+      "t": "Trainee Audit: Handel, Industrie & Dienstleistungen",
+      "co": "PwC Switzerland",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobleads.com/ch/job/trainee-audit-handel-industrie-dienstleistungen--zurich--e529e9bb95df9d8f3d2c7051421f6e007",
       "posted": "2026-09-26T00:00:00.000Z"
     },
     {
@@ -91,17 +124,6 @@
       "posted": "2026-09-23T00:00:00.000Z"
     },
     {
-      "t": "Account Executive, Corporate - Zurich",
-      "co": "Ideals",
-      "loc": "Genf",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobilize.com/amp/job/ch-geneva-account-executive-corporate-zurich-ideals-hiring-now-job",
-      "posted": "2026-09-22T00:00:00.000Z"
-    },
-    {
       "t": "Media Operations Trainee — Hybrid Internship (Switzerland)",
       "co": "VFCorporation",
       "loc": "Schweiz",
@@ -113,28 +135,6 @@
       "posted": "2026-09-22T00:00:00.000Z"
     },
     {
-      "t": "Senior Digital Marketing Leader",
-      "co": "Job-Room",
-      "loc": "Schweiz",
-      "gate": "r",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://ch.trabajo.org/stellenangebot-2253-3d056b3eafe8f09ee40a814f84245e15",
-      "posted": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "t": "Trainee Audit: Handel, Industrie & Dienstleistungen",
-      "co": "PwC Switzerland",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.jobleads.com/ch/job/trainee-audit-handel-industrie-dienstleistungen--zurich--e529e9bb95df9d8f3d2c7051421f6e007",
-      "posted": "2026-09-19T00:00:00.000Z"
-    },
-    {
       "t": "Vertriebsmitarbeiter / Trainee Sales 60-100%",
       "co": "cdg Beratungen",
       "loc": "Opfikon",
@@ -144,28 +144,6 @@
       "why": "Sales/Business-Development in Opfikon — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.linkedin.com/jobs/view/vertriebsmitarbeiter-trainee-sales-60-100%25-at-cdg-beratungen-4469104640",
       "posted": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "t": "Controlling Graduate",
-      "co": "Red Bull GmbH",
-      "loc": "Baar",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Baar — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobs.redbull.com/ch-de/controlling-graduate-ref33643x?lang=en",
-      "posted": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "t": "On Premise Marketing Graduate",
-      "co": "Red Bull GmbH",
-      "loc": "Baar",
-      "gate": "g",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Baar — passt zu deinem Fokus.",
-      "u": "https://jobs.redbull.com/ch-de/on-premise-marketing-graduate-ref33644n?lang=en",
-      "posted": "2026-09-14T00:00:00.000Z"
     },
     {
       "t": "Sales & Marketing Trainee (w/m/d)",
@@ -190,15 +168,15 @@
       "posted": "2026-09-02T00:00:00.000Z"
     },
     {
-      "t": "Performance - / Digital Marketing Manager 60% (m/w/d)",
-      "co": "Dodor",
-      "loc": "Bern",
-      "gate": "a",
-      "lane": "growth",
+      "t": "Graduate Programmes Virtual Insight Event – Switzerland",
+      "co": "Glencore",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
       "cool": false,
-      "why": "Growth/Marketing-Rolle in Bern — passt zu deinem Fokus.",
-      "u": "https://bebee.com/ch/jobs/performance-digital-marketing-manager-60-dodor-bern--talent-626445834133505916",
-      "posted": "2026-08-31T00:00:00.000Z"
+      "why": "Konzern mit Australien-Praesenz in Schweiz — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).",
+      "u": "https://ch.linkedin.com/jobs/view/graduate-programmes-virtual-insight-event-%E2%80%93-switzerland-at-glencore-4462438150",
+      "posted": "2026-09-02T00:00:00.000Z"
     },
     {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
@@ -209,17 +187,6 @@
       "cool": false,
       "why": "Kundennaher Einstieg in Perly-Certoux — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.jobs.ch/en/vacancies/detail/505441f0-9644-4a9c-96d9-98bcaf89c62c/",
-      "posted": null
-    },
-    {
-      "t": "Senior Account Executive – Croissance Romandie Véhicule",
-      "co": "Michael Page International Switzerland SA",
-      "loc": "Genf",
-      "gate": "r",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobilize.com/job/ch-geneva-senior-account-executive-croissance-romandie-v-hicule-michael",
       "posted": null
     },
     {
@@ -234,6 +201,17 @@
       "posted": null
     },
     {
+      "t": "Major Account Manager - Public Sector NGO",
+      "co": "Palo Alto Networks (Switzerland) GmbH",
+      "loc": "Genf",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://jobs.paloaltonetworks.com/en/job/geneva/major-account-manager-public-sector-ngo/47263/99318980896",
+      "posted": null
+    },
+    {
       "t": "B2B Field Account Manager — Drive Growth in Geneva",
       "co": "NESTLE",
       "loc": "Genf",
@@ -243,6 +221,17 @@
       "why": "Konzern mit Australien-Praesenz in Genf — idealer Cheat-Code-Arbeitgeber (spaeterer Transfer).",
       "u": "https://www.jobgipfel.ch/companies/nestle/b2b-field-account-manager-drive-growth-in-geneva-106421/",
       "posted": null
+    },
+    {
+      "t": "Sachbearbeiter*in Administration 80%, Region Aarau / Temporär Teilzeit",
+      "co": "absolutLIV AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobagent.ch/job/sachbearbeiter-in-administration-80-region-aarau-tempora%CC%88r-teilzeit/3255336539",
+      "posted": "2026-09-28T00:00:00.000Z"
     },
     {
       "t": "Sachbearbeiter*in Rechnungswesen 80 - 100%, Region Aarau / Fest",
@@ -256,70 +245,15 @@
       "posted": "2026-09-24T00:00:00.000Z"
     },
     {
-      "t": "Verdiene Geld von Zuhause aus: Nebenjob im Home Office mit Umfragen",
-      "co": "Meinungsplatz",
-      "loc": "Schweiz",
+      "t": "Wochenendjob Empfangsaushilfe (a) Quereinsteiger Job Solothurn",
+      "co": "RECRUDO Nebenjobs",
+      "loc": "Solothurn",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://ch.jooble.org/jdp/-2192038502932559512",
-      "posted": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "t": "Mitarbeiterin/Mitarbeiter Empfang",
-      "co": "Stadt Olten",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.jobagent.ch/job/mitarbeiterin-mitarbeiter-empfang/3254657633",
-      "posted": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "t": "Mitarbeiterin Empfang",
-      "co": "Stadt Olten",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://jobmaps.ch/company/847547/job/307905",
-      "posted": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "t": "Geld verdienen online - Spiele, Umfragen & Cashback | Flexibler Nebenjob für Studenten",
-      "co": "Daisycon - Savebucks",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/8558494088696466991",
-      "posted": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "t": "Mitarbeiter:in Empfang, Aarau",
-      "co": "Equans Switzerland AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.jobagent.ch/job/mitarbeiter-in-empfang-aarau/3254596277",
+      "why": "Büro/Empfang in Solothurn — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.recrudo.com/jobs/wochenendjob-empfangsaushilfe-a-quereinsteiger-job-945",
       "posted": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "t": "Perfekter Studentenjob Schweiz - Nebenjob 200€/Tag",
-      "co": "Corris AG",
-      "loc": "Zürich",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Zürich — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/6377355004789825543",
-      "posted": "2026-09-14T00:00:00.000Z"
     },
     {
       "t": "Mitarbeiter/in Empfang 50%",
