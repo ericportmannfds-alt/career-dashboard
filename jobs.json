@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-03",
-  "source": "Automatisch aktualisiert - 18 Karriere + 6 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-04",
+  "source": "Automatisch aktualisiert - 19 Karriere + 8 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Principal Professional Services Account Executive, AWS Professional Services Healthcare an",
+      "co": "AWS EMEA SARL (Switzerland Branch)",
+      "loc": "Schweiz",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.talent.com/view?id=640009477200875247",
+      "posted": "2026-10-03T00:00:00.000Z"
+    },
     {
       "t": "Kitchen Trainee (w/m/d)",
       "co": "The Chedi Andermatt",
@@ -12,6 +23,17 @@
       "why": "Sales/Business-Development in Airolo — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://jobs.womenforhire.com/job/switzerland/airolo-ti/kitchen-trainee-w-m-d-555624/",
       "posted": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "t": "Key Account Manager",
+      "co": "Talenteeds",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.trabajo.org/stellenangebot-4100-67bde4e6140213ed34eacf39a3911e8b",
+      "posted": "2026-10-01T00:00:00.000Z"
     },
     {
       "t": "Account Manager, Partner Strategy",
@@ -58,15 +80,15 @@
       "posted": "2026-09-30T00:00:00.000Z"
     },
     {
-      "t": "Trainee Personalberater / Recruitment Consultant (m/w/d) - Quereinstieg möglich",
-      "co": "Sthree GMBH",
-      "loc": "Bülach",
+      "t": "Kommunikationsbeauftragten",
+      "co": "Universität Bern",
+      "loc": "Schweiz",
       "gate": "g",
-      "lane": "konzern",
+      "lane": "growth",
       "cool": false,
-      "why": "Sales/Business-Development in Bülach — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobs.womenforhire.com/job/switzerland/bulach-zh/trainee-personalberater-recruitment-consultant-m-w-d-quereinstieg-moglich-851963/",
-      "posted": "2026-09-29T00:00:00.000Z"
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.unibe.ch/offene-stellen/kommunikationsbeauftragten/f70eada7-2d61-4296-ae0c-0200d2a3ac9e",
+      "posted": "2026-09-28T00:00:00.000Z"
     },
     {
       "t": "Trainee Finanzplanung",
@@ -91,6 +113,17 @@
       "posted": "2026-09-27T00:00:00.000Z"
     },
     {
+      "t": "Assurance XL Trainee Programm Start ab Oktober 2021",
+      "co": "EY",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.nzz.ch/job/assurance-xl-trainee-programm-start-ab-oktober-2021/204989",
+      "posted": "2026-09-27T00:00:00.000Z"
+    },
+    {
       "t": "Trainee Vorsorgeberatung kostenlose VBV-Ausbildung, Homeoffice möglich",
       "co": "Convit",
       "loc": "Schweiz",
@@ -102,15 +135,15 @@
       "posted": "2026-09-27T00:00:00.000Z"
     },
     {
-      "t": "Account Manager 100% f/m/d",
-      "co": "Julius Baer",
-      "loc": "Genf",
-      "gate": "a",
-      "lane": "tech",
+      "t": "Trainee Vorsorgeberatung",
+      "co": "Convit",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
       "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobilize.com/job/ch-geneva-account-manager-100-f-m-d-julius-baer-hiring-now-job-immediately",
-      "posted": "2026-09-26T00:00:00.000Z"
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-4100-3f4a2e3d0143c7cd6b6c4983c0cb56bd",
+      "posted": "2026-09-24T00:00:00.000Z"
     },
     {
       "t": "Enterprise Account Executive, Switzerland",
@@ -148,34 +181,23 @@
     {
       "t": "Management Trainee Housekeeping 100% (m/w/i)",
       "co": "Grand Resort Bad Ragaz",
-      "loc": "Schweiz",
+      "loc": "Untervaz",
       "gate": "g",
       "lane": "konzern",
       "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobs.womenforhire.com/job/switzerland/igis-gr/management-trainee-housekeeping-100-m-w-i-292437/",
+      "why": "Sales/Business-Development in Untervaz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.womenforhire.com/job/switzerland/untervaz-gr/management-trainee-housekeeping-100-m-w-i-353675/",
       "posted": "2026-09-05T00:00:00.000Z"
     },
     {
-      "t": "Account Manager for Academic Work Geneva!",
-      "co": "Academic Work Switzerland SA",
-      "loc": "Schweiz",
+      "t": "Inside Sales Account Manager",
+      "co": "Dell Technologies",
+      "loc": "Genf",
       "gate": "a",
       "lane": "tech",
       "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobs.ch/en/vacancies/detail/5ab6222a-3c9c-4bd9-99a6-cc74e118a4a9/",
-      "posted": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
-      "co": "Lyreco Switzerland AG",
-      "loc": "Perly-Certoux",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Perly-Certoux — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobs.ch/en/vacancies/detail/505441f0-9644-4a9c-96d9-98bcaf89c62c/",
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://bebee.com/ch/jobs/inside-sales-account-manager-dell-technologies-genf--techmap_ch_4455429535",
       "posted": null
     },
     {
@@ -190,17 +212,6 @@
       "posted": null
     },
     {
-      "t": "Sr Enterprise Account Manager , Industrials (Manufacturing & Pharma)",
-      "co": "Amazon Web Services",
-      "loc": "Genf",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://bebee.com/ch/jobs/sr-enterprise-account-manager-industrials-manufacturing-pharma-amazon-web-services-geneva-ge--t7xk-819104574",
-      "posted": null
-    },
-    {
       "t": "Sachbearbeiter*in Administration 80%, Region Aarau / Temporär Teilzeit",
       "co": "absolutLIV",
       "loc": "Schweiz",
@@ -209,7 +220,7 @@
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://www.jobs.ch/de/stellenangebote/detail/407dd43d-ebd1-4598-94ca-42d1fba62bad/",
-      "posted": "2026-10-02T14:00:00.000Z"
+      "posted": "2026-10-02T00:00:00.000Z"
     },
     {
       "t": "Sachbearbeiter Verkaufsinnendienst 80% - 100%",
@@ -223,15 +234,26 @@
       "posted": "2026-10-01T00:00:00.000Z"
     },
     {
-      "t": "Teilzeit-Sachbearbeiter:in Administration – Kunden & Projekte",
-      "co": "EBERHARD & Partner AG",
+      "t": "Perfekter Studentenjob Schweiz - Nebenjob 200€/Tag",
+      "co": "Corris AG",
+      "loc": "Zürich",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Teilzeit/Aushilfe in Zürich — neben dem Studium machbar.",
+      "u": "https://ch.jooble.org/jdp/6377355004789825543",
+      "posted": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "t": "Verdiene Geld von Zuhause aus: Nebenjob im Home Office mit Umfragen",
+      "co": "Meinungsplatz",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://ch.jobrapido.com/jobpreview/5607428347966521344",
-      "posted": "2026-10-01T00:00:00.000Z"
+      "u": "https://ch.jooble.org/jdp/-2192038502932559512",
+      "posted": "2026-09-25T00:00:00.000Z"
     },
     {
       "t": "Mitarbeiterin/Mitarbeiter Empfang",
@@ -245,15 +267,26 @@
       "posted": "2026-09-17T00:00:00.000Z"
     },
     {
-      "t": "Wochenendjob Empfangsaushilfe (a) Quereinsteiger Job Solothurn",
-      "co": "RECRUDO Nebenjobs",
-      "loc": "Solothurn",
+      "t": "Mitarbeiterin Empfang",
+      "co": "Stadt Olten",
+      "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Büro/Empfang in Solothurn — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.recrudo.com/jobs/wochenendjob-empfangsaushilfe-a-quereinsteiger-job-945",
-      "posted": "2026-09-15T00:00:00.000Z"
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://jobmaps.ch/de/company/847547/job/307905",
+      "posted": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "t": "Mitarbeiter:in Empfang, Aarau 80 %",
+      "co": "Equans Switzerland Facility Management AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobagent.ch/job/mitarbeiter-in-empfang-aarau-80/3254593968",
+      "posted": "2026-09-14T00:00:00.000Z"
     },
     {
       "t": "Mitarbeiter/in Empfang 50%",
