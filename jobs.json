@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-06",
-  "source": "Automatisch aktualisiert - 18 Karriere + 8 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-07",
+  "source": "Automatisch aktualisiert - 15 Karriere + 6 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Trainee.",
+      "co": "NAGRA",
+      "loc": "Cheseaux-sur-Lausanne",
+      "gate": "g",
+      "lane": "westch",
+      "cool": false,
+      "why": "Sales/Business-Development in Cheseaux-sur-Lausanne — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/trainee-at-nagra-4474692771",
+      "posted": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "t": "Global Account Manager, AWS Industries, Automotive",
+      "co": "AWS",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.trabajo.org/stellenangebot-4100-866c8369d1cc0fd8a51fe35cd0db7932",
+      "posted": "2026-10-05T00:00:00.000Z"
+    },
     {
       "t": "Traineeprogramm Interne Revision",
       "co": "PostFinance",
@@ -58,17 +80,6 @@
       "posted": "2026-10-01T00:00:00.000Z"
     },
     {
-      "t": "Global Account Manager, AWS Industries, Automotive",
-      "co": "AWS",
-      "loc": "Schweiz",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.trabajo.org/stellenangebot-4100-866c8369d1cc0fd8a51fe35cd0db7932",
-      "posted": "2026-10-01T00:00:00.000Z"
-    },
-    {
       "t": "Online Marketing Manager:in 60-80%",
       "co": "Normrahmen AG",
       "loc": "Schweiz",
@@ -80,15 +91,15 @@
       "posted": "2026-09-30T00:00:00.000Z"
     },
     {
-      "t": "HR Operations Trainee — Global, Dynamic HR Path",
-      "co": "Astara Mobility Switzerland AG",
+      "t": "Kommunikationsbeauftragten",
+      "co": "Universität Bern",
       "loc": "Schweiz",
       "gate": "g",
-      "lane": "konzern",
+      "lane": "growth",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.jobleads.com/ch/job/hr-operations-trainee-global-dynamic-hr-path--wallisellen--e46d2c0015fef18ab378e02af2a1d87e7",
-      "posted": "2026-09-29T00:00:00.000Z"
+      "u": "https://jobs.unibe.ch/offene-stellen/kommunikationsbeauftragten/f70eada7-2d61-4296-ae0c-0200d2a3ac9e",
+      "posted": "2026-09-27T00:00:00.000Z"
     },
     {
       "t": "Trainee Finanzplanung",
@@ -102,48 +113,15 @@
       "posted": "2026-09-27T00:00:00.000Z"
     },
     {
-      "t": "Trainee Vorsorgeberatung kostenlose VBV-Ausbildung, Homeoffice möglich",
-      "co": "Convit",
-      "loc": "Schweiz",
+      "t": "Audit Trainee",
+      "co": "RSM Audit Switzerland SA",
+      "loc": "Genf",
       "gate": "g",
       "lane": "konzern",
       "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-4100-c1747b197c8a5268cdca61fecf930947",
-      "posted": "2026-09-27T00:00:00.000Z"
-    },
-    {
-      "t": "Trainee Vorsorgeberatung",
-      "co": "Convit",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-4100-3f4a2e3d0143c7cd6b6c4983c0cb56bd",
-      "posted": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "t": "Leiter:in Marketing / Mitglied der Geschäftsleitung in Bern",
-      "co": "Jörg Lienert AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://www.workpool-jobs.ch/leiter-in-marketing-mitglied-der-geschaeftsleitung-in-bern/10600178sf",
-      "posted": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "t": "(Junior) Area Account Manager (m/f/d) Switzerland",
-      "co": "Brainlab AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobs.ch/en/vacancies/detail/3aec7e01-4ea3-44a5-8988-37905f86d3a9/",
-      "posted": "2026-09-18T00:00:00.000Z"
+      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobmaps.ch/de/company/498117/job/314272",
+      "posted": "2026-09-23T00:00:00.000Z"
     },
     {
       "t": "Business Analyst Trainee; m​/w​/d",
@@ -157,15 +135,26 @@
       "posted": "2026-09-11T00:00:00.000Z"
     },
     {
-      "t": "Inside Sales Account Manager",
-      "co": "Dell Technologies",
+      "t": "Freight Forwarding Trainee",
+      "co": "GEODIS",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/freight-forwarding-trainee-at-geodis-4465664202",
+      "posted": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "t": "Account Executive (Geneva)",
+      "co": "OpenTable",
       "loc": "Genf",
-      "gate": "a",
+      "gate": "g",
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://bebee.com/ch/jobs/inside-sales-account-manager-dell-technologies-genf--techmap_ch_4455429535",
-      "posted": null
+      "u": "https://bebee.com/ch/jobs/account-executive-geneva-opentable-geneva--ss-ch-k94zfm",
+      "posted": "2026-09-07T00:00:00.000Z"
     },
     {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
@@ -179,61 +168,6 @@
       "posted": null
     },
     {
-      "t": "Enterprise Account Executive - Switzerland (French-Speaking)",
-      "co": "Armis",
-      "loc": "Genf",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://talents.studysmarter.de/companies/armis/enterprise-account-executive-switzerland-french-speaking-17096346/",
-      "posted": null
-    },
-    {
-      "t": "Account Director, Healthcare Communications",
-      "co": "WEBER SHANDWICK",
-      "loc": "Genf",
-      "gate": "r",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://talents.studysmarter.de/companies/weber-shandwick/account-director-healthcare-communications-17241913/",
-      "posted": null
-    },
-    {
-      "t": "Sachbearbeiter*in Administration 80%, Region Aarau / Temporär Teilzeit",
-      "co": "absolutLIV AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.myjob.ch/job/sachbearbeiterin-administration-80-region-aarau-temporaer-teilzeit/3488837",
-      "posted": "2026-10-04T00:00:00.000Z"
-    },
-    {
-      "t": "Babysitting als Nebenjob: Werde Teil des Kandidatenpools",
-      "co": "Studentjob CH",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/-6869152104868559193",
-      "posted": "2026-10-04T00:00:00.000Z"
-    },
-    {
-      "t": "Dein Kandidatenpool für einen Nebenjob im Supermarkt",
-      "co": "Studentjob CH",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/3708065782883143410",
-      "posted": "2026-10-04T00:00:00.000Z"
-    },
-    {
       "t": "Sachbearbeiter Verkaufsinnendienst 80% - 100%",
       "co": "Gi Group SA",
       "loc": "Schweiz",
@@ -245,26 +179,37 @@
       "posted": "2026-10-01T00:00:00.000Z"
     },
     {
-      "t": "Perfekter Studentenjob Schweiz - Nebenjob 200€/Tag",
+      "t": "Perfekter Studentenjob Olten  - Nebenjob 200€/Tag",
       "co": "Corris AG",
-      "loc": "Zürich",
+      "loc": "Olten",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Teilzeit/Aushilfe in Zürich — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/6377355004789825543",
-      "posted": "2026-09-29T00:00:00.000Z"
+      "why": "Teilzeit/Aushilfe in Olten — neben dem Studium machbar.",
+      "u": "https://www.recrudo.com/jobs/perfekter-studentenjob-schweiz-nebenjob-200tag-63",
+      "posted": "2026-09-30T00:00:00.000Z"
     },
     {
-      "t": "Verdiene Geld von Zuhause aus: Nebenjob im Home Office mit Umfragen",
-      "co": "Meinungsplatz",
+      "t": "Raumplaner: Strategische Raumplanung & Nutzungspläne (Teilzeit/Remote)",
+      "co": "Kanton Solothurn",
+      "loc": "Solothurn",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Teilzeit/Aushilfe in Solothurn — neben dem Studium machbar.",
+      "u": "https://ch.jooble.org/jdp/-7586829427632871707",
+      "posted": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "t": "Sachbearbeiter/in Rechnungswesen 80 %",
+      "co": "Einwohnergemeinde Olten",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://ch.jooble.org/jdp/-2192038502932559512",
-      "posted": "2026-09-24T00:00:00.000Z"
+      "u": "https://www.gemeindestellen.ch/jobs/finanzen-buchhaltung-lohnbuchhaltung/~job19364",
+      "posted": "2026-09-22T00:00:00.000Z"
     },
     {
       "t": "Kaufmännische/r Sachbearbeiter/in 40% - 50%",
@@ -274,7 +219,7 @@
       "lane": "studi",
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://jobsuche-basel.ch/job/kaufmannische-r-sachbearbeiter-in-40-50-33194?source=verified_job",
+      "u": "https://jobs-schweiz.ch/job/kaufmannische-r-sachbearbeiter-in-40-50-33194?source=verified_job",
       "posted": "2026-09-16T00:00:00.000Z"
     },
     {
