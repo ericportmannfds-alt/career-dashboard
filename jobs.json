@@ -1,17 +1,39 @@
 {
-  "updated": "2026-10-07",
-  "source": "Automatisch aktualisiert - 15 Karriere + 6 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-08",
+  "source": "Automatisch aktualisiert - 17 Karriere + 4 Studi-Jobs (Google Jobs)",
   "jobs": [
     {
-      "t": "Trainee.",
-      "co": "NAGRA",
-      "loc": "Cheseaux-sur-Lausanne",
+      "t": "2027 Graduate Talent Program – Corporate & Real Estate – Romandie",
+      "co": "UBS",
+      "loc": "Nyon",
       "gate": "g",
-      "lane": "westch",
+      "lane": "konzern",
       "cool": false,
-      "why": "Sales/Business-Development in Cheseaux-sur-Lausanne — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/trainee-at-nagra-4474692771",
+      "why": "Sales/Business-Development in Nyon — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/2027-graduate-talent-program-%E2%80%93-corporate-real-estate-%E2%80%93-romandie-at-ubs-4476769363",
+      "posted": "2026-10-07T14:00:00.000Z"
+    },
+    {
+      "t": "Account Manager, Partner Strategy",
+      "co": "Geneva Com",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.trabajo.org/stellenangebot-2429-d836e6c6394d7601d8a2f4d87338b6f5",
       "posted": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "t": "Account Manager Email Marketing",
+      "co": "Xapply",
+      "loc": "Genf",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Genf — passt zu deinem Fokus.",
+      "u": "https://www.jobilize.com/amp/job/ch-geneva-account-manager-email-marketing-xapply-hiring-now-job-immediately",
+      "posted": "2026-10-05T00:00:00.000Z"
     },
     {
       "t": "Global Account Manager, AWS Industries, Automotive",
@@ -34,6 +56,17 @@
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://www.careerfairy.io/jobs/traineeprogramm-interne-revision-at-postfinance-RN8SuzUqweU6o5rxtXRW",
       "posted": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "t": "Enterprise Account Executive – Zurich",
+      "co": "Idealsvdr",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-enterprise-account-executive-zurich-idealsvdr-hiring-now",
+      "posted": "2026-10-04T00:00:00.000Z"
     },
     {
       "t": "German Sales and Customer Account Manager in Athens",
@@ -69,17 +102,6 @@
       "posted": "2026-10-01T00:00:00.000Z"
     },
     {
-      "t": "Account Manager, Partner Strategy",
-      "co": "Geneva Com",
-      "loc": "Schweiz",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.trabajo.org/stellenangebot-2429-d836e6c6394d7601d8a2f4d87338b6f5",
-      "posted": "2026-10-01T00:00:00.000Z"
-    },
-    {
       "t": "Online Marketing Manager:in 60-80%",
       "co": "Normrahmen AG",
       "loc": "Schweiz",
@@ -89,6 +111,17 @@
       "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
       "u": "https://ch.jobrapido.com/jobpreview/7482600349161750528",
       "posted": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "t": "Performance Marketing Manager / Online Marketing Manager (m/w/d)",
+      "co": "Dodor",
+      "loc": "Bern",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Bern — passt zu deinem Fokus.",
+      "u": "https://ch.jooble.org/rjdp/-872765732302490715",
+      "posted": "2026-09-28T00:00:00.000Z"
     },
     {
       "t": "Kommunikationsbeauftragten",
@@ -113,15 +146,15 @@
       "posted": "2026-09-27T00:00:00.000Z"
     },
     {
-      "t": "Audit Trainee",
-      "co": "RSM Audit Switzerland SA",
-      "loc": "Genf",
+      "t": "Assurance XL Trainee Programm Start ab Oktober 2021",
+      "co": "EY",
+      "loc": "Schweiz",
       "gate": "g",
       "lane": "konzern",
       "cool": false,
-      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobmaps.ch/de/company/498117/job/314272",
-      "posted": "2026-09-23T00:00:00.000Z"
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.nzz.ch/job/assurance-xl-trainee-programm-start-ab-oktober-2021/204989",
+      "posted": "2026-09-26T00:00:00.000Z"
     },
     {
       "t": "Business Analyst Trainee; m​/w​/d",
@@ -135,17 +168,6 @@
       "posted": "2026-09-11T00:00:00.000Z"
     },
     {
-      "t": "Freight Forwarding Trainee",
-      "co": "GEODIS",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/freight-forwarding-trainee-at-geodis-4465664202",
-      "posted": "2026-09-10T00:00:00.000Z"
-    },
-    {
       "t": "Account Executive (Geneva)",
       "co": "OpenTable",
       "loc": "Genf",
@@ -154,7 +176,7 @@
       "cool": false,
       "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
       "u": "https://bebee.com/ch/jobs/account-executive-geneva-opentable-geneva--ss-ch-k94zfm",
-      "posted": "2026-09-07T00:00:00.000Z"
+      "posted": null
     },
     {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
@@ -179,47 +201,25 @@
       "posted": "2026-10-01T00:00:00.000Z"
     },
     {
-      "t": "Perfekter Studentenjob Olten  - Nebenjob 200€/Tag",
-      "co": "Corris AG",
-      "loc": "Olten",
+      "t": "Mitarbeiter/in Empfang 50%",
+      "co": "CWA Constructions SA",
+      "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Teilzeit/Aushilfe in Olten — neben dem Studium machbar.",
-      "u": "https://www.recrudo.com/jobs/perfekter-studentenjob-schweiz-nebenjob-200tag-63",
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://ch.trabajo.org/stellenangebot-2253-6f8b7dc44fd303f9628f6b5c4e8c1f8c",
       "posted": "2026-09-30T00:00:00.000Z"
     },
     {
-      "t": "Raumplaner: Strategische Raumplanung & Nutzungspläne (Teilzeit/Remote)",
-      "co": "Kanton Solothurn",
-      "loc": "Solothurn",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Solothurn — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/-7586829427632871707",
-      "posted": "2026-09-28T00:00:00.000Z"
-    },
-    {
-      "t": "Sachbearbeiter/in Rechnungswesen 80 %",
-      "co": "Einwohnergemeinde Olten",
+      "t": "Mitarbeiterin/Mitarbeiter Empfang",
+      "co": "Stadt Olten",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.gemeindestellen.ch/jobs/finanzen-buchhaltung-lohnbuchhaltung/~job19364",
-      "posted": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "t": "Kaufmännische/r Sachbearbeiter/in 40% - 50%",
-      "co": "bruederlinpartner Gruppe",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://jobs-schweiz.ch/job/kaufmannische-r-sachbearbeiter-in-40-50-33194?source=verified_job",
+      "u": "https://www.professional.ch/jobs/inserat/2863431-mitarbeiterin-mitarbeiter-empfang",
       "posted": "2026-09-16T00:00:00.000Z"
     },
     {
