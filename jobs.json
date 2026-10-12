@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-11",
-  "source": "Automatisch aktualisiert - 17 Karriere + 6 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-12",
+  "source": "Automatisch aktualisiert - 20 Karriere + 2 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Commercial Account Executive, Acquisition | Switzerland | Remote",
+      "co": "Grafana",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://bebee.com/ch/jobs/commercial-account-executive-acquisition-switzerland-remote-grafana-geneva--joblkupv2-ch-1475701",
+      "posted": "2026-10-10T00:00:00.000Z"
+    },
     {
       "t": "Trainee (m/f/d) - Strategy & Market Expansion",
       "co": "Dassault Systèmes",
@@ -25,26 +36,15 @@
       "posted": "2026-10-08T00:00:00.000Z"
     },
     {
-      "t": "Business Development Executive, Trust - Geneva",
-      "co": "AP Executive - Global Executive Search Agency",
+      "t": "Senior Strategic Account Executive - DACH",
+      "co": "LemClosers",
       "loc": "Genf",
-      "gate": "g",
+      "gate": "r",
       "lane": "tech",
       "cool": false,
-      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://bebee.com/ch/jobs/business-development-executive-trust-geneva-ap-executive-global-executive-search-agency-geneva-genev--t7xk-869895916",
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-senior-strategic-account-executive-dach-lemclosers-hiring",
       "posted": "2026-10-07T00:00:00.000Z"
-    },
-    {
-      "t": "Account Manager, Partner Strategy",
-      "co": "Geneva Com",
-      "loc": "Schweiz",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.trabajo.org/stellenangebot-2429-d836e6c6394d7601d8a2f4d87338b6f5",
-      "posted": "2026-10-06T00:00:00.000Z"
     },
     {
       "t": "Global Account Manager, AWS Industries, Automotive",
@@ -124,6 +124,39 @@
       "posted": "2026-10-03T00:00:00.000Z"
     },
     {
+      "t": "Performance - / Digital Marketing Manager 60% (m/w/d)",
+      "co": "Dodor",
+      "loc": "Bern",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Bern — passt zu deinem Fokus.",
+      "u": "https://ch.jooble.org/jdp/4373520960550971029",
+      "posted": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "t": "Kommunikationsbeauftragten",
+      "co": "Universität Bern",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.unibe.ch/offene-stellen/kommunikationsbeauftragten/f70eada7-2d61-4296-ae0c-0200d2a3ac9e",
+      "posted": "2026-09-27T00:00:00.000Z"
+    },
+    {
+      "t": "Trainee Vorsorgeberatung",
+      "co": "Convit",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-4100-30ef08f1708abf46ccc2bc57716040e2",
+      "posted": "2026-09-27T00:00:00.000Z"
+    },
+    {
       "t": "Audit Trainee",
       "co": "RSM Audit Switzerland SA",
       "loc": "Genf",
@@ -176,7 +209,7 @@
       "cool": false,
       "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
       "u": "https://bebee.com/ch/jobs/outside-account-manager-switzerland-cannondale-geneva-ge--t7xk-838669068",
-      "posted": "2026-09-11T00:00:00.000Z"
+      "posted": "2026-09-12T00:00:00.000Z"
     },
     {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
@@ -190,48 +223,15 @@
       "posted": null
     },
     {
-      "t": "Verdiene Geld von Zuhause aus: Nebenjob im Home Office mit Umfragen",
-      "co": "Meinungsplatz",
+      "t": "Sachbearbeiter*in Administration 80%, Region Aarau / Temporär Teilzeit",
+      "co": "absolutLIV",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://ch.jooble.org/jdp/-2192038502932559512",
-      "posted": "2026-10-08T00:00:00.000Z"
-    },
-    {
-      "t": "Nebenjob , Minijob oder Ferienjob in Teilzeit als Promoter (25-50 CHF/h) w/m/d",
-      "co": "Wesser und Partner",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/6635191195323364192",
-      "posted": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "t": "Wochenendjob Empfangsaushilfe (a) Quereinsteiger Job Solothurn",
-      "co": "RECRUDO Nebenjobs",
-      "loc": "Solothurn",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Solothurn — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.recrudo.com/jobs/wochenendjob-empfangsaushilfe-a-quereinsteiger-job-945",
-      "posted": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "t": "Perfekter Studentenjob Schweiz - Nebenjob 200€/Tag",
-      "co": "Corris AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/6377355004789825543",
-      "posted": "2026-09-29T00:00:00.000Z"
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/407dd43d-ebd1-4598-94ca-42d1fba62bad/",
+      "posted": "2026-10-02T00:00:00.000Z"
     },
     {
       "t": "Sachbearbeiter Export (m/w) 80-100%",
@@ -243,17 +243,6 @@
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://www.ajourjob.ch/job/sachbearbeiter-export-m-w-80-100/251370",
       "posted": "2026-09-28T00:00:00.000Z"
-    },
-    {
-      "t": "Sachbearbeiter/in Rechnungswesen 80 %",
-      "co": "Einwohnergemeinde Olten",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.gemeindestellen.ch/jobs/finanzen-buchhaltung-lohnbuchhaltung/~job19364",
-      "posted": "2026-09-22T00:00:00.000Z"
     }
   ]
 }
