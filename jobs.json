@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-12",
-  "source": "Automatisch aktualisiert - 20 Karriere + 2 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-13",
+  "source": "Automatisch aktualisiert - 20 Karriere + 6 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Trainee Recruitment Einstiegsprogramm (m/w/d)",
+      "co": "Sthree GMBH",
+      "loc": "Oberlunkhofen",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Oberlunkhofen — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.womenforhire.com/job/switzerland/oberlunkhofen-ag/trainee-recruitment-einstiegsprogramm-m-w-d-324882/",
+      "posted": "2026-10-13T02:00:00.000Z"
+    },
+    {
+      "t": "Enterprise Account Executive - Switzerland & Austria",
+      "co": "3Search",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.3searchgroup.com/job/enterprise-account-executive---switzerland--austria/",
+      "posted": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "t": "Major Account Manager EMEA",
+      "co": "Datadog Inc",
+      "loc": "Genf",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-major-account-manager-emea-datadog-hiring-now-job-immediately",
+      "posted": "2026-10-10T00:00:00.000Z"
+    },
     {
       "t": "Commercial Account Executive, Acquisition | Switzerland | Remote",
       "co": "Grafana",
@@ -14,15 +47,15 @@
       "posted": "2026-10-10T00:00:00.000Z"
     },
     {
-      "t": "Trainee (m/f/d) - Strategy & Market Expansion",
-      "co": "Dassault Systèmes",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
+      "t": "Senior Key Account Manager B2B Telko m/w/d",
+      "co": "Rocken",
+      "loc": "Genf",
+      "gate": "r",
+      "lane": "tech",
       "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/trainee-m-f-d-strategy-market-expansion-at-dassault-syst%C3%A8mes-4445992588",
-      "posted": "2026-10-09T00:00:00.000Z"
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-senior-key-account-manager-b2b-telko-m-w-d-rocken-hiring",
+      "posted": "2026-10-10T00:00:00.000Z"
     },
     {
       "t": "Strategic Account Executive - Geneva",
@@ -45,39 +78,6 @@
       "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.jobilize.com/job/ch-geneva-senior-strategic-account-executive-dach-lemclosers-hiring",
       "posted": "2026-10-07T00:00:00.000Z"
-    },
-    {
-      "t": "Global Account Manager, AWS Industries, Automotive",
-      "co": "AWS",
-      "loc": "Schweiz",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.trabajo.org/stellenangebot-4100-866c8369d1cc0fd8a51fe35cd0db7932",
-      "posted": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "t": "Leadership Trainee (m/f/d)",
-      "co": "fenaco Genossenschaft",
-      "loc": "Schweiz",
-      "gate": "r",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.jobs.ch/en/vacancies/detail/99b1d196-9998-4d3c-b6be-670f35c5222d/",
-      "posted": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "t": "Trainee Verkauf",
-      "co": "RAMSEIER Suisse AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-2429-5e61fb5d057ea5ea2625828ff2d4d105",
-      "posted": "2026-10-05T00:00:00.000Z"
     },
     {
       "t": "Store Manager Trainee für die Region Netstal",
@@ -135,26 +135,26 @@
       "posted": "2026-09-28T00:00:00.000Z"
     },
     {
-      "t": "Kommunikationsbeauftragten",
-      "co": "Universität Bern",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "growth",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobs.unibe.ch/offene-stellen/kommunikationsbeauftragten/f70eada7-2d61-4296-ae0c-0200d2a3ac9e",
-      "posted": "2026-09-27T00:00:00.000Z"
-    },
-    {
-      "t": "Trainee Vorsorgeberatung",
-      "co": "Convit",
+      "t": "Assurance XL Trainee Programm Start ab Oktober 2021",
+      "co": "EY",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "konzern",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-4100-30ef08f1708abf46ccc2bc57716040e2",
-      "posted": "2026-09-27T00:00:00.000Z"
+      "u": "https://jobs.nzz.ch/job/assurance-xl-trainee-programm-start-ab-oktober-2021/204989",
+      "posted": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "t": "Sales & Customer Growth Trainee (all genders)",
+      "co": "BSI Software",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://ch.linkedin.com/jobs/view/sales-customer-growth-trainee-all-genders-at-bsi-4469421402",
+      "posted": "2026-09-23T00:00:00.000Z"
     },
     {
       "t": "Audit Trainee",
@@ -201,17 +201,6 @@
       "posted": "2026-09-22T00:00:00.000Z"
     },
     {
-      "t": "Outside Account Manager - Switzerland",
-      "co": "Cannondale",
-      "loc": "Genf",
-      "gate": "a",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://bebee.com/ch/jobs/outside-account-manager-switzerland-cannondale-geneva-ge--t7xk-838669068",
-      "posted": "2026-09-12T00:00:00.000Z"
-    },
-    {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
       "co": "Lyreco Switzerland AG",
       "loc": "Perly-Certoux",
@@ -221,6 +210,39 @@
       "why": "Kundennaher Einstieg in Perly-Certoux — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.jobs.ch/en/vacancies/detail/505441f0-9644-4a9c-96d9-98bcaf89c62c/",
       "posted": null
+    },
+    {
+      "t": "Business Development Institutional Sales Switzerland",
+      "co": "Degroof Petercam",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://talents.studysmarter.de/companies/degroof-petercam/business-development-institutional-sales-switzerland-12100110/",
+      "posted": null
+    },
+    {
+      "t": "Sachbearbeiter/-in Kundenservice Schaden (40 - 100 %)",
+      "co": "Die Aargauische Gebäudeversicherung",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Gastro/Service in Schweiz — Abend/Wochenende, passt um die Vormittags-Uni.",
+      "u": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-kundenservice-schaden-40-100-%25-at-die-aargauische-geb%C3%A4udeversicherung-4465796686",
+      "posted": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "t": "Sachbearbeiter in Pfändungen, 100",
+      "co": "Kanton Solothurn",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobilize.com/job/ch-olten-sachbearbeiter-pf-ndungen-100-kanton-solothurn-hiring-now",
+      "posted": "2026-10-10T00:00:00.000Z"
     },
     {
       "t": "Sachbearbeiter*in Administration 80%, Region Aarau / Temporär Teilzeit",
@@ -243,6 +265,28 @@
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://www.ajourjob.ch/job/sachbearbeiter-export-m-w-80-100/251370",
       "posted": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "t": "Sachbearbeiterin / Sachbearbeiter Leistungsmanagement",
+      "co": "Solothurner Spitäler AG",
+      "loc": "Solothurn",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Solothurn — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://bebee.com/ch/jobs/sachbearbeiterin-sachbearbeiter-leistungsmanagement-solothurner-spitaler-ag-solothurn--talent-639045496082531987",
+      "posted": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "t": "Sachbearbeiterin / Sachbearbeiter Leistungsmanagement (w/m/d)",
+      "co": "Solothurner Spitäler AG (soH)",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://frontaliereticino.ch/de/jobs-in-solothurn/sachbearbeiterin-sachbearbeiter-leistungsmanagement-w-m-d-soh-solothurner-spitaeler/",
+      "posted": "2026-09-23T00:00:00.000Z"
     }
   ]
 }
