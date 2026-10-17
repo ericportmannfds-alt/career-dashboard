@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-16",
-  "source": "Automatisch aktualisiert - 8 Karriere + 5 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-17",
+  "source": "Automatisch aktualisiert - 21 Karriere + 9 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Marketing Trainee - Equipment",
+      "co": "Scott Sports",
+      "loc": "Givisiez",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Givisiez — passt zu deinem Fokus.",
+      "u": "https://ch.linkedin.com/jobs/view/marketing-trainee-equipment-at-scott-sports-4480384945?position=59&pageNum=0&refId=iVVASxxySzZzvsaNAenklA%3D%3D&trackingId=V90LXi6cerQ1ZVYhXDKpgg%3D%3D",
+      "posted": "2026-10-16T15:00:00.000Z"
+    },
+    {
+      "t": "Hospitality Trainee",
+      "co": "Richemont",
+      "loc": "Villars-sur-Glâne",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Villars-sur-Glâne — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/hospitality-trainee-at-richemont-4479351684",
+      "posted": "2026-10-16T13:00:00.000Z"
+    },
+    {
+      "t": "Strategic Account Manager, Southern Europe",
+      "co": "G and H Gooch and Housego",
+      "loc": "Genf",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-strategic-account-manager-southern-europe-g-h-gooch-housego",
+      "posted": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "t": "Client Account Manager Consumer Goods",
+      "co": "Accenture DACH",
+      "loc": "Genf",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-client-account-manager-consumer-goods-accenture-dach-hiring",
+      "posted": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "t": "Senior Sales and Account Manager (D206415)",
+      "co": "Referment",
+      "loc": "Schweiz",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.talent.com/view?id=641375552571638292",
+      "posted": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "t": "Account Manager for Academic Work Geneva!",
+      "co": "Academic Work Switzerland",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobup.ch/en/jobs/detail/787a8460-d0bb-4864-ae9d-ac4a4d204adb/",
+      "posted": "2026-10-13T00:00:00.000Z"
+    },
     {
       "t": "Trainee Recruitment Einstiegsprogramm (m/w/d)",
       "co": "Sthree GMBH",
@@ -25,6 +91,39 @@
       "posted": "2026-10-13T00:00:00.000Z"
     },
     {
+      "t": "Enterprise Account Executive - Switzerland & Austria",
+      "co": "3Search",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.3searchgroup.com/job/enterprise-account-executive---switzerland--austria/",
+      "posted": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "t": "Senior Key Account Manager B2B Telko m/w/d",
+      "co": "Rocken",
+      "loc": "Genf",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-senior-key-account-manager-b2b-telko-m-w-d-rocken-hiring",
+      "posted": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "t": "Geneva Capital Markets SaaS Sales Lead",
+      "co": "Harrington Starr",
+      "loc": "Schweiz",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobleads.com/ch/job/geneva-capital-markets-saas-sales-lead--genf--e5eb3133e2c91abdb88ec4a0c37eba3c2",
+      "posted": "2026-10-11T00:00:00.000Z"
+    },
+    {
       "t": "HR Operations Trainee — Global, Dynamic HR Path",
       "co": "Astara Mobility Switzerland AG",
       "loc": "Schweiz",
@@ -34,6 +133,17 @@
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.trabajo.org/stellenangebot-2253-86a678775c330b62e19dbe4bcddb482c",
       "posted": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "t": "Senior Strategic Account Executive - DACH",
+      "co": "LemClosers",
+      "loc": "Genf",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-senior-strategic-account-executive-dach-lemclosers-hiring",
+      "posted": "2026-10-08T00:00:00.000Z"
     },
     {
       "t": "2027 Graduate Talent Program – Corporate & Real Estate – Romandie",
@@ -58,6 +168,28 @@
       "posted": "2026-10-06T00:00:00.000Z"
     },
     {
+      "t": "Key Account Manager (m/f/d) Industrial Automation - Romandie",
+      "co": "IMI Plc - Legacy Precision",
+      "loc": "Genf",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://imiprecisionengineering.hire.trakstar.com/jobs/fk0zlsj/",
+      "posted": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "t": "Online Marketing Manager:in 60-80%",
+      "co": "Normrahmen AG",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://ch.jobrapido.com/jobpreview/7482600349161750528",
+      "posted": "2026-10-01T00:00:00.000Z"
+    },
+    {
       "t": "Performance - / Digital Marketing Manager 60% (m/w/d)",
       "co": "Dodor",
       "loc": "Bern",
@@ -69,15 +201,15 @@
       "posted": "2026-09-29T00:00:00.000Z"
     },
     {
-      "t": "Audit Trainee",
-      "co": "RSM Audit Switzerland SA",
-      "loc": "Genf",
+      "t": "Sales & Customer Growth Trainee (all genders)",
+      "co": "BSI Software",
+      "loc": "Schweiz",
       "gate": "g",
-      "lane": "konzern",
+      "lane": "growth",
       "cool": false,
-      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobmaps.ch/de/company/498117/job/314272",
-      "posted": "2026-09-24T00:00:00.000Z"
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://ch.linkedin.com/jobs/view/sales-customer-growth-trainee-all-genders-at-bsi-4469421402",
+      "posted": "2026-09-23T00:00:00.000Z"
     },
     {
       "t": "Founder Associate (Trainee)",
@@ -91,6 +223,17 @@
       "posted": "2026-09-22T00:00:00.000Z"
     },
     {
+      "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
+      "co": "Lyreco Switzerland AG",
+      "loc": "Perly-Certoux",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Perly-Certoux — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobs.ch/en/vacancies/detail/505441f0-9644-4a9c-96d9-98bcaf89c62c/",
+      "posted": null
+    },
+    {
       "t": "Sachbearbeiter Service Administration 60–70% (m/w/d)",
       "co": "FoodTechScout AG",
       "loc": "Schweiz",
@@ -99,7 +242,7 @@
       "cool": false,
       "why": "Gastro/Service in Schweiz — Abend/Wochenende, passt um die Vormittags-Uni.",
       "u": "https://www.jobscout24.ch/de/job/c701a349-3a49-40a5-9ade-969822fe63ff/",
-      "posted": "2026-10-15T13:00:00.000Z"
+      "posted": "2026-10-15T00:00:00.000Z"
     },
     {
       "t": "Mitarbeiterin / Mitarbeiter Empfang / Telefonzentrale",
@@ -122,6 +265,50 @@
       "why": "Gastro/Service in Schweiz — Abend/Wochenende, passt um die Vormittags-Uni.",
       "u": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-kundenservice-schaden-40-100-%25-at-die-aargauische-geb%C3%A4udeversicherung-4465796686",
       "posted": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "t": "Verdiene Geld von Zuhause aus: Nebenjob im Home Office mit Umfragen",
+      "co": "Meinungsplatz",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://ch.jooble.org/jdp/-2192038502932559512",
+      "posted": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "t": "Werkstudent 1st-Level Support (m/w) 40%",
+      "co": "univativ Schweiz AG",
+      "loc": "Basel",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Teilzeit/Aushilfe in Basel — neben dem Studium machbar.",
+      "u": "https://ch.jooble.org/jdp/3577321975298691783",
+      "posted": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "t": "SachbearbeiterIn 80% - 100% in Olten",
+      "co": "das team ag",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.workpool-jobs.ch/sachbearbeiterin-80-100-in-olten/10659803sf",
+      "posted": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "t": "Babysitting als Nebenjob: Werde Teil des Kandidatenpools",
+      "co": "Studentjob CH",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
+      "u": "https://ch.jooble.org/jdp/-6869152104868559193",
+      "posted": "2026-10-05T00:00:00.000Z"
     },
     {
       "t": "Sachbearbeiter*in Administration 80%, Region Aarau / Temporär Teilzeit",
