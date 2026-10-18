@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-17",
-  "source": "Automatisch aktualisiert - 21 Karriere + 9 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-18",
+  "source": "Automatisch aktualisiert - 23 Karriere + 5 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Junior Account Executive UKI",
+      "co": "Jobgether SRL",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-junior-account-executive-uki-jobgether-srl-hiring-now-job",
+      "posted": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "t": "Digital Marketing Manager - International Business Units",
+      "co": "Octapharma",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobijoba.ch/detailanzeige/93/5b9e8aca4e54a992b53c136f9451b3ca",
+      "posted": "2026-10-16T00:00:00.000Z"
+    },
     {
       "t": "Marketing Trainee - Equipment",
       "co": "Scott Sports",
@@ -10,19 +32,8 @@
       "lane": "growth",
       "cool": false,
       "why": "Growth/Marketing-Rolle in Givisiez — passt zu deinem Fokus.",
-      "u": "https://ch.linkedin.com/jobs/view/marketing-trainee-equipment-at-scott-sports-4480384945?position=59&pageNum=0&refId=iVVASxxySzZzvsaNAenklA%3D%3D&trackingId=V90LXi6cerQ1ZVYhXDKpgg%3D%3D",
-      "posted": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "t": "Hospitality Trainee",
-      "co": "Richemont",
-      "loc": "Villars-sur-Glâne",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Villars-sur-Glâne — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/hospitality-trainee-at-richemont-4479351684",
-      "posted": "2026-10-16T13:00:00.000Z"
+      "u": "https://ch.linkedin.com/jobs/view/marketing-trainee-equipment-at-scott-sports-4480384945?position=1&pageNum=0&refId=7z2vAIHtqBg3QdUXC0HKSQ%3D%3D&trackingId=qL1pLeKoYXPVj4Br5rNtxA%3D%3D",
+      "posted": "2026-10-16T00:00:00.000Z"
     },
     {
       "t": "Strategic Account Manager, Southern Europe",
@@ -36,6 +47,17 @@
       "posted": "2026-10-14T00:00:00.000Z"
     },
     {
+      "t": "Senior Regional Account Manager Switzerland (m/f/d) Western Switzerland Geneva, Jura, Frib",
+      "co": "FormMed HealthCare GmbH, Frankfurt am Main/DE",
+      "loc": "Schweiz",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobs.ch/en/vacancies/detail/57647203-e188-44bd-83c1-7292d32fd536/",
+      "posted": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "t": "Client Account Manager Consumer Goods",
       "co": "Accenture DACH",
       "loc": "Genf",
@@ -45,17 +67,6 @@
       "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.jobilize.com/job/ch-geneva-client-account-manager-consumer-goods-accenture-dach-hiring",
       "posted": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "t": "Senior Sales and Account Manager (D206415)",
-      "co": "Referment",
-      "loc": "Schweiz",
-      "gate": "r",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.talent.com/view?id=641375552571638292",
-      "posted": "2026-10-13T00:00:00.000Z"
     },
     {
       "t": "Account Manager for Academic Work Geneva!",
@@ -89,17 +100,6 @@
       "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://ch.linkedin.com/jobs/view/trainee-m-a-advisory-%E2%80%93-corporate-finance-at-deloitte-4470401647",
       "posted": "2026-10-13T00:00:00.000Z"
-    },
-    {
-      "t": "Enterprise Account Executive - Switzerland & Austria",
-      "co": "3Search",
-      "loc": "Genf",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.3searchgroup.com/job/enterprise-account-executive---switzerland--austria/",
-      "posted": "2026-10-11T00:00:00.000Z"
     },
     {
       "t": "Senior Key Account Manager B2B Telko m/w/d",
@@ -148,12 +148,12 @@
     {
       "t": "2027 Graduate Talent Program – Corporate & Real Estate – Romandie",
       "co": "UBS",
-      "loc": "Lausanne",
+      "loc": "Nyon",
       "gate": "g",
       "lane": "konzern",
       "cool": false,
-      "why": "Sales/Business-Development in Lausanne — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/2027-graduate-talent-program-%E2%80%93-corporate-real-estate-%E2%80%93-romandie-at-ubs-4476769362",
+      "why": "Sales/Business-Development in Nyon — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.linkedin.com/jobs/view/2027-graduate-talent-program-%E2%80%93-corporate-real-estate-%E2%80%93-romandie-at-ubs-4476769363",
       "posted": "2026-10-07T00:00:00.000Z"
     },
     {
@@ -179,6 +179,17 @@
       "posted": "2026-10-05T00:00:00.000Z"
     },
     {
+      "t": "Commercial Development Program (Graduate) - Switzerland",
+      "co": "Tricon Energy",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.jooble.org/jdp/2806955337450781770",
+      "posted": "2026-10-02T00:00:00.000Z"
+    },
+    {
       "t": "Online Marketing Manager:in 60-80%",
       "co": "Normrahmen AG",
       "loc": "Schweiz",
@@ -199,6 +210,17 @@
       "why": "Growth/Marketing-Rolle in Bern — passt zu deinem Fokus.",
       "u": "https://ch.jooble.org/jdp/4373520960550971029",
       "posted": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "t": "Audit Trainee",
+      "co": "RSM Audit Switzerland SA",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobmaps.ch/de/company/498117/job/314272",
+      "posted": "2026-09-24T00:00:00.000Z"
     },
     {
       "t": "Sales & Customer Growth Trainee (all genders)",
@@ -234,17 +256,6 @@
       "posted": null
     },
     {
-      "t": "Sachbearbeiter Service Administration 60–70% (m/w/d)",
-      "co": "FoodTechScout AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Gastro/Service in Schweiz — Abend/Wochenende, passt um die Vormittags-Uni.",
-      "u": "https://www.jobscout24.ch/de/job/c701a349-3a49-40a5-9ade-969822fe63ff/",
-      "posted": "2026-10-15T00:00:00.000Z"
-    },
-    {
       "t": "Mitarbeiterin / Mitarbeiter Empfang / Telefonzentrale",
       "co": "Solothurner Spitäler AG",
       "loc": "Schweiz",
@@ -267,26 +278,15 @@
       "posted": "2026-10-12T00:00:00.000Z"
     },
     {
-      "t": "Verdiene Geld von Zuhause aus: Nebenjob im Home Office mit Umfragen",
-      "co": "Meinungsplatz",
-      "loc": "Schweiz",
+      "t": "Sachbearbeiterin / Sachbearbeiter Leistungsmanagement (w/m/d)",
+      "co": "Solothurner Spitäler AG",
+      "loc": "Dornach",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://ch.jooble.org/jdp/-2192038502932559512",
-      "posted": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "t": "Werkstudent 1st-Level Support (m/w) 40%",
-      "co": "univativ Schweiz AG",
-      "loc": "Basel",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Basel — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/3577321975298691783",
-      "posted": "2026-10-08T00:00:00.000Z"
+      "why": "Büro/Empfang in Dornach — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobzueri.ch/job/sachbearbeiterin-sachbearbeiter-leistungsmanagement-w-m-d/964741",
+      "posted": "2026-10-07T00:00:00.000Z"
     },
     {
       "t": "SachbearbeiterIn 80% - 100% in Olten",
@@ -300,17 +300,6 @@
       "posted": "2026-10-06T00:00:00.000Z"
     },
     {
-      "t": "Babysitting als Nebenjob: Werde Teil des Kandidatenpools",
-      "co": "Studentjob CH",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://ch.jooble.org/jdp/-6869152104868559193",
-      "posted": "2026-10-05T00:00:00.000Z"
-    },
-    {
       "t": "Sachbearbeiter*in Administration 80%, Region Aarau / Temporär Teilzeit",
       "co": "absolutLIV",
       "loc": "Schweiz",
@@ -320,17 +309,6 @@
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://www.jobs.ch/de/stellenangebote/detail/407dd43d-ebd1-4598-94ca-42d1fba62bad/",
       "posted": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "t": "Mitarbeiterin/Mitarbeiter Empfang",
-      "co": "Stadtverwaltung Olten",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://bebee.com/ch/jobs/mitarbeiterin-empfang-stadtverwaltung-olten-olten-solothurn--t7xk-845639271",
-      "posted": "2026-09-18T00:00:00.000Z"
     }
   ]
 }
