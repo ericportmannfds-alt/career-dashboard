@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-22",
-  "source": "Automatisch aktualisiert - 21 Karriere + 4 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-23",
+  "source": "Automatisch aktualisiert - 19 Karriere + 9 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Store Manager Trainee (SMT) Programme",
+      "co": "JYSK GmbH (Switzerland)",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobleads.com/ch/job/store-manager-trainee-smt-programme--switzerland--e0e1a7c22c8530bd28fdb7f2c6e380bb9",
+      "posted": "2026-10-20T00:00:00.000Z"
+    },
     {
       "t": "(Trainee) Recruiter | Recruitment Consultant | Personalberater (m/w/d)",
       "co": "Sthree GMBH",
@@ -58,17 +69,6 @@
       "posted": "2026-10-16T00:00:00.000Z"
     },
     {
-      "t": "Filialleiter / Personalberater Key Account 100% (m/f/d)",
-      "co": "CH_Prog_Partner_Whatjobs_Mixed_CPC",
-      "loc": "Walterswil",
-      "gate": "g",
-      "lane": "growth",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Walterswil — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.stellen-bern.ch/job/filialleiter-personalberater-key-account-100-m-f-d-59/",
-      "posted": "2026-10-15T00:00:00.000Z"
-    },
-    {
       "t": "Strategic Account Manager, Southern Europe",
       "co": "G and H Gooch and Housego",
       "loc": "Genf",
@@ -91,15 +91,26 @@
       "posted": "2026-10-14T00:00:00.000Z"
     },
     {
-      "t": "Global Internal Communications Trainee (6 months)",
-      "co": "Tecan Austria GmbH",
+      "t": "Assurance XL Trainee Programm Start ab Oktober 2021",
+      "co": "EY",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "konzern",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.jobleads.com/ch/job/global-internal-communications-trainee-6-months--switzerland--e17630fd546d69207f5587922e2df0c70",
+      "u": "https://jobs.nzz.ch/job/assurance-xl-trainee-programm-start-ab-oktober-2021/204989",
       "posted": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "t": "Senior Key Account Manager B2B Telko m/w/d",
+      "co": "Rocken",
+      "loc": "Genf",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobilize.com/job/ch-geneva-senior-key-account-manager-b2b-telko-m-w-d-rocken-hiring",
+      "posted": "2026-10-11T00:00:00.000Z"
     },
     {
       "t": "Principal Professional Services Account Executive, AWS Professional Services Healthcare an",
@@ -113,6 +124,17 @@
       "posted": "2026-10-07T00:00:00.000Z"
     },
     {
+      "t": "Enterprise Account Executive, Switzerland (English & German Speaker)",
+      "co": "GitGuardian",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://bebee.com/ch/jobs/enterprise-account-executive-switzerland-english-german-speaker-gitguardian-genf--techmap_ch_4474683501",
+      "posted": "2026-10-06T00:00:00.000Z"
+    },
+    {
       "t": "Store Manager Trainee für die Region Netstal",
       "co": "Jysk GmbH",
       "loc": "Glarus",
@@ -121,17 +143,6 @@
       "cool": false,
       "why": "Sales/Business-Development in Glarus — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://www.learn4good.com/jobs/switzerland/management_and_managerial/5519643393/e/",
-      "posted": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "t": "Service trainee - Chur, Switzerland",
-      "co": "hosco.",
-      "loc": "Chur",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Chur — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.jooble.org/jdp/6949335950486651568",
       "posted": "2026-10-06T00:00:00.000Z"
     },
     {
@@ -144,17 +155,6 @@
       "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
       "u": "https://imiprecisionengineering.hire.trakstar.com/jobs/fk0zlsj/",
       "posted": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "t": "Strategic Account Executive",
-      "co": "Laine",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.trabajo.org/stellenangebot-5080-e202488268a827e3f15e63c317c57fb8",
-      "posted": "2026-10-04T00:00:00.000Z"
     },
     {
       "t": "Kitchen Trainee (w/m/d)",
@@ -179,6 +179,17 @@
       "posted": "2026-10-01T00:00:00.000Z"
     },
     {
+      "t": "Enterprise Account Executive, Switzerland (English & German Speaker)",
+      "co": "GitGuardian",
+      "loc": "Genf",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.jooble.org/jdp/8318170194521837818",
+      "posted": "2026-09-29T00:00:00.000Z"
+    },
+    {
       "t": "Kommunikationsbeauftragten",
       "co": "Universität Bern",
       "loc": "Schweiz",
@@ -190,47 +201,14 @@
       "posted": "2026-09-28T00:00:00.000Z"
     },
     {
-      "t": "Enterprise Account Executive",
-      "co": "3Search",
-      "loc": "Genf",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.linkedin.com/jobs/view/enterprise-account-executive-at-3search-4470815177",
-      "posted": "2026-09-27T00:00:00.000Z"
-    },
-    {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
       "co": "Lyreco Switzerland AG",
-      "loc": "Perly-Certoux",
+      "loc": "Schweiz",
       "gate": "a",
       "lane": "tech",
       "cool": false,
-      "why": "Kundennaher Einstieg in Perly-Certoux — nutzt deine Kommunikationsstaerke.",
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.jobs.ch/en/vacancies/detail/505441f0-9644-4a9c-96d9-98bcaf89c62c/",
-      "posted": null
-    },
-    {
-      "t": "Enterprise Account Executive, Switzerland (English & German Speaker)",
-      "co": "GitGuardian",
-      "loc": "Genf",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://talents.studysmarter.de/companies/gitguardian/enterprise-account-executive-switzerland-english-german-speaker-41572404/",
-      "posted": null
-    },
-    {
-      "t": "Digital Account Manager ?????? - Digital Luxury Group, DLG - Career Page",
-      "co": "Digital Luxury Group, DLG SA",
-      "loc": "Genf",
-      "gate": "a",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Genf — passt zu deinem Fokus.",
-      "u": "https://www.jobscout24.ch/en/job/012a59dc-492a-4f4a-a3db-b00a3cc479f3/",
       "posted": null
     },
     {
@@ -242,7 +220,40 @@
       "cool": false,
       "why": "Verkauf/Retail in Schweiz — Samstage & Nachmittage, planbar.",
       "u": "https://www.lexcon.ch/offene-positionen/sachbearbeiter-verkaufsinnendienst/",
-      "posted": "2026-10-20T00:00:00.000Z"
+      "posted": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "t": "Sachbearbeiter/in Administration",
+      "co": "EBERHARD & Partner AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://ch.trabajo.org/stellenangebot-1917-45fa3255d0b0acd641adf487d3249733",
+      "posted": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "t": "Olten : Minijob: Aushilfe (a) Kantine",
+      "co": "RECRUDO Nebenjobs",
+      "loc": "Olten",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Teilzeit/Aushilfe in Olten — neben dem Studium machbar.",
+      "u": "https://www.recrudo.com/jobs/minijob-aushilfe-a-kantine-940",
+      "posted": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "t": "Wochenendjob Aushilfe(a) Minijob Solothurn",
+      "co": "RECRUDO Nebenjobs",
+      "loc": "Solothurn",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Teilzeit/Aushilfe in Solothurn — neben dem Studium machbar.",
+      "u": "https://www.recrudo.com/jobs/wochenendjob-aushilfea-minijob-945",
+      "posted": "2026-10-15T00:00:00.000Z"
     },
     {
       "t": "Mitarbeiter:in Empfang, Aarau 80 %",
@@ -267,15 +278,37 @@
       "posted": "2026-10-12T00:00:00.000Z"
     },
     {
-      "t": "Sachbearbeiter/-in Kundenservice Schaden (40 - 100 %)",
-      "co": "Die Aargauische Gebäudeversicherung",
+      "t": "MODE JOB NEBENJOB : Aushilfe (a) Aarau",
+      "co": "RECRUDO - MODE JOBS",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Gastro/Service in Schweiz — Abend/Wochenende, passt um die Vormittags-Uni.",
-      "u": "https://ch.linkedin.com/jobs/view/sachbearbeiter-in-kundenservice-schaden-40-100-%25-at-die-aargauische-geb%C3%A4udeversicherung-4465796686",
-      "posted": "2026-10-12T00:00:00.000Z"
+      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
+      "u": "https://www.recrudo.com/jobs/mode-job-nebenjob-aushilfe-a-918",
+      "posted": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "t": "Sachbearbeiterin / Sachbearbeiter Verwaltung Patienten- und Publikumsdienst (w/m/d)",
+      "co": "Solothurner Spitäler AG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/f8d12378-3817-4ffe-81c1-88d760136185/",
+      "posted": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "t": "Sachbearbeiterin / Sachbearbeiter Leistungsmanagement",
+      "co": "Solothurner Spitäler AG",
+      "loc": "Solothurn",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Solothurn — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://bebee.com/ch/jobs/sachbearbeiterin-sachbearbeiter-leistungsmanagement-solothurner-spitaler-ag-solothurn--talent-639045496082531987",
+      "posted": "2026-09-27T00:00:00.000Z"
     }
   ]
 }
