@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-23",
-  "source": "Automatisch aktualisiert - 19 Karriere + 9 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-24",
+  "source": "Automatisch aktualisiert - 18 Karriere + 6 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Global Internal Communications Trainee (6 months)",
+      "co": "Tecan Austria GmbH",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://www.jobleads.com/ch/job/global-internal-communications-trainee-6-months--switzerland--e17630fd546d69207f5587922e2df0c70",
+      "posted": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "t": "Strategic Account Manager, Intermediaries — Geneva",
+      "co": "Bank Julius Bär & Co. Ltd.",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobleads.com/ch/job/strategic-account-manager-intermediaries-geneva--genf--ecc06829160fe000369b9f15adb941039",
+      "posted": "2026-10-20T00:00:00.000Z"
+    },
     {
       "t": "Store Manager Trainee (SMT) Programme",
       "co": "JYSK GmbH (Switzerland)",
@@ -45,28 +67,6 @@
       "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
       "u": "https://www.jobijoba.ch/detailanzeige/93/7a99436acf8d3b4f3a91fef6c756ce17",
       "posted": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "t": "Partner Account Executive - Switzerland (Rolle)",
-      "co": "Cisco",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2025106EXTERNALENGLOBAL/Partner-Account-Executive-Switzerland-Rolle",
-      "posted": "2026-10-16T00:00:00.000Z"
-    },
-    {
-      "t": "Digital Marketing Manager - International Business Units",
-      "co": "Octapharma",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://www.jobijoba.ch/detailanzeige/93/5b9e8aca4e54a992b53c136f9451b3ca",
-      "posted": "2026-10-16T00:00:00.000Z"
     },
     {
       "t": "Strategic Account Manager, Southern Europe",
@@ -179,17 +179,6 @@
       "posted": "2026-10-01T00:00:00.000Z"
     },
     {
-      "t": "Enterprise Account Executive, Switzerland (English & German Speaker)",
-      "co": "GitGuardian",
-      "loc": "Genf",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.jooble.org/jdp/8318170194521837818",
-      "posted": "2026-09-29T00:00:00.000Z"
-    },
-    {
       "t": "Kommunikationsbeauftragten",
       "co": "Universität Bern",
       "loc": "Schweiz",
@@ -203,23 +192,23 @@
     {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
       "co": "Lyreco Switzerland AG",
-      "loc": "Schweiz",
+      "loc": "Perly-Certoux",
       "gate": "a",
       "lane": "tech",
       "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "why": "Kundennaher Einstieg in Perly-Certoux — nutzt deine Kommunikationsstaerke.",
       "u": "https://www.jobs.ch/en/vacancies/detail/505441f0-9644-4a9c-96d9-98bcaf89c62c/",
       "posted": null
     },
     {
-      "t": "Sachbearbeiter Verkaufsinnendienst – Region Aarau",
-      "co": "Lexcon AG",
+      "t": "Sachbearbeiter Leistungen Ambulant (w/m/d), 80-100%, Aarau / hybrid",
+      "co": "Sanitas Krankenversicherung",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Verkauf/Retail in Schweiz — Samstage & Nachmittage, planbar.",
-      "u": "https://www.lexcon.ch/offene-positionen/sachbearbeiter-verkaufsinnendienst/",
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobs.ch/de/stellenangebote/detail/829eca9f-89d6-4dc9-b712-6d0ee8fdc8bc/",
       "posted": "2026-10-22T00:00:00.000Z"
     },
     {
@@ -234,26 +223,26 @@
       "posted": "2026-10-21T00:00:00.000Z"
     },
     {
-      "t": "Olten : Minijob: Aushilfe (a) Kantine",
-      "co": "RECRUDO Nebenjobs",
-      "loc": "Olten",
+      "t": "HR Sachbearbeiter*in (a) – 50% – Aarau",
+      "co": "Aargauische Kantonalbank",
+      "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Teilzeit/Aushilfe in Olten — neben dem Studium machbar.",
-      "u": "https://www.recrudo.com/jobs/minijob-aushilfe-a-kantine-940",
-      "posted": "2026-10-15T00:00:00.000Z"
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.jobleads.com/ch/job/hr-sachbearbeiter-in-a-50-aarau--aarau--ef62ad8c7d752bd205ffff56259860d32",
+      "posted": "2026-10-21T00:00:00.000Z"
     },
     {
-      "t": "Wochenendjob Aushilfe(a) Minijob Solothurn",
-      "co": "RECRUDO Nebenjobs",
-      "loc": "Solothurn",
+      "t": "HR Sachbearbeiter*in",
+      "co": "confidential",
+      "loc": "Aarau",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Teilzeit/Aushilfe in Solothurn — neben dem Studium machbar.",
-      "u": "https://www.recrudo.com/jobs/wochenendjob-aushilfea-minijob-945",
-      "posted": "2026-10-15T00:00:00.000Z"
+      "why": "Büro/Empfang in Aarau — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://ch.jooble.org/jdp/1912758352615511073",
+      "posted": "2026-10-19T00:00:00.000Z"
     },
     {
       "t": "Mitarbeiter:in Empfang, Aarau 80 %",
@@ -276,39 +265,6 @@
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://jobmaps.ch/de/company/7829/job/332581",
       "posted": "2026-10-12T00:00:00.000Z"
-    },
-    {
-      "t": "MODE JOB NEBENJOB : Aushilfe (a) Aarau",
-      "co": "RECRUDO - MODE JOBS",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Teilzeit/Aushilfe in Schweiz — neben dem Studium machbar.",
-      "u": "https://www.recrudo.com/jobs/mode-job-nebenjob-aushilfe-a-918",
-      "posted": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "t": "Sachbearbeiterin / Sachbearbeiter Verwaltung Patienten- und Publikumsdienst (w/m/d)",
-      "co": "Solothurner Spitäler AG",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.jobs.ch/de/stellenangebote/detail/f8d12378-3817-4ffe-81c1-88d760136185/",
-      "posted": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "t": "Sachbearbeiterin / Sachbearbeiter Leistungsmanagement",
-      "co": "Solothurner Spitäler AG",
-      "loc": "Solothurn",
-      "gate": "g",
-      "lane": "studi",
-      "cool": false,
-      "why": "Büro/Empfang in Solothurn — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://bebee.com/ch/jobs/sachbearbeiterin-sachbearbeiter-leistungsmanagement-solothurner-spitaler-ag-solothurn--talent-639045496082531987",
-      "posted": "2026-09-27T00:00:00.000Z"
     }
   ]
 }
