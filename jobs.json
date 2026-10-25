@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-24",
-  "source": "Automatisch aktualisiert - 18 Karriere + 6 Studi-Jobs (Google Jobs)",
+  "updated": "2026-10-25",
+  "source": "Automatisch aktualisiert - 15 Karriere + 5 Studi-Jobs (Google Jobs)",
   "jobs": [
+    {
+      "t": "Principal Professional Services Account Executive, AWS Professional Services Healthcare an",
+      "co": "Amazon Inc.",
+      "loc": "Genf",
+      "gate": "r",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.talent.com/en/view?id=640646412255035924",
+      "posted": "2026-10-21T00:00:00.000Z"
+    },
     {
       "t": "Global Internal Communications Trainee (6 months)",
       "co": "Tecan Austria GmbH",
@@ -21,7 +32,7 @@
       "lane": "tech",
       "cool": false,
       "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobleads.com/ch/job/strategic-account-manager-intermediaries-geneva--genf--ecc06829160fe000369b9f15adb941039",
+      "u": "https://ch.trabajo.org/stellenangebot-2429-b0a35632b5ed0822952b43fb998e064d",
       "posted": "2026-10-20T00:00:00.000Z"
     },
     {
@@ -34,17 +45,6 @@
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://www.jobleads.com/ch/job/store-manager-trainee-smt-programme--switzerland--e0e1a7c22c8530bd28fdb7f2c6e380bb9",
       "posted": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "t": "(Trainee) Recruiter | Recruitment Consultant | Personalberater (m/w/d)",
-      "co": "Sthree GMBH",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobs.womenforhire.com/job/switzerland/dubendorf-zh/trainee-recruiter-recruitment-consultant-personalberater-m-w-d-598555/",
-      "posted": "2026-10-19T00:00:00.000Z"
     },
     {
       "t": "F1 Graduate Programme – Hinwil, Switzerland (On-site)",
@@ -91,39 +91,6 @@
       "posted": "2026-10-14T00:00:00.000Z"
     },
     {
-      "t": "Assurance XL Trainee Programm Start ab Oktober 2021",
-      "co": "EY",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobs.nzz.ch/job/assurance-xl-trainee-programm-start-ab-oktober-2021/204989",
-      "posted": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "t": "Senior Key Account Manager B2B Telko m/w/d",
-      "co": "Rocken",
-      "loc": "Genf",
-      "gate": "r",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
-      "u": "https://www.jobilize.com/job/ch-geneva-senior-key-account-manager-b2b-telko-m-w-d-rocken-hiring",
-      "posted": "2026-10-11T00:00:00.000Z"
-    },
-    {
-      "t": "Principal Professional Services Account Executive, AWS Professional Services Healthcare an",
-      "co": "Amazon Inc.",
-      "loc": "Schweiz",
-      "gate": "r",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.talent.com/en/view?id=640646412255035924",
-      "posted": "2026-10-07T00:00:00.000Z"
-    },
-    {
       "t": "Enterprise Account Executive, Switzerland (English & German Speaker)",
       "co": "GitGuardian",
       "loc": "Genf",
@@ -132,17 +99,6 @@
       "cool": false,
       "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
       "u": "https://bebee.com/ch/jobs/enterprise-account-executive-switzerland-english-german-speaker-gitguardian-genf--techmap_ch_4474683501",
-      "posted": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "t": "Store Manager Trainee für die Region Netstal",
-      "co": "Jysk GmbH",
-      "loc": "Glarus",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Glarus — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://www.learn4good.com/jobs/switzerland/management_and_managerial/5519643393/e/",
       "posted": "2026-10-06T00:00:00.000Z"
     },
     {
@@ -179,15 +135,15 @@
       "posted": "2026-10-01T00:00:00.000Z"
     },
     {
-      "t": "Kommunikationsbeauftragten",
-      "co": "Universität Bern",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "growth",
+      "t": "Senior Account Executive, Enterprise New Geneva, Switzerland",
+      "co": "Behavox Limited.",
+      "loc": "Genf",
+      "gate": "r",
+      "lane": "tech",
       "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobs.unibe.ch/offene-stellen/kommunikationsbeauftragten/f70eada7-2d61-4296-ae0c-0200d2a3ac9e",
-      "posted": "2026-09-28T00:00:00.000Z"
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://talents.studysmarter.de/companies/behavox-limited/senior-account-executive-enterprise-new-geneva-switzerland-33393457/",
+      "posted": null
     },
     {
       "t": "Experienced Key Account Manager in French-speaking Switzerland (m/f) 100%",
@@ -201,15 +157,15 @@
       "posted": null
     },
     {
-      "t": "Sachbearbeiter Leistungen Ambulant (w/m/d), 80-100%, Aarau / hybrid",
-      "co": "Sanitas Krankenversicherung",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "studi",
+      "t": "Account Manager Middle East - Private Banking",
+      "co": "Michael Page International (Switzerland) SA",
+      "loc": "Genf",
+      "gate": "a",
+      "lane": "tech",
       "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.jobs.ch/de/stellenangebote/detail/829eca9f-89d6-4dc9-b712-6d0ee8fdc8bc/",
-      "posted": "2026-10-22T00:00:00.000Z"
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://talents.studysmarter.de/companies/michael-page-international-switzerland-sa/account-manager-middle-east-private-banking-20532575/",
+      "posted": null
     },
     {
       "t": "Sachbearbeiter/in Administration",
@@ -247,11 +203,11 @@
     {
       "t": "Mitarbeiter:in Empfang, Aarau 80 %",
       "co": "Equans Switzerland Facility Management AG",
-      "loc": "Schweiz",
+      "loc": "Aarau",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "why": "Büro/Empfang in Aarau — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://www.teilzeitkarriere.ch/job/mitarbeiter-in-empfang-aarau-80/3255647152",
       "posted": "2026-10-13T00:00:00.000Z"
     },
