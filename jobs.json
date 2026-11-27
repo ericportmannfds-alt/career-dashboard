@@ -1,28 +1,61 @@
 {
-  "updated": "2026-11-26",
-  "source": "Automatisch aktualisiert - 30 Karriere + 8 Studi-Jobs (Google Jobs)",
+  "updated": "2026-11-27",
+  "source": "Automatisch aktualisiert - 30 Karriere + 10 Studi-Jobs (Google Jobs)",
   "jobs": [
     {
-      "t": "Commercial Traineeship- French",
-      "co": "Holcim Latinoamérica",
-      "loc": "Schweiz",
-      "gate": "g",
+      "t": "Global Sales Account Specialist - Fragrance, Geneva",
+      "co": "DSM-Firmenich AG",
+      "loc": "Genf",
+      "gate": "a",
       "lane": "konzern",
       "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.linkedin.com/jobs/view/commercial-traineeship-french-at-holcim-latinoam%C3%A9rica-4495001258",
-      "posted": "2026-11-26T06:00:00.000Z"
+      "why": "Kundennaher Einstieg in Genf — nutzt deine Kommunikationsstaerke.",
+      "u": "https://ch.jooble.org/jdp/-3094404066334802349",
+      "posted": "2026-11-25T00:00:00.000Z"
     },
     {
-      "t": "Marketing Managerin",
+      "t": "Marketing Manager – Digital Content",
       "co": "Stiftung Ballenberg",
       "loc": "Schweiz",
       "gate": "a",
       "lane": "growth",
       "cool": false,
       "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://ch.trabajo.org/stellenangebot-3139-c62016cc3b4e61feb30904cb920c1399",
+      "u": "https://ch.trabajo.org/stellenangebot-3139-5e792839d48528f403597d8e53c1915b",
       "posted": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "t": "Marketing Content Specialist",
+      "co": "EvolveTalent®",
+      "loc": "Bern",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Bern — passt zu deinem Fokus.",
+      "u": "https://ch.jooble.org/jdp/9155840265121524090",
+      "posted": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "t": "Graduate - Cyber Security",
+      "co": "KPMG",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-1917-87b612272ce257e95a54c0dfb2152366",
+      "posted": "2026-11-25T00:00:00.000Z"
+    },
+    {
+      "t": "Remote Enterprise Account Executive — Switzerland (DACH)",
+      "co": "GitGuardian",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "tech",
+      "cool": false,
+      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
+      "u": "https://www.jobleads.com/ch/job/remote-enterprise-account-executive-switzerland-dach--genf--e7389e52b480f75684112aa4f848257d6",
+      "posted": "2026-11-24T00:00:00.000Z"
     },
     {
       "t": "Marketing Managerin / Marketing Manager, 100%",
@@ -58,28 +91,6 @@
       "posted": "2026-11-24T00:00:00.000Z"
     },
     {
-      "t": "Trainee Bid & Proposal Management (all genders)",
-      "co": "Adesso",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.talent.com/view?id=606156947141302424",
-      "posted": "2026-11-24T00:00:00.000Z"
-    },
-    {
-      "t": "Growth Marketing Lead - Demand Gen (SaaS)",
-      "co": "ahead AG",
-      "loc": "Bern",
-      "gate": "r",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Bern — passt zu deinem Fokus.",
-      "u": "https://ch.jooble.org/jdp/-1872999044809364839",
-      "posted": "2026-11-23T00:00:00.000Z"
-    },
-    {
       "t": "Senior Digital Marketing Manager (m/w) 100%",
       "co": "myitjob GmbH",
       "loc": "Schweiz",
@@ -98,8 +109,30 @@
       "lane": "growth",
       "cool": false,
       "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://www.jobijoba.ch/detailanzeige/93/b286ceb6d67a50e624b9cd5633bd3bfc",
+      "u": "https://talents.studysmarter.de/companies/kursaal-interlaken-holding-ag/bern/marketing-manager-m-w-d-49676392/",
       "posted": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "t": "Store Manager Trainee",
+      "co": "JYSK",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://ch.trabajo.org/stellenangebot-2253-14baa7c365afd2088b57f9a5b37101fb",
+      "posted": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "t": "Swiss Field Sales Manager - HCM/Payroll SaaS Growth",
+      "co": "Automatic Data Processing, Inc.",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobleads.com/ch/job/swiss-field-sales-manager-hcm-payroll-saas-growth--genf--efd5b765b926d4d05ff7b47b7e8d2ec9a",
+      "posted": "2026-11-22T00:00:00.000Z"
     },
     {
       "t": "Teilzeit Marketing-Manager: Gestaltungsspielraum & Homeoffice",
@@ -113,25 +146,25 @@
       "posted": "2026-11-22T00:00:00.000Z"
     },
     {
-      "t": "Trainee within Risk Modelling",
-      "co": "SCOR",
+      "t": "Trainee Investment Team (Junior Analyst)",
+      "co": "Philos & Partners Ltd.",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "konzern",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.talent.com/view?id=634407426465990448",
+      "u": "https://ch.talent.com/view?id=641597012327531435",
       "posted": "2026-11-22T00:00:00.000Z"
     },
     {
-      "t": "Sales and Business Development Manager",
-      "co": "Shipping and Trading Network",
+      "t": "Director Business Development",
+      "co": "Aspiring Lifestyle",
       "loc": "Schweiz",
-      "gate": "a",
+      "gate": "r",
       "lane": "tech",
       "cool": false,
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-4100-dc1288ea25c5c48d4c1e71255b5859f3",
+      "u": "https://ch.trabajo.org/stellenangebot-4100-c4fdd40695bd316a70611485a2758216",
       "posted": "2026-11-21T00:00:00.000Z"
     },
     {
@@ -146,6 +179,17 @@
       "posted": "2026-11-20T00:00:00.000Z"
     },
     {
+      "t": "Manager Digital Marketing",
+      "co": "Movado Group, Inc",
+      "loc": "Schweiz",
+      "gate": "a",
+      "lane": "growth",
+      "cool": false,
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://ch.trabajo.org/stellenangebot-3139-354ce02de01c7f4ad13c5a0fbe1a5ea0",
+      "posted": "2026-11-20T00:00:00.000Z"
+    },
+    {
       "t": "Restaurants, Bars & Experiences Trainee (m/w/d)",
       "co": "Mandarin Oriental",
       "loc": "Schweiz",
@@ -155,17 +199,6 @@
       "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
       "u": "https://careers.mandarinoriental.com/jobs/restaurants-bars-experiences-trainee-m-w-d-luzern-switzerland",
       "posted": "2026-11-20T00:00:00.000Z"
-    },
-    {
-      "t": "Africa Account Manager - Executive Partnerships & Growth",
-      "co": "World Economic Forum",
-      "loc": "Schweiz",
-      "gate": "a",
-      "lane": "growth",
-      "cool": false,
-      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://www.jobleads.com/ch/job/africa-account-manager-executive-partnerships-growth--genf--e371b23964a91af90225a44791b3a95d9",
-      "posted": "2026-11-19T00:00:00.000Z"
     },
     {
       "t": "Senior Account Executive Europe, 100% remote",
@@ -179,14 +212,14 @@
       "posted": "2026-11-19T00:00:00.000Z"
     },
     {
-      "t": "Graduate – Corporate Audit",
-      "co": "KPMG Switzerland",
+      "t": "Africa Account Manager - Executive Partnerships & Growth",
+      "co": "World Economic Forum",
       "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
+      "gate": "a",
+      "lane": "growth",
       "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://ch.trabajo.org/stellenangebot-2253-df70ae3bf9ea808c5795f71122730c52",
+      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
+      "u": "https://www.jobleads.com/ch/job/africa-account-manager-executive-partnerships-growth--genf--e371b23964a91af90225a44791b3a95d9",
       "posted": "2026-11-19T00:00:00.000Z"
     },
     {
@@ -201,14 +234,25 @@
       "posted": "2026-11-18T00:00:00.000Z"
     },
     {
-      "t": "Marketing-manager/in 100",
-      "co": "Shark Group",
+      "t": "International Graduate Program",
+      "co": "bruederlinpartner Gruppe",
       "loc": "Schweiz",
-      "gate": "a",
-      "lane": "growth",
+      "gate": "g",
+      "lane": "konzern",
       "cool": false,
-      "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
-      "u": "https://www.jobilize.com/amp/job/ch-bern-marketing-manager-100-shark-group-hiring-now-job-immediately",
+      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs-schweiz.ch/job/international-graduate-program-52453?source=verified_job",
+      "posted": "2026-11-17T00:00:00.000Z"
+    },
+    {
+      "t": "VIP Guest Services Management Trainee 100% (m/w/i)",
+      "co": "Grand Resort Bad Ragaz",
+      "loc": "Jenaz",
+      "gate": "g",
+      "lane": "konzern",
+      "cool": false,
+      "why": "Sales/Business-Development in Jenaz — skalierbarer Einstieg, dein Kernpfad.",
+      "u": "https://jobs.womenforhire.com/job/switzerland/jenaz-gr/vip-guest-services-management-trainee-100-m-w-i-031269/",
       "posted": "2026-11-16T00:00:00.000Z"
     },
     {
@@ -242,17 +286,6 @@
       "cool": false,
       "why": "Growth/Marketing-Rolle in Schweiz — passt zu deinem Fokus.",
       "u": "https://www.jobijoba.ch/detailanzeige/93/fb804cf901fa6e6e33a4315b4daa9ec7",
-      "posted": "2026-11-15T00:00:00.000Z"
-    },
-    {
-      "t": "Trainee Category Manager (h/f/d) 80-100%",
-      "co": "bruederlinpartner Gruppe",
-      "loc": "Schweiz",
-      "gate": "g",
-      "lane": "konzern",
-      "cool": false,
-      "why": "Sales/Business-Development in Schweiz — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://jobs-schweiz.ch/job/trainee-category-manager-h-f-d-80-100-51133?source=verified_job",
       "posted": "2026-11-15T00:00:00.000Z"
     },
     {
@@ -300,39 +333,6 @@
       "posted": "2026-11-01T00:00:00.000Z"
     },
     {
-      "t": "Account Manager/Account Director",
-      "co": "Mavericx",
-      "loc": "Schweiz",
-      "gate": "r",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Schweiz — nutzt deine Kommunikationsstaerke.",
-      "u": "https://ch.talent.com/view?id=534436462847395814",
-      "posted": null
-    },
-    {
-      "t": "Account Executive, Large Enterprise Geneva",
-      "co": "Gartner Careers",
-      "loc": "Lancy",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Kundennaher Einstieg in Lancy — nutzt deine Kommunikationsstaerke.",
-      "u": "https://jobs.gartner.com/jobs/job/110744-account-executive-large-enterprise-geneva/",
-      "posted": null
-    },
-    {
-      "t": "Business Development Executive, Trust - Geneva",
-      "co": "AP Executive - Global Executive Search Agency",
-      "loc": "Genf",
-      "gate": "g",
-      "lane": "tech",
-      "cool": false,
-      "why": "Sales/Business-Development in Genf — skalierbarer Einstieg, dein Kernpfad.",
-      "u": "https://bebee.com/ch/jobs/business-development-executive-trust-geneva-ap-executive-global-executive-search-agency-genf--techmap_ch_4476311243",
-      "posted": null
-    },
-    {
       "t": "Sachbearbeiter / Sachbearbeiterin Administration im Tiefkühl-Bereich",
       "co": "Bell Schweiz AG",
       "loc": "Schweiz",
@@ -342,6 +342,28 @@
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
       "u": "https://jobs.stevenagefc.com/jobs/sachbearbeiter-sachbearbeiterin-administration-im-tiefkuhl-bereich-oensingen-solothurn/3087403858-2/",
       "posted": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "t": "HR Sachbearbeiter*in",
+      "co": "Aargauische Kantonalbank",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://ch.trabajo.org/stellenangebot-2253-30110942eab92b7427c8da5b06cb01a1",
+      "posted": "2026-11-20T00:00:00.000Z"
+    },
+    {
+      "t": "Sachbearbeiter/in Administration 60%",
+      "co": "Stadt Solothurn",
+      "loc": "Schweiz",
+      "gate": "g",
+      "lane": "studi",
+      "cool": false,
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.professional.ch/jobs/inserat/2916438-sachbearbeiter-in-administration-60",
+      "posted": "2026-11-19T00:00:00.000Z"
     },
     {
       "t": "Mitarbeiterin / Mitarbeiter Empfang / Telefonzentrale (w/m/d)",
@@ -355,14 +377,14 @@
       "posted": "2026-11-18T00:00:00.000Z"
     },
     {
-      "t": "Sachbearbeiter/in Administration -40%",
-      "co": "Kantonsspital Aarau AG",
+      "t": "Sachbearbeiter/in Administration",
+      "co": "Kantonsspital Aarau",
       "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
       "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
-      "u": "https://www.professional.ch/jobs/inserat/2914230-sachbearbeiter-in-administration-40",
+      "u": "https://jobs.jobiq.ch/offene-stellen/kantonsspital-aarau/sachbearbeiter-in-administration/6c45abae-133c-35d0-b2f7-12295298fed1",
       "posted": "2026-11-17T00:00:00.000Z"
     },
     {
@@ -399,15 +421,15 @@
       "posted": "2026-11-15T00:00:00.000Z"
     },
     {
-      "t": "Perfekter Studentenjob Olten  - Nebenjob 200€/Tag",
-      "co": "Corris AG",
-      "loc": "Olten",
+      "t": "Sachbearbeiter/in Beiträge und Zulagen min. 80 % (m/w)",
+      "co": "Ausgleichskasse der Aargauischen Industrie- und Handelskammer AIHK",
+      "loc": "Schweiz",
       "gate": "g",
       "lane": "studi",
       "cool": false,
-      "why": "Teilzeit/Aushilfe in Olten — neben dem Studium machbar.",
-      "u": "https://www.recrudo.com/jobs/perfekter-studentenjob-schweiz-nebenjob-200tag-63",
-      "posted": "2026-11-15T00:00:00.000Z"
+      "why": "Büro/Empfang in Schweiz — nutzt dein KV, sauber neben dem Studium.",
+      "u": "https://www.professional.ch/jobs/inserat/2900433-sachbearbeiter-in-beitrage-und-zulagen-min-80-m-w",
+      "posted": "2026-11-02T00:00:00.000Z"
     },
     {
       "t": "Sachbearbeiter Verkaufsinnendienst 80% - 100% (a)",
